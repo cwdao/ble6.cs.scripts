@@ -1,0 +1,1021 @@
+I: Ranging data ready 20
+I: Ranging data get completed for ranging counter 20
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 20.273464 meters (derived from 8 samples)
+I: - Phase-Based Ranging method: 2.447133 meters (derived from 149 samples)
+I: Subevent result callback 21
+I: Ranging data ready 21
+I: Ranging data get completed for ranging counter 21
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 19.136751 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.451446 meters (derived from 148 samples)
+I: Subevent result callback 22
+I: Ranging data ready 22
+I: Ranging data get completed for ranging counter 22
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 16.998232 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.448265 meters (derived from 147 samples)
+I: Subevent result callback 23
+I: Ranging data ready 23
+I: Ranging data get completed for ranging counter 23
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 19.436544 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.446664 meters (derived from 148 samples)
+I: Subevent result callback 24
+I: Ranging data ready 24
+I: Ranging data get completed for ranging counter 24
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 15.822379 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.381165 meters (derived from 148 samples)
+I: Subevent result callback 25
+I: Ranging data ready 25
+I: Ranging data get completed for ranging counter 25
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.970200 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.452601 meters (derived from 148 samples)
+I: Subevent result callback 26
+I: Ranging data ready 26
+I: Ranging data get completed for ranging counter 26
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.642786 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.355972 meters (derived from 147 samples)
+I: Subevent result callback 27
+I: Ranging data ready 27
+I: Ranging data get completed for ranging counter 27
+W: Step data appears malformed.
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 20.102749 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.456655 meters (derived from 148 samples)
+I: Subevent result callback 28
+I: Ranging data ready 28
+I: Ranging data get completed for ranging counter 28
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.337997 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.459725 meters (derived from 148 samples)
+I: Subevent result callback 29
+I: Ranging data ready 29
+I: Ranging data get completed for ranging counter 29
+W: Step data appears malformed.
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 19.366594 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.454669 meters (derived from 147 samples)
+I: Subevent result callback 30
+I: Ranging data ready 30
+I: Ranging data get completed for ranging counter 30
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 20.011145 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.460146 meters (derived from 147 samples)
+I: Subevent result callback 31
+I: Ranging data ready 31
+I: Ranging data get completed for ranging counter 31
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 16.614923 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.462475 meters (derived from 147 samples)
+I: Subevent result callback 32
+I: Ranging data ready 32
+I: Ranging data get completed for ranging counter 32
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.337996 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.449472 meters (derived from 148 samples)
+I: Subevent result callback 33
+I: Ranging data ready 33
+I: Ranging data get completed for ranging counter 33
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 19.236681 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.447436 meters (derived from 148 samples)
+I: Subevent result callback 34
+I: Ranging data ready 34
+I: Ranging data get completed for ranging counter 34
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 16.272068 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.367561 meters (derived from 148 samples)
+I: Subevent result callback 35
+I: Ranging data ready 35
+I: Ranging data get completed for ranging counter 35
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.632099 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.440871 meters (derived from 147 samples)
+I: Subevent result callback 36
+I: Ranging data ready 36
+I: Ranging data get completed for ranging counter 36
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 16.055552 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.474696 meters (derived from 148 samples)
+I: Subevent result callback 37
+I: Ranging data ready 37
+I: Ranging data get completed for ranging counter 37
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.725227 meters (derived from 8 samples)
+I: - Phase-Based Ranging method: 2.452566 meters (derived from 149 samples)
+I: Subevent result callback 38
+I: Ranging data ready 38
+I: Ranging data get completed for ranging counter 38
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.212391 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.449854 meters (derived from 147 samples)
+I: Subevent result callback 39
+I: Ranging data ready 39
+I: Ranging data get completed for ranging counter 39
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.254028 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.458822 meters (derived from 148 samples)
+I: Subevent result callback 40
+I: Ranging data ready 40
+I: Ranging data get completed for ranging counter 40
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 19.469852 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.460497 meters (derived from 148 samples)
+I: Subevent result callback 41
+I: Ranging data ready 41
+I: Ranging data get completed for ranging counter 41
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 19.846258 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.461770 meters (derived from 147 samples)
+I: Subevent result callback 42
+I: Ranging data ready 42
+I: Ranging data get completed for ranging counter 42
+W: Step data appears malformed.
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 19.021830 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.467352 meters (derived from 147 samples)
+I: Subevent result callback 43
+I: Ranging data ready 43
+I: Ranging data get completed for ranging counter 43
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.822660 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.460006 meters (derived from 147 samples)
+I: Subevent result callback 44
+I: Ranging data ready 44
+I: Ranging data get completed for ranging counter 44
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.320648 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.450806 meters (derived from 148 samples)
+I: Subevent result callback 45
+I: Ranging data ready 45
+I: Ranging data get completed for ranging counter 45
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.017525 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.364959 meters (derived from 147 samples)
+I: Subevent result callback 46
+I: Ranging data ready 46
+I: Ranging data get completed for ranging counter 46
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.137442 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.375402 meters (derived from 148 samples)
+I: Subevent result callback 47
+I: Ranging data ready 47
+I: Ranging data get completed for ranging counter 47
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 20.435850 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.360963 meters (derived from 148 samples)
+I: Subevent result callback 48
+I: Ranging data ready 48
+I: Ranging data get completed for ranging counter 48
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.254028 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.468418 meters (derived from 147 samples)
+I: Subevent result callback 49
+I: Ranging data ready 49
+I: Ranging data get completed for ranging counter 49
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.332308 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.455658 meters (derived from 147 samples)
+I: Subevent result callback 50
+I: Ranging data ready 50
+I: Ranging data get completed for ranging counter 50
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 21.041679 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.396559 meters (derived from 148 samples)
+I: Subevent result callback 51
+I: Ranging data ready 51
+I: Ranging data get completed for ranging counter 51
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.403927 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.459765 meters (derived from 148 samples)
+I: Subevent result callback 52
+I: Ranging data ready 52
+I: Ranging data get completed for ranging counter 52
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.859165 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.454530 meters (derived from 148 samples)
+I: Subevent result callback 53
+I: Ranging data ready 53
+I: Ranging data get completed for ranging counter 53
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 15.938965 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.461583 meters (derived from 148 samples)
+I: Subevent result callback 54
+I: Ranging data ready 54
+I: Ranging data get completed for ranging counter 54
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.870268 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.462457 meters (derived from 148 samples)
+I: Subevent result callback 55
+I: Ranging data ready 55
+I: Ranging data get completed for ranging counter 55
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.811975 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.420363 meters (derived from 147 samples)
+I: Subevent result callback 56
+I: Ranging data ready 56
+I: Ranging data get completed for ranging counter 56
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 16.055552 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.456619 meters (derived from 148 samples)
+I: Subevent result callback 57
+I: Ranging data ready 57
+I: Ranging data get completed for ranging counter 57
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.920925 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.459605 meters (derived from 148 samples)
+I: Subevent result callback 58
+I: Ranging data ready 58
+I: Ranging data get completed for ranging counter 58
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.407257 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.460515 meters (derived from 147 samples)
+I: Subevent result callback 59
+I: Ranging data ready 59
+I: Ranging data get completed for ranging counter 59
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.617802 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.459016 meters (derived from 148 samples)
+I: Subevent result callback 60
+I: Ranging data ready 60
+I: Ranging data get completed for ranging counter 60
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 16.368668 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.467574 meters (derived from 147 samples)
+I: Subevent result callback 61
+I: Ranging data ready 61
+I: Ranging data get completed for ranging counter 61
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 19.673880 meters (derived from 8 samples)
+I: - Phase-Based Ranging method: 2.465962 meters (derived from 149 samples)
+I: Subevent result callback 62
+I: Ranging data ready 62
+I: Ranging data get completed for ranging counter 62
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 16.938274 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.363683 meters (derived from 147 samples)
+I: Subevent result callback 63
+I: Ranging data ready 63
+I: Ranging data get completed for ranging counter 63
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 13.895379 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 1.755264 meters (derived from 147 samples)
+I: Subevent result callback 64
+I: Ranging data ready 64
+I: Ranging data get completed for ranging counter 64
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.822660 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.046081 meters (derived from 147 samples)
+I: Subevent result callback 65
+I: Ranging data ready 65
+I: Ranging data get completed for ranging counter 65
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 19.586441 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 3.513781 meters (derived from 148 samples)
+I: Subevent result callback 66
+I: Ranging data ready 66
+I: Ranging data get completed for ranging counter 66
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 23.863478 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 8.088296 meters (derived from 147 samples)
+I: Subevent result callback 67
+I: Ranging data ready 67
+I: Ranging data get completed for ranging counter 67
+W: Step data appears malformed.
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 19.686369 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 4.526028 meters (derived from 148 samples)
+I: Subevent result callback 68
+I: Ranging data ready 68
+I: Ranging data get completed for ranging counter 68
+W: Step data appears malformed.
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 20.735643 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 5.395955 meters (derived from 148 samples)
+I: Subevent result callback 69
+I: Ranging data ready 69
+I: Ranging data get completed for ranging counter 69
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 22.534397 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 5.372543 meters (derived from 148 samples)
+I: Subevent result callback 70
+I: Ranging data ready 70
+I: Ranging data get completed for ranging counter 70
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 23.698591 meters (derived from 11 samples)
+I: - Phase-Based Ranging method: 5.455794 meters (derived from 146 samples)
+I: Subevent result callback 71
+I: Ranging data ready 71
+I: Ranging data get completed for ranging counter 71
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 28.510263 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 3.839029 meters (derived from 147 samples)
+I: Subevent result callback 72
+I: Ranging data ready 72
+I: Ranging data get completed for ranging counter 72
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.477900 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 1.930509 meters (derived from 147 samples)
+I: Subevent result callback 73
+I: Ranging data ready 73
+I: Ranging data get completed for ranging counter 73
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 16.538549 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.290270 meters (derived from 148 samples)
+I: Subevent result callback 74
+I: Ranging data ready 74
+I: Ranging data get completed for ranging counter 74
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 19.994488 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.994903 meters (derived from 148 samples)
+I: Subevent result callback 75
+I: Ranging data ready 75
+I: Ranging data get completed for ranging counter 75
+W: Step data appears malformed.
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.836960 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.749528 meters (derived from 148 samples)
+I: Subevent result callback 76
+I: Ranging data ready 76
+I: Ranging data get completed for ranging counter 76
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 19.958681 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.705015 meters (derived from 147 samples)
+I: Subevent result callback 77
+I: Ranging data ready 77
+I: Ranging data get completed for ranging counter 77
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.717733 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.224451 meters (derived from 147 samples)
+I: Subevent result callback 78
+I: Ranging data ready 78
+I: Ranging data get completed for ranging counter 78
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.854305 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.065162 meters (derived from 148 samples)
+I: Subevent result callback 79
+I: Ranging data ready 79
+I: Ranging data get completed for ranging counter 79
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 19.471518 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.127746 meters (derived from 147 samples)
+I: Subevent result callback 80
+I: Ranging data ready 80
+I: Ranging data get completed for ranging counter 80
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 21.060419 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 4.977256 meters (derived from 147 samples)
+I: Subevent result callback 81
+I: Ranging data ready 81
+I: Ranging data get completed for ranging counter 81
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 16.863325 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.725550 meters (derived from 147 samples)
+I: Subevent result callback 82
+I: Ranging data ready 82
+I: Ranging data get completed for ranging counter 82
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.837648 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.157093 meters (derived from 147 samples)
+I: Subevent result callback 83
+I: Ranging data ready 83
+I: Ranging data get completed for ranging counter 83
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.070822 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.386658 meters (derived from 148 samples)
+I: Subevent result callback 84
+I: Ranging data ready 84
+I: Ranging data get completed for ranging counter 84
+W: Step data appears malformed.
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 15.829041 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 0.679704 meters (derived from 147 samples)
+I: Subevent result callback 85
+I: Ranging data ready 85
+I: Ranging data get completed for ranging counter 85
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 16.098854 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 0.911585 meters (derived from 147 samples)
+I: Subevent result callback 86
+I: Ranging data ready 86
+I: Ranging data get completed for ranging counter 86
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 15.504267 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 1.003664 meters (derived from 147 samples)
+I: Subevent result callback 87
+I: Ranging data ready 87
+I: Ranging data get completed for ranging counter 87
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 16.871653 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 0.603076 meters (derived from 148 samples)
+I: Subevent result callback 88
+I: Ranging data ready 88
+I: Ranging data get completed for ranging counter 88
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 20.941055 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 5.634867 meters (derived from 148 samples)
+I: Subevent result callback 89
+I: Ranging data ready 89
+I: Ranging data get completed for ranging counter 89
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.256409 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 1.117085 meters (derived from 148 samples)
+I: Subevent result callback 90
+I: Ranging data ready 90
+I: Ranging data get completed for ranging counter 90
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 19.051811 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 1.454562 meters (derived from 147 samples)
+I: Subevent result callback 91
+I: Ranging data ready 91
+I: Ranging data get completed for ranging counter 91
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.332308 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 0.760409 meters (derived from 147 samples)
+I: Subevent result callback 92
+I: Ranging data ready 92
+I: Ranging data get completed for ranging counter 92
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 16.745550 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 0.945241 meters (derived from 148 samples)
+I: Subevent result callback 93
+I: Ranging data ready 93
+I: Ranging data get completed for ranging counter 93
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 16.555204 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.131188 meters (derived from 148 samples)
+I: Subevent result callback 94
+I: Ranging data ready 94
+I: Ranging data get completed for ranging counter 94
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.152433 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 1.696941 meters (derived from 147 samples)
+I: Subevent result callback 95
+I: Ranging data ready 95
+I: Ranging data get completed for ranging counter 95
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.088169 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 1.361569 meters (derived from 148 samples)
+I: Subevent result callback 96
+I: Ranging data ready 96
+I: Ranging data get completed for ranging counter 96
+W: Step data appears malformed.
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 16.923283 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 1.117195 meters (derived from 147 samples)
+I: Subevent result callback 97
+I: Ranging data ready 97
+I: Ranging data get completed for ranging counter 97
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.744986 meters (derived from 11 samples)
+I: - Phase-Based Ranging method: 2.304427 meters (derived from 146 samples)
+I: Subevent result callback 98
+I: Ranging data ready 98
+I: Ranging data get completed for ranging counter 98
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.521202 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.413441 meters (derived from 148 samples)
+I: Subevent result callback 99
+I: Ranging data ready 99
+I: Ranging data get completed for ranging counter 99
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.487892 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.346780 meters (derived from 148 samples)
+I: Subevent result callback 100
+I: Ranging data ready 100
+I: Ranging data get completed for ranging counter 100
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.287338 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.309807 meters (derived from 148 samples)
+I: Subevent result callback 101
+I: Ranging data ready 101
+I: Ranging data get completed for ranging counter 101
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.632236 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.246314 meters (derived from 148 samples)
+I: Subevent result callback 102
+I: Ranging data ready 102
+I: Ranging data get completed for ranging counter 102
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.554514 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.366488 meters (derived from 148 samples)
+I: Subevent result callback 103
+I: Ranging data ready 103
+I: Ranging data get completed for ranging counter 103
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.014801 meters (derived from 11 samples)
+I: - Phase-Based Ranging method: 2.287734 meters (derived from 146 samples)
+I: Subevent result callback 104
+I: Ranging data ready 104
+I: Ranging data get completed for ranging counter 104
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 19.501499 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.646776 meters (derived from 147 samples)
+I: Subevent result callback 105
+I: Ranging data ready 105
+I: Ranging data get completed for ranging counter 105
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.343548 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.620237 meters (derived from 148 samples)
+I: Subevent result callback 106
+I: Ranging data ready 106
+I: Ranging data get completed for ranging counter 106
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.521202 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.438994 meters (derived from 148 samples)
+I: Subevent result callback 107
+I: Ranging data ready 107
+I: Ranging data get completed for ranging counter 107
+W: Step data appears malformed.
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.069307 meters (derived from 11 samples)
+I: - Phase-Based Ranging method: 2.153465 meters (derived from 146 samples)
+I: Subevent result callback 108
+I: Ranging data ready 108
+I: Ranging data get completed for ranging counter 108
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.537857 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.273321 meters (derived from 147 samples)
+I: Subevent result callback 109
+I: Ranging data ready 109
+I: Ranging data get completed for ranging counter 109
+W: Step data appears malformed.
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.837650 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.206425 meters (derived from 147 samples)
+I: Subevent result callback 110
+I: Ranging data ready 110
+I: Ranging data get completed for ranging counter 110
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 19.336613 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.315702 meters (derived from 147 samples)
+I: Subevent result callback 111
+I: Ranging data ready 111
+I: Ranging data get completed for ranging counter 111
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.717733 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.391905 meters (derived from 148 samples)
+I: Subevent result callback 112
+I: Ranging data ready 112
+I: Ranging data get completed for ranging counter 112
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 19.503164 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.005101 meters (derived from 148 samples)
+I: Subevent result callback 113
+I: Ranging data ready 113
+I: Ranging data get completed for ranging counter 113
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.560343 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.051075 meters (derived from 147 samples)
+I: Subevent result callback 114
+I: Ranging data ready 114
+I: Ranging data get completed for ranging counter 114
+W: Step data appears malformed.
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.462912 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 1.956014 meters (derived from 147 samples)
+I: Subevent result callback 115
+I: Ranging data ready 115
+I: Ranging data get completed for ranging counter 115
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 16.518562 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.170568 meters (derived from 147 samples)
+I: Subevent result callback 116
+I: Ranging data ready 116
+I: Ranging data get completed for ranging counter 116
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.044508 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.302559 meters (derived from 147 samples)
+I: Subevent result callback 117
+I: Ranging data ready 117
+I: Ranging data get completed for ranging counter 117
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.419189 meters (derived from 8 samples)
+I: - Phase-Based Ranging method: 2.024820 meters (derived from 149 samples)
+I: Subevent result callback 118
+I: Ranging data ready 118
+I: Ranging data get completed for ranging counter 118
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.270683 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.108042 meters (derived from 148 samples)
+I: Subevent result callback 119
+I: Ranging data ready 119
+I: Ranging data get completed for ranging counter 119
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.654444 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 3.553415 meters (derived from 148 samples)
+I: Subevent result callback 120
+I: Ranging data ready 120
+I: Ranging data get completed for ranging counter 120
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 14.773106 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 1.910847 meters (derived from 148 samples)
+I: Subevent result callback 121
+I: Ranging data ready 121
+I: Ranging data get completed for ranging counter 121
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 15.547570 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 1.697376 meters (derived from 148 samples)
+I: Subevent result callback 122
+I: Ranging data ready 122
+I: Ranging data get completed for ranging counter 122
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 16.854998 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.169191 meters (derived from 148 samples)
+I: Subevent result callback 123
+I: Ranging data ready 123
+I: Ranging data get completed for ranging counter 123
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.792681 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.116858 meters (derived from 147 samples)
+I: Subevent result callback 124
+I: Ranging data ready 124
+I: Ranging data get completed for ranging counter 124
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.654444 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.257159 meters (derived from 148 samples)
+I: Subevent result callback 125
+I: Ranging data ready 125
+I: Ranging data get completed for ranging counter 125
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.152431 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 1.919652 meters (derived from 147 samples)
+I: Subevent result callback 126
+W: Subevent aborted
+I: Subevent result callback 127
+I: Ranging data ready 127
+I: Ranging data get completed for ranging counter 127
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 21.540087 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 6.219495 meters (derived from 147 samples)
+I: Subevent result callback 128
+I: Ranging data ready 128
+I: Ranging data get completed for ranging counter 128
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.290411 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 1.651292 meters (derived from 148 samples)
+I: Subevent result callback 129
+I: Ranging data ready 129
+I: Ranging data get completed for ranging counter 129
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.038202 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 1.534500 meters (derived from 148 samples)
+I: Subevent result callback 130
+I: Ranging data ready 130
+I: Ranging data get completed for ranging counter 130
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 16.323698 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 1.515698 meters (derived from 147 samples)
+I: Subevent result callback 131
+I: Ranging data ready 131
+I: Ranging data get completed for ranging counter 131
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 20.235991 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 1.571932 meters (derived from 148 samples)
+I: Subevent result callback 132
+I: Ranging data ready 132
+I: Ranging data get completed for ranging counter 132
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 20.385885 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.882637 meters (derived from 147 samples)
+I: Subevent result callback 133
+I: Ranging data ready 133
+I: Ranging data get completed for ranging counter 133
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.774502 meters (derived from 8 samples)
+I: - Phase-Based Ranging method: 1.242259 meters (derived from 149 samples)
+I: Subevent result callback 134
+I: Ranging data ready 134
+I: Ranging data get completed for ranging counter 134
+W: Step data appears malformed.
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 16.968252 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.732529 meters (derived from 147 samples)
+I: Subevent result callback 135
+I: Ranging data ready 135
+I: Ranging data get completed for ranging counter 135
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.820303 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.749707 meters (derived from 148 samples)
+I: Subevent result callback 136
+I: Ranging data ready 136
+I: Ranging data get completed for ranging counter 136
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.362288 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 1.322062 meters (derived from 147 samples)
+I: Subevent result callback 137
+I: Ranging data ready 137
+I: Ranging data get completed for ranging counter 137
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 19.486509 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 1.978199 meters (derived from 147 samples)
+I: Subevent result callback 138
+I: Ranging data ready 138
+I: Ranging data get completed for ranging counter 138
+W: Step data appears malformed.
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 16.353678 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.066473 meters (derived from 147 samples)
+I: Subevent result callback 139
+I: Ranging data ready 139
+I: Ranging data get completed for ranging counter 139
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.268044 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.055848 meters (derived from 147 samples)
+I: Subevent result callback 140
+I: Ranging data ready 140
+I: Ranging data get completed for ranging counter 140
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 16.938272 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.147954 meters (derived from 147 samples)
+I: Subevent result callback 141
+I: Ranging data ready 141
+I: Ranging data get completed for ranging counter 141
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 16.222101 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.063397 meters (derived from 148 samples)
+I: Subevent result callback 142
+I: Ranging data ready 142
+I: Ranging data get completed for ranging counter 142
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.377275 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.199635 meters (derived from 147 samples)
+I: Subevent result callback 143
+I: Ranging data ready 143
+I: Ranging data get completed for ranging counter 143
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.770338 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.209415 meters (derived from 148 samples)
+I: Subevent result callback 144
+I: Ranging data ready 144
+I: Ranging data get completed for ranging counter 144
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.762703 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.229487 meters (derived from 147 samples)
+I: Subevent result callback 145
+I: Ranging data ready 145
+I: Ranging data get completed for ranging counter 145
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.271376 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.200180 meters (derived from 148 samples)
+I: Subevent result callback 146
+I: Ranging data ready 146
+I: Ranging data get completed for ranging counter 146
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.471237 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.219937 meters (derived from 148 samples)
+I: Subevent result callback 147
+I: Ranging data ready 147
+I: Ranging data get completed for ranging counter 147
+W: Step data appears malformed.
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 19.436544 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.230551 meters (derived from 148 samples)
+I: Subevent result callback 148
+I: Ranging data ready 148
+I: Ranging data get completed for ranging counter 148
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.369225 meters (derived from 8 samples)
+I: - Phase-Based Ranging method: 2.181059 meters (derived from 149 samples)
+I: Subevent result callback 149
+I: Ranging data ready 149
+I: Ranging data get completed for ranging counter 149
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.912598 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.213534 meters (derived from 147 samples)
+I: Subevent result callback 150
+I: Ranging data ready 150
+I: Ranging data get completed for ranging counter 150
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.570477 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.226901 meters (derived from 148 samples)
+I: Subevent result callback 151
+I: Ranging data ready 151
+I: Ranging data get completed for ranging counter 151
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 16.854998 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.172712 meters (derived from 148 samples)
+I: Subevent result callback 152
+I: Ranging data ready 152
+I: Ranging data get completed for ranging counter 152
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.753683 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.167132 meters (derived from 148 samples)
+I: Subevent result callback 153
+I: Ranging data ready 153
+I: Ranging data get completed for ranging counter 153
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.845976 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.161601 meters (derived from 148 samples)
+I: Subevent result callback 154
+I: Ranging data ready 154
+I: Ranging data get completed for ranging counter 154
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.482204 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.188472 meters (derived from 147 samples)
+I: Subevent result callback 155
+I: Ranging data ready 155
+I: Ranging data get completed for ranging counter 155
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 16.488585 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.136038 meters (derived from 147 samples)
+I: Subevent result callback 156
+I: Ranging data ready 156
+I: Ranging data get completed for ranging counter 156
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.830711 meters (derived from 8 samples)
+I: - Phase-Based Ranging method: 2.133310 meters (derived from 149 samples)
+I: Subevent result callback 157
+I: Ranging data ready 157
+I: Ranging data get completed for ranging counter 157
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 16.621824 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.145729 meters (derived from 148 samples)
+I: Subevent result callback 158
+I: Ranging data ready 158
+I: Ranging data get completed for ranging counter 158
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 19.336613 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.176270 meters (derived from 148 samples)
+I: Subevent result callback 159
+I: Ranging data ready 159
+I: Ranging data get completed for ranging counter 159
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 16.255411 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.158659 meters (derived from 148 samples)
+I: Subevent result callback 160
+I: Ranging data ready 160
+I: Ranging data get completed for ranging counter 160
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 16.938272 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.098454 meters (derived from 148 samples)
+I: Subevent result callback 161
+I: Ranging data ready 161
+I: Ranging data get completed for ranging counter 161
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 19.036819 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.099458 meters (derived from 148 samples)
+I: Subevent result callback 162
+I: Ranging data ready 162
+I: Ranging data get completed for ranging counter 162
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.647091 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.103894 meters (derived from 147 samples)
+I: Subevent result callback 163
+I: Ranging data ready 163
+I: Ranging data get completed for ranging counter 163
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.313013 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.090972 meters (derived from 147 samples)
+I: Subevent result callback 164
+I: Ranging data ready 164
+I: Ranging data get completed for ranging counter 164
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.747713 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.090471 meters (derived from 147 samples)
+I: Subevent result callback 165
+I: Ranging data ready 165
+I: Ranging data get completed for ranging counter 165
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 20.036129 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.063191 meters (derived from 148 samples)
+I: Subevent result callback 166
+I: Ranging data ready 166
+I: Ranging data get completed for ranging counter 166
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 16.518564 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.011659 meters (derived from 147 samples)
+I: Subevent result callback 167
+I: Ranging data ready 167
+I: Ranging data get completed for ranging counter 167
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.812670 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.048155 meters (derived from 148 samples)
+I: Subevent result callback 168
+I: Ranging data ready 168
+I: Ranging data get completed for ranging counter 168
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.687754 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.057583 meters (derived from 147 samples)
+I: Subevent result callback 169
+I: Ranging data ready 169
+I: Ranging data get completed for ranging counter 169
+W: Step data appears malformed.
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.071514 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.110744 meters (derived from 148 samples)
+I: Subevent result callback 170
+I: Ranging data ready 170
+I: Ranging data get completed for ranging counter 170
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 19.220028 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.807118 meters (derived from 148 samples)
+I: Subevent result callback 171
+I: Ranging data ready 171
+I: Ranging data get completed for ranging counter 171
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 21.751608 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.940851 meters (derived from 148 samples)
+I: Subevent result callback 172
+I: Ranging data ready 172
+I: Ranging data get completed for ranging counter 172
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 20.370895 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 3.037416 meters (derived from 147 samples)
+I: Subevent result callback 173
+I: Ranging data ready 173
+I: Ranging data get completed for ranging counter 173
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.737028 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 3.002056 meters (derived from 148 samples)
+I: Subevent result callback 174
+I: Ranging data ready 174
+I: Ranging data get completed for ranging counter 174
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 20.898029 meters (derived from 8 samples)
+I: - Phase-Based Ranging method: 2.998822 meters (derived from 149 samples)
+I: Subevent result callback 175
+I: Ranging data ready 175
+I: Ranging data get completed for ranging counter 175
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 19.703026 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.947515 meters (derived from 148 samples)
+I: Subevent result callback 176
+I: Ranging data ready 176
+I: Ranging data get completed for ranging counter 176
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.787685 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.954133 meters (derived from 148 samples)
+I: Subevent result callback 177
+I: Ranging data ready 177
+I: Ranging data get completed for ranging counter 177
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.522867 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.920145 meters (derived from 147 samples)
+I: Subevent result callback 178
+I: Ranging data ready 178
+I: Ranging data get completed for ranging counter 178
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.542162 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.955589 meters (derived from 147 samples)
+I: Subevent result callback 179
+I: Ranging data ready 179
+I: Ranging data get completed for ranging counter 179
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.803648 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.938292 meters (derived from 148 samples)
+I: Subevent result callback 180
+I: Ranging data ready 180
+I: Ranging data get completed for ranging counter 180
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.251648 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.951334 meters (derived from 148 samples)
+I: Subevent result callback 181
+I: Ranging data ready 181
+I: Ranging data get completed for ranging counter 181
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.062494 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.595023 meters (derived from 147 samples)
+I: Subevent result callback 182
+I: Ranging data ready 182
+I: Ranging data get completed for ranging counter 182
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.554514 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.658537 meters (derived from 148 samples)
+I: Subevent result callback 183
+I: Ranging data ready 183
+I: Ranging data get completed for ranging counter 183
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 16.072206 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.568951 meters (derived from 148 samples)
+I: Subevent result callback 184
+I: Ranging data ready 184
+I: Ranging data get completed for ranging counter 184
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 18.287338 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 2.731727 meters (derived from 148 samples)
+I: Subevent result callback 185
+I: Ranging data ready 185
+I: Ranging data get completed for ranging counter 185
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 21.251951 meters (derived from 9 samples)
+I: - Phase-Based Ranging method: 3.015140 meters (derived from 148 samples)
+I: Subevent result callback 186
+I: Ranging data ready 186
+I: Ranging data get completed for ranging counter 186
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 19.467772 meters (derived from 8 samples)
+I: - Phase-Based Ranging method: 2.953194 meters (derived from 149 samples)
+I: Subevent result callback 187
+I: Ranging data ready 187
+I: Ranging data get completed for ranging counter 187
+I: Estimated distance to reflector:
+I: - Round-Trip Timing method: 17.547850 meters (derived from 10 samples)
+I: - Phase-Based Ranging method: 2.636370 meters (derived from 147 samples)
+I: Subevent result callback 188
+W: Subevent aborted
+I: Disconnected (reason 0x08)
