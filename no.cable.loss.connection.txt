@@ -1,0 +1,505 @@
+I: The discovery procedure succeeded
+I: CS capability exchange completed.
+I: CS config creation complete. ID: 0
+I: CS security enabled.
+I: CS procedures enabled.
+I: Subevent result callback 0
+I: Ranging data ready 0
+I: Subevent result callback 1
+W: New procedure data received whilst estimating previous distance, drop this procedure.
+I: Ranging data get completed for ranging counter 0
+I: Unwrapped Data -> Channel : Theta
+I: ch[2] : 1.241279 radians
+I: ch[5] : 0.461752 radians
+I: ch[8] : 1.141817 radians
+I: ch[11] : 1.314858 radians
+I: ch[14] : 1.736113 radians
+I: ch[17] : 0.521631 radians
+I: ch[20] : 0.326485 radians
+I: ch[26] : -0.516006 radians
+I: ch[29] : -1.123083 radians
+I: ch[32] : -0.637311 radians
+I: ch[35] : -0.967576 radians
+I: ch[38] : -1.639111 radians
+I: ch[41] : -1.278685 radians
+I: ch[44] : -2.647310 radians
+I: ch[47] : -2.447371 radians
+I: ch[50] : -3.838598 radians
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 2.290335 meters (derived from 16 samples)
+I: Subevent result callback 2
+I: Ranging data ready 2
+I: Subevent result callback 3
+W: New procedure data received whilst estimating previous distance, drop this procedure.
+I: Ranging data get completed for ranging counter 2
+I: Unwrapped Data -> Channel : Theta
+I: ch[2] : 0.957503 radians
+I: ch[5] : 0.472998 radians
+I: ch[8] : -0.153276 radians
+I: ch[11] : 0.261116 radians
+I: ch[14] : 0.640106 radians
+I: ch[17] : 0.219370 radians
+I: ch[20] : 0.074559 radians
+I: ch[26] : -0.858663 radians
+I: ch[29] : -1.395753 radians
+I: ch[32] : -1.804281 radians
+I: ch[35] : -2.006688 radians
+I: ch[38] : -2.044786 radians
+I: ch[41] : -2.415182 radians
+I: ch[44] : -2.911250 radians
+I: ch[47] : -2.660510 radians
+I: ch[50] : -4.170060 radians
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 2.234462 meters (derived from 16 samples)
+I: Subevent result callback 4
+I: Ranging data ready 4
+I: Subevent result callback 5
+W: New procedure data received whilst estimating previous distance, drop this procedure.
+I: Ranging data get completed for ranging counter 4
+I: Unwrapped Data -> Channel : Theta
+I: ch[2] : 0.973962 radians
+I: ch[5] : 0.324256 radians
+I: ch[8] : 0.083597 radians
+I: ch[11] : 1.086781 radians
+I: ch[14] : 0.544774 radians
+I: ch[17] : 0.309793 radians
+I: ch[20] : 0.064150 radians
+I: ch[26] : -0.844639 radians
+I: ch[29] : -0.519848 radians
+I: ch[32] : -1.747843 radians
+I: ch[35] : -1.939247 radians
+I: ch[38] : -2.022103 radians
+I: ch[41] : -1.471922 radians
+I: ch[44] : -2.784786 radians
+I: ch[47] : -3.548451 radians
+I: ch[50] : -4.112590 radians
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 2.305691 meters (derived from 16 samples)
+I: Subevent result callback 6
+I: Ranging data ready 6
+I: Subevent result callback 7
+W: New procedure data received whilst estimating previous distance, drop this procedure.
+I: Ranging data get completed for ranging counter 6
+I: Unwrapped Data -> Channel : Theta
+I: ch[2] : 1.099099 radians
+I: ch[5] : 1.383081 radians
+I: ch[8] : 0.829149 radians
+I: ch[11] : 0.276274 radians
+I: ch[14] : 1.475714 radians
+I: ch[17] : 0.240534 radians
+I: ch[20] : 0.133975 radians
+I: ch[26] : -0.887751 radians
+I: ch[29] : -0.565854 radians
+I: ch[32] : -1.735898 radians
+I: ch[35] : -1.096910 radians
+I: ch[38] : -1.230170 radians
+I: ch[41] : -2.372043 radians
+I: ch[44] : -2.900755 radians
+I: ch[47] : -2.730039 radians
+I: ch[50] : -4.112651 radians
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 2.432668 meters (derived from 16 samples)
+I: Subevent result callback 8
+I: Ranging data ready 8
+I: Subevent result callback 9
+W: New procedure data received whilst estimating previous distance, drop this procedure.
+I: Ranging data get completed for ranging counter 8
+I: Unwrapped Data -> Channel : Theta
+I: ch[2] : 1.044192 radians
+I: ch[5] : 1.300326 radians
+I: ch[8] : 0.021836 radians
+I: ch[11] : 1.139986 radians
+I: ch[14] : 0.557925 radians
+I: ch[17] : 1.073031 radians
+I: ch[20] : 0.105523 radians
+I: ch[26] : -0.796649 radians
+I: ch[29] : -1.324097 radians
+I: ch[32] : -1.761233 radians
+I: ch[35] : -1.878190 radians
+I: ch[38] : -1.988331 radians
+I: ch[41] : -2.353292 radians
+I: ch[44] : -2.043091 radians
+I: ch[47] : -2.548063 radians
+I: ch[50] : -3.280701 radians
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 2.241322 meters (derived from 16 samples)
+I: Subevent result callback 10
+I: Ranging data ready 10
+I: Subevent result callback 11
+W: New procedure data received whilst estimating previous distance, drop this procedure.
+I: Ranging data get completed for ranging counter 10
+I: Unwrapped Data -> Channel : Theta
+I: ch[2] : 1.934067 radians
+I: ch[5] : 0.564442 radians
+I: ch[8] : 0.183711 radians
+I: ch[11] : 0.329202 radians
+I: ch[14] : 1.509395 radians
+I: ch[17] : 1.163227 radians
+I: ch[20] : 1.036198 radians
+I: ch[26] : -0.237082 radians
+I: ch[29] : -0.446982 radians
+I: ch[32] : -0.879854 radians
+I: ch[35] : -0.938368 radians
+I: ch[38] : -1.033545 radians
+I: ch[41] : -1.287891 radians
+I: ch[44] : -1.896910 radians
+I: ch[47] : -2.554796 radians
+I: ch[50] : -3.110698 radians
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 2.015987 meters (derived from 16 samples)
+I: Subevent result callback 12
+I: Ranging data ready 12
+I: Subevent result callback 13
+W: New procedure data received whilst estimating previous distance, drop this procedure.
+I: Ranging data get completed for ranging counter 12
+I: Unwrapped Data -> Channel : Theta
+I: ch[2] : 1.009520 radians
+I: ch[5] : 0.404678 radians
+I: ch[8] : 0.890275 radians
+I: ch[11] : 0.249690 radians
+I: ch[14] : 0.613543 radians
+I: ch[17] : 1.093858 radians
+I: ch[20] : 0.163284 radians
+I: ch[26] : -0.862693 radians
+I: ch[29] : -0.458966 radians
+I: ch[32] : -1.711281 radians
+I: ch[35] : -1.908366 radians
+I: ch[38] : -2.080941 radians
+I: ch[41] : -2.371856 radians
+I: ch[44] : -2.952181 radians
+I: ch[47] : -3.448717 radians
+I: ch[50] : -3.233984 radians
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 2.348210 meters (derived from 16 samples)
+I: Subevent result callback 14
+I: Ranging data ready 14
+I: Subevent result callback 15
+W: New procedure data received whilst estimating previous distance, drop this procedure.
+I: Ranging data get completed for ranging counter 14
+I: Unwrapped Data -> Channel : Theta
+I: ch[2] : 1.015650 radians
+I: ch[5] : 1.293035 radians
+I: ch[8] : -0.061041 radians
+I: ch[11] : 0.210572 radians
+I: ch[14] : 1.413184 radians
+I: ch[17] : 0.328570 radians
+I: ch[20] : -0.004117 radians
+I: ch[26] : -0.794840 radians
+I: ch[29] : -1.415721 radians
+I: ch[32] : -0.945837 radians
+I: ch[35] : -1.968954 radians
+I: ch[38] : -2.076151 radians
+I: ch[41] : -2.478093 radians
+I: ch[44] : -1.994597 radians
+I: ch[47] : -3.542217 radians
+I: ch[50] : -4.187041 radians
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 2.417531 meters (derived from 16 samples)
+I: Subevent result callback 16
+I: Ranging data ready 16
+I: Subevent result callback 17
+W: New procedure data received whilst estimating previous distance, drop this procedure.
+I: Ranging data get completed for ranging counter 16
+I: Unwrapped Data -> Channel : Theta
+I: ch[2] : 0.937994 radians
+I: ch[5] : 0.385855 radians
+I: ch[8] : 0.046061 radians
+I: ch[11] : 1.051699 radians
+I: ch[14] : 0.578223 radians
+I: ch[17] : 0.211613 radians
+I: ch[20] : 0.884567 radians
+I: ch[26] : -0.081151 radians
+I: ch[29] : -1.403994 radians
+I: ch[32] : -0.929865 radians
+I: ch[35] : -1.115565 radians
+I: ch[38] : -1.999513 radians
+I: ch[41] : -1.496199 radians
+I: ch[44] : -2.991811 radians
+I: ch[47] : -3.499922 radians
+I: ch[50] : -3.289859 radians
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 2.159762 meters (derived from 16 samples)
+I: Subevent result callback 18
+I: Ranging data ready 18
+I: Subevent result callback 19
+W: New procedure data received whilst estimating previous distance, drop this procedure.
+I: Ranging data get completed for ranging counter 18
+I: Unwrapped Data -> Channel : Theta
+I: ch[2] : 0.953697 radians
+I: ch[5] : 1.269291 radians
+I: ch[8] : -0.044822 radians
+I: ch[11] : 0.342018 radians
+I: ch[14] : 0.687403 radians
+I: ch[17] : 0.394588 radians
+I: ch[20] : 0.857704 radians
+I: ch[26] : -0.881670 radians
+I: ch[29] : -0.599620 radians
+I: ch[32] : -1.755306 radians
+I: ch[35] : -1.915518 radians
+I: ch[38] : -1.202846 radians
+I: ch[41] : -1.504794 radians
+I: ch[44] : -2.911454 radians
+I: ch[47] : -3.464900 radians
+I: ch[50] : -3.213042 radians
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 2.196723 meters (derived from 16 samples)
+I: Subevent result callback 20
+I: Ranging data ready 20
+I: Subevent result callback 21
+W: New procedure data received whilst estimating previous distance, drop this procedure.
+I: Ranging data get completed for ranging counter 20
+I: Unwrapped Data -> Channel : Theta
+I: ch[2] : 1.867828 radians
+I: ch[5] : 1.300448 radians
+I: ch[8] : 0.049182 radians
+I: ch[11] : 1.063469 radians
+I: ch[14] : 1.444523 radians
+I: ch[17] : 0.257112 radians
+I: ch[20] : 0.837497 radians
+I: ch[26] : 0.010041 radians
+I: ch[29] : -1.403804 radians
+I: ch[32] : -1.800984 radians
+I: ch[35] : -1.133305 radians
+I: ch[38] : -1.144212 radians
+I: ch[41] : -2.380931 radians
+I: ch[44] : -2.920871 radians
+I: ch[47] : -2.703701 radians
+I: ch[50] : -4.139830 radians
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 2.572949 meters (derived from 16 samples)
+I: Subevent result callback 22
+I: Ranging data ready 22
+I: Subevent result callback 23
+W: New procedure data received whilst estimating previous distance, drop this procedure.
+I: Ranging data get completed for ranging counter 22
+I: Unwrapped Data -> Channel : Theta
+I: ch[2] : 1.101689 radians
+I: ch[5] : 1.398675 radians
+I: ch[8] : 0.195675 radians
+I: ch[11] : 1.244170 radians
+I: ch[14] : 1.614921 radians
+I: ch[17] : 1.194193 radians
+I: ch[20] : 0.220282 radians
+I: ch[26] : -0.665391 radians
+I: ch[29] : -1.166623 radians
+I: ch[32] : -1.618175 radians
+I: ch[35] : -0.905729 radians
+I: ch[38] : -1.038958 radians
+I: ch[41] : -2.240790 radians
+I: ch[44] : -2.626527 radians
+I: ch[47] : -3.370657 radians
+I: ch[50] : -4.018553 radians
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 2.536441 meters (derived from 16 samples)
+I: Subevent result callback 24
+I: Ranging data ready 24
+I: Subevent result callback 25
+W: New procedure data received whilst estimating previous distance, drop this procedure.
+I: Ranging data get completed for ranging counter 24
+I: Unwrapped Data -> Channel : Theta
+I: ch[2] : 1.830196 radians
+I: ch[5] : 1.181547 radians
+I: ch[8] : -0.000267 radians
+I: ch[11] : 0.210930 radians
+I: ch[14] : 0.634136 radians
+I: ch[17] : 1.015324 radians
+I: ch[20] : 0.095961 radians
+I: ch[26] : -0.810662 radians
+I: ch[29] : -1.398260 radians
+I: ch[32] : -1.843113 radians
+I: ch[35] : -1.167486 radians
+I: ch[38] : -2.087423 radians
+I: ch[41] : -2.372098 radians
+I: ch[44] : -2.907599 radians
+I: ch[47] : -3.587593 radians
+I: ch[50] : -4.147298 radians
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 2.605190 meters (derived from 16 samples)
+I: Subevent result callback 26
+I: Ranging data ready 26
+I: Subevent result callback 27
+W: New procedure data received whilst estimating previous distance, drop this procedure.
+I: Ranging data get completed for ranging counter 26
+I: Unwrapped Data -> Channel : Theta
+I: ch[2] : 1.860626 radians
+I: ch[5] : 0.417185 radians
+I: ch[8] : 0.908923 radians
+I: ch[11] : 0.144055 radians
+I: ch[14] : 0.995964 radians
+I: ch[17] : 0.215107 radians
+I: ch[20] : 0.021075 radians
+I: ch[26] : -0.842573 radians
+I: ch[29] : -1.339162 radians
+I: ch[32] : -1.861543 radians
+I: ch[35] : -2.042221 radians
+I: ch[38] : -1.230298 radians
+I: ch[41] : -2.361646 radians
+I: ch[44] : -2.801711 radians
+I: ch[47] : -3.569602 radians
+I: ch[50] : -4.140542 radians
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 2.550461 meters (derived from 16 samples)
+I: Subevent result callback 28
+I: Ranging data ready 28
+I: Subevent result callback 29
+W: New procedure data received whilst estimating previous distance, drop this procedure.
+I: Ranging data get completed for ranging counter 28
+I: Unwrapped Data -> Channel : Theta
+I: ch[2] : 1.865634 radians
+I: ch[5] : 0.393252 radians
+I: ch[8] : -0.006763 radians
+I: ch[11] : 0.859751 radians
+I: ch[14] : 1.392815 radians
+I: ch[17] : 0.216318 radians
+I: ch[20] : 0.854021 radians
+I: ch[26] : -0.881703 radians
+I: ch[29] : -1.371519 radians
+I: ch[32] : -1.816219 radians
+I: ch[35] : -1.994252 radians
+I: ch[38] : -2.060442 radians
+I: ch[41] : -2.411233 radians
+I: ch[44] : -2.785541 radians
+I: ch[47] : -3.483901 radians
+I: ch[50] : -4.110365 radians
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 2.621978 meters (derived from 16 samples)
+I: Subevent result callback 30
+I: Ranging data ready 30
+I: Subevent result callback 31
+W: New procedure data received whilst estimating previous distance, drop this procedure.
+I: Ranging data get completed for ranging counter 30
+I: Unwrapped Data -> Channel : Theta
+I: ch[2] : 0.999923 radians
+I: ch[5] : 0.484167 radians
+I: ch[8] : 0.096900 radians
+I: ch[11] : 0.201765 radians
+I: ch[14] : 0.738231 radians
+I: ch[17] : 0.331502 radians
+I: ch[20] : 0.088777 radians
+I: ch[26] : -0.766484 radians
+I: ch[29] : -1.343824 radians
+I: ch[32] : -1.693892 radians
+I: ch[35] : -1.746956 radians
+I: ch[38] : -1.973168 radians
+I: ch[41] : -1.424620 radians
+I: ch[44] : -2.861649 radians
+I: ch[47] : -2.529834 radians
+I: ch[50] : -3.983793 radians
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 2.108149 meters (derived from 16 samples)
+I: Subevent result callback 32
+I: Ranging data ready 32
+I: Subevent result callback 33
+W: New procedure data received whilst estimating previous distance, drop this procedure.
+I: Ranging data get completed for ranging counter 32
+I: Unwrapped Data -> Channel : Theta
+I: ch[2] : 1.883581 radians
+I: ch[5] : 0.416643 radians
+I: ch[8] : 0.073303 radians
+I: ch[11] : 0.208465 radians
+I: ch[14] : 1.431331 radians
+I: ch[17] : 0.305609 radians
+I: ch[20] : 0.949364 radians
+I: ch[26] : -0.865623 radians
+I: ch[29] : -1.352886 radians
+I: ch[32] : -1.753949 radians
+I: ch[35] : -1.210138 radians
+I: ch[38] : -1.186265 radians
+I: ch[41] : -2.410131 radians
+I: ch[44] : -2.888635 radians
+I: ch[47] : -2.782866 radians
+I: ch[50] : -3.349629 radians
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 2.269194 meters (derived from 16 samples)
+I: Subevent result callback 34
+I: Ranging data ready 34
+I: Subevent result callback 35
+W: New procedure data received whilst estimating previous distance, drop this procedure.
+I: Ranging data get completed for ranging counter 34
+I: Unwrapped Data -> Channel : Theta
+I: ch[2] : 0.948431 radians
+I: ch[5] : 0.447958 radians
+I: ch[8] : 0.820649 radians
+I: ch[11] : 0.200689 radians
+I: ch[14] : 0.570749 radians
+I: ch[17] : 1.066559 radians
+I: ch[20] : -0.032832 radians
+I: ch[26] : -0.862246 I: Subevent result callback 36
+W: New procedure data received whilst estimating previous distance, drop this procedure.
+radians
+I: ch[29] : -0.562405 radians
+I: ch[32] : -1.813831 radians
+I: ch[35] : -1.958076 radians
+I: ch[38] : I: Ranging data ready 36
+-2.077803 radians
+I: ch[41] : -2.104846 radians
+I: ch[44] : -2.062742 radians
+I: ch[47] : -3.555462 radians
+I: ch[50] : -4.213737 radians
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 2.364397 meters (derived from 16 samples)
+I: Subevent result callback 37
+W: Mismatch of local and peer ranging counters (36 != 37)
+I: Ranging data overwritten 36
+I: Ranging data ready 37
+I: Subevent result callback 38
+W: Mismatch of local and peer ranging counters (37 != 38)
+I: Ranging data overwritten 37
+I: Ranging data ready 38
+I: Subevent result callback 39
+W: Mismatch of local and peer ranging counters (38 != 39)
+I: Ranging data overwritten 38
+I: Ranging data ready 39
+I: Subevent result callback 40
+W: Mismatch of local and peer ranging counters (39 != 40)
+I: Ranging data overwritten 39
+I: Ranging data ready 40
+I: Subevent result callback 41
+W: Mismatch of local and peer ranging counters (40 != 41)
+I: Ranging data overwritten 40
+I: Ranging data ready 41
+I: Subevent result callback 42
+W: Mismatch of local and peer ranging counters (41 != 42)
+I: Ranging data overwritten 41
+I: Ranging data ready 42
+I: Subevent result callback 43
+W: Mismatch of local and peer ranging counters (42 != 43)
+I: Ranging data overwritten 42
+I: Ranging data ready 43
+I: Subevent result callback 44
+W: Mismatch of local and peer ranging counters (43 != 44)
+I: Ranging data overwritten 43
+I: Ranging data ready 44
+I: Subevent result callback 45
+W: Mismatch of local and peer ranging counters (44 != 45)
+I: Ranging data overwritten 44
+I: Ranging data ready 45
+I: Subevent result callback 46
+W: Mismatch of local and peer ranging counters (45 != 46)
+I: Ranging data overwritten 45
+I: Ranging data ready 46
+I: Subevent result callback 47
+W: Mismatch of local and peer ranging counters (46 != 47)
+I: Ranging data overwritten 46
+I: Ranging data ready 47
+I: Subevent result callback 48
+W: Mismatch of local and peer ranging counters (47 != 48)
+I: Ranging data overwritten 47
+I: Ranging data ready 48
+I: Subevent result callback 49
+W: Mismatch of local and peer ranging counters (48 != 49)
+I: Ranging data overwritten 48
+I: Ranging data ready 49
+I: Subevent result callback 50
+W: Mismatch of local and peer ranging counters (49 != 50)
+I: Ranging data overwritten 49
+I: Ranging data ready 50
+I: Subevent result callback 51
+W: Mismatch of local and peer ranging counters (50 != 51)
+I: Ranging data overwritten 50
+I: Ranging data ready 51
+I: Subevent result callback 52
+W: Mismatch of local and peer ranging counters (51 != 52)
+I: Ranging data overwritten 51
+I: Ranging data ready 52
+
