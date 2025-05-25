@@ -1,0 +1,3063 @@
+I: Filters matched. Address: D1:15:C6:44:A1:9C (random) connectable: 1
+I: Connecting
+
+I: Connected to D1:15:C6:44:A1:9C (random) (err 0x00)
+
+I: Security changed: D1:15:C6:44:A1:9C (random) level 2
+
+I: MTU exchange success (498)
+
+I: The discovery procedure succeeded
+
+I: CS capability exchange completed.
+
+I: CS config creation complete. ID: 0
+
+I: CS security enabled.
+
+I: CS procedures enabled.
+
+I: Subevent result callback 0
+I: Ranging data ready 0
+
+I: Ranging data get completed for ranging counter 0
+id:0, f:0, ch:20, ap:0, li:140, lq:58, pi:-143, pq:8
+id:1, f:0, ch:41, ap:0, li:-134, lq:160, pi:195, pq:5
+id:2, f:0, ch:26, ap:0, li:-15, lq:169, pi:-56, pq:148
+id:3, f:0, ch:11, ap:0, li:169, lq:115, pi:-184, pq:-52
+id:4, f:0, ch:35, ap:0, li:63, lq:196, pi:-17, pq:191
+id:5, f:0, ch:47, ap:0, li:157, lq:147, pi:106, pq:171
+id:6, f:0, ch:29, ap:0, li:4, lq:164, pi:-82, pq:129
+id:7, f:0, ch:5, ap:0, li:-48, lq:-160, pi:142, pq:60
+id:8, f:0, ch:50, ap:0, li:-71, lq:181, pi:170, pq:-67
+id:9, f:0, ch:2, ap:0, li:-170, lq:12, pi:-48, pq:150
+id:10, f:0, ch:44, ap:0, li:-114, lq:154, pi:175, pq:-25
+id:11, f:0, ch:17, ap:0, li:162, lq:17, pi:-137, pq:-70
+id:12, f:0, ch:32, ap:0, li:66, lq:-199, pi:-58, pq:-186
+id:13, f:0, ch:14, ap:0, li:37, lq:-159, pi:49, pq:-145
+id:14, f:0, ch:38, ap:0, li:198, lq:-29, pi:-162, pq:92
+id:15, f:0, ch:8, ap:0, li:86, lq:-168, pi:150, pq:-93
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.100
+000 meters (derived from 16 samples)
+
+I: Subevent result callback 1
+I: Ranging data ready 1
+
+I: Ranging data get completed for ranging counter 1
+id:0, f:0, ch:2, ap:0, li:-109, lq:24, pi:-119, pq:45
+id:1, f:0, ch:44, ap:0, li:-66, lq:-142, pi:53, pq:-170
+id:2, f:0, ch:50, ap:0, li:16, lq:163, pi:125, pq:139
+id:3, f:0, ch:38, ap:0, li:-139, lq:-21, pi:154, pq:37
+id:4, f:0, ch:41, ap:0, li:36, lq:158, pi:-76, pq:167
+id:5, f:0, ch:32, ap:0, li:-85, lq:122, pi:-46, pq:164
+id:6, f:0, ch:20, ap:0, li:-104, lq:-22, pi:72, pq:97
+id:7, f:0, ch:47, ap:0, li:-115, lq:121, pi:182, pq:47
+id:8, f:0, ch:26, ap:0, li:119, lq:-21, pi:20, pq:-138
+id:9, f:0, ch:5, ap:0, li:-106, lq:15, pi:-112, pq:48
+id:10, f:0, ch:14, ap:0, li:74, lq:-42, pi:40, pq:-90
+id:11, f:0, ch:11, ap:0, li:33, lq:-124, pi:139, pq:-48
+id:12, f:0, ch:35, ap:0, li:75, lq:-123, pi:12, pq:-162
+id:13, f:0, ch:29, ap:0, li:92, lq:-89, pi:100, pq:-106
+id:14, f:0, ch:8, ap:0, li:-59, lq:114, pi:-141, pq:-44
+id:15, f:0, ch:17, ap:0, li:38, lq:-109, pi:128, pq:-37
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.100
+000 meters (derived from 16 samples)
+
+I: Subevent result callback 2
+I: Ranging data ready 2
+
+I: Ranging data get completed for ranging counter 2
+id:0, f:0, ch:50, ap:0, li:168, lq:2, pi:-24, pq:194
+id:1, f:0, ch:47, ap:0, li:29, lq:-165, pi:-190, pq:-46
+id:2, f:0, ch:2, ap:0, li:98, lq:75, pi:27, pq:-143
+id:3, f:0, ch:35, ap:0, li:-19, lq:174, pi:22, pq:203
+id:4, f:0, ch:32, ap:0, li:194, lq:37, pi:-230, pq:-19
+id:5, f:0, ch:8, ap:0, li:-138, lq:-78, pi:-29, pq:184
+id:6, f:0, ch:29, ap:0, li:-103, lq:-126, pi:189, pq:24
+id:7, f:0, ch:17, ap:0, li:-18, lq:146, pi:-171, pq:36
+id:8, f:0, ch:14, ap:0, li:106, lq:-10, pi:-16, pq:-126
+id:9, f:0, ch:38, ap:0, li:122, lq:104, pi:-102, pq:157
+id:10, f:0, ch:5, ap:0, li:-121, lq:3, pi:-119, pq:77
+id:11, f:0, ch:41, ap:0, li:8, lq:-179, pi:-90, pq:-189
+id:12, f:0, ch:20, ap:0, li:-20, lq:139, pi:-142, pq:84
+id:13, f:0, ch:26, ap:0, li:66, lq:146, pi:-188, pq:17
+id:14, f:0, ch:44, ap:0, li:55, lq:154, pi:70, pq:175
+id:15, f:0, ch:11, ap:0, li:-153, lq:15, pi:8, pq:181
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.100000
+ meters (derived from 16 samples)
+
+I: Subevent result callback 3
+I: Ranging data ready 3
+
+I: Ranging data get completed for ranging counter 3
+id:0, f:0, ch:29, ap:0, li:138, lq:-90, pi:42, pq:-150
+id:1, f:0, ch:44, ap:0, li:75, lq:-161, pi:-126, pq:-108
+id:2, f:0, ch:47, ap:0, li:-107, lq:-156, pi:-40, pq:-171
+id:3, f:0, ch:50, ap:0, li:-183, lq:38, pi:101, pq:-142
+id:4, f:0, ch:5, ap:0, li:-1, lq:-119, pi:80, pq:76
+id:5, f:0, ch:32, ap:0, li:148, lq:-117, pi:-51, pq:-170
+id:6, f:0, ch:26, ap:0, li:-105, lq:-119, pi:126, pq:80
+id:7, f:0, ch:41, ap:0, li:-155, lq:-113, pi:140, pq:-113
+id:8, f:0, ch:11, ap:0, li:133, lq:-55, pi:13, pq:-136
+id:9, f:0, ch:20, ap:0, li:105, lq:-69, pi:28, pq:-115
+id:10, f:0, ch:17, ap:0, li:-66, lq:-115, pi:103, pq:69
+id:11, f:0, ch:35, ap:0, li:-21, lq:-176, pi:83, pq:-144
+id:12, f:0, ch:2, ap:0, li:126, lq:-1, pi:77, pq:-91
+id:13, f:0, ch:38, ap:0, li:-118, lq:124, pi:101, pq:126
+id:14, f:0, ch:14, ap:0, li:1, lq:-89, pi:81, pq:-15
+id:15, f:0, ch:8, ap:0, li:-148, lq:5, pi:-85, pq:111
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging meth
+od: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 4
+I: Ranging data ready 4
+
+I: Ranging data get completed for ranging counter 4
+id:0, f:0, ch:11, ap:0, li:-128, lq:122, pi:-103, pq:130
+id:1, f:0, ch:29, ap:0, li:-151, lq:77, pi:24, pq:156
+id:2, f:0, ch:8, ap:0, li:104, lq:139, pi:-32, pq:-159
+id:3, f:0, ch:44, ap:0, li:-87, lq:146, pi:135, pq:81
+id:4, f:0, ch:35, ap:0, li:-176, lq:-40, pi:168, pq:-9
+id:5, f:0, ch:2, ap:0, li:11, lq:-144, pi:85, pq:104
+id:6, f:0, ch:47, ap:0, li:-139, lq:-119, pi:8, pq:-171
+id:7, f:0, ch:32, ap:0, li:173, lq:67, pi:-175, pq:-2
+id:8, f:0, ch:41, ap:0, li:-176, lq:27, pi:167, pq:-2
+id:9, f:0, ch:38, ap:0, li:-133, lq:98, pi:141, pq:63
+id:10, f:0, ch:14, ap:0, li:54, lq:113, pi:-115, pq:-31
+id:11, f:0, ch:20, ap:0, li:-26, lq:-153, pi:135, pq:-54
+id:12, f:0, ch:50, ap:0, li:-46, lq:170, pi:160, pq:47
+id:13, f:0, ch:5, ap:0, li:136, lq:-36, pi:121, pq:-55
+id:14, f:0, ch:26, ap:0, li:138, lq:-97, pi:17, pq:-159
+id:15, f:0, ch:17, ap:0, li:151, lq:54, pi:-65, pq:-139
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.10
+0000 meters (derived from 16 samples)
+
+I: Subevent result callback 5
+I: Ranging data ready 5
+
+I: Ranging data get completed for ranging counter 5
+id:0, f:0, ch:44, ap:0, li:163, lq:63, pi:-88, pq:138
+id:1, f:0, ch:32, ap:0, li:-183, lq:-69, pi:184, pq:-2
+id:2, f:0, ch:35, ap:0, li:78, lq:172, pi:-89, pq:153
+id:3, f:0, ch:38, ap:0, li:51, lq:-159, pi:-98, pq:-124
+id:4, f:0, ch:8, ap:0, li:-87, lq:154, pi:-162, pq:-44
+id:5, f:0, ch:20, ap:0, li:-135, lq:89, pi:-13, pq:151
+id:6, f:0, ch:47, ap:0, li:-51, lq:-178, pi:-107, pq:-138
+id:7, f:0, ch:26, ap:0, li:-54, lq:-168, pi:158, pq:-53
+id:8, f:0, ch:5, ap:0, li:-83, lq:-120, pi:14, pq:136
+id:9, f:0, ch:29, ap:0, li:118, lq:132, pi:-166, pq:-7
+id:10, f:0, ch:41, ap:0, li:-7, lq:182, pi:58, pq:160
+id:11, f:0, ch:50, ap:0, li:-172, lq:-63, pi:15, pq:-172
+id:12, f:0, ch:11, ap:0, li:-175, lq:52, pi:-41, pq:167
+id:13, f:0, ch:2, ap:0, li:11, lq:-148, pi:77, pq:114
+id:14, f:0, ch:17, ap:0, li:-5, lq:-167, pi:156, pq:-26
+id:15, f:0, ch:14, ap:0, li:-54, lq:-128, pi:122, pq:42
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 
+0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 6
+I: Ranging data ready 6
+
+I: Ranging data get completed for ranging counter 6
+id:0, f:0, ch:41, ap:0, li:-183, lq:12, pi:170, pq:0
+id:1, f:0, ch:2, ap:0, li:129, lq:-74, pi:138, pq:-16
+id:2, f:0, ch:20, ap:0, li:138, lq:-57, pi:-25, pq:-140
+id:3, f:0, ch:5, ap:0, li:-108, lq:99, pi:-135, pq:-19
+id:4, f:0, ch:35, ap:0, li:171, lq:-68, pi:-143, pq:-98
+id:5, f:0, ch:14, ap:0, li:-123, lq:-45, pi:61, pq:105
+id:6, f:0, ch:47, ap:0, li:167, lq:36, pi:-88, pq:143
+id:7, f:0, ch:11, ap:0, li:-8, lq:184, pi:-173, pq:13
+id:8, f:0, ch:50, ap:0, li:-177, lq:-49, pi:73, pq:-156
+id:9, f:0, ch:32, ap:0, li:170, lq:66, pi:-170, pq:-25
+id:10, f:0, ch:44, ap:0, li:-136, lq:111, pi:158, pq:41
+id:11, f:0, ch:8, ap:0, li:-149, lq:-96, pi:-26, pq:163
+id:12, f:0, ch:29, ap:0, li:-133, lq:-96, pi:140, pq:60
+id:13, f:0, ch:17, ap:0, li:59, lq:-146, pi:125, pq:-79
+id:14, f:0, ch:26, ap:0, li:-44, lq:156, pi:-104, pq:112
+id:15, f:0, ch:38, ap:0, li:-110, l:-118, pi:97, pq:-114
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method:
+ 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 7
+I: Ranging data ready 7
+
+I: Ranging data get completed for ranging counter 7
+id:0, f:0, ch:14, ap:0, li:-128, lq:-26, pi:71, pq:100
+id:1, f:0, ch:11, ap:0, li:-119, lq:144, pi:-106, pq:140
+id:2, f:0, ch:8, ap:0, li:-1, lq:177, pi:-132, pq:-100
+id:3, f:0, ch:50, ap:0, li:-174, lq:-73, pi:40, pq:-173
+id:4, f:0, ch:44, ap:0, li:-161, lq:69, pi:162, pq:-32
+id:5, f:0, ch:17, ap:0, li:-153, lq:5, pi:46, pq:136
+id:6, f:0, ch:41, ap:0, li:157, lq:91, pi:-135, pq:108
+id:7, f:0, ch:2, ap:0, li:6, lq:149, pi:-88, pq:-110
+id:8, f:0, ch:47, ap:0, li:-145, lq:-119, pi:11, pq:-173
+id:9, f:0, ch:29, ap:0, li:-119, lq:-111, pi:143, pq:47
+id:10, f:0, ch:35, ap:0, li:-101, lq:154, pi:69, pq:158
+id:11, f:0, ch:5, ap:0, li:-110, lq:97, pi:-135, pq:17
+id:12, f:0, ch:20, ap:0, li:146, lq:18, pi:-98, pq:-98
+id:13, f:0, ch:38, ap:0, li:-44, lq:-155, pi:21, pq:-148
+id:14, f:0, ch:26, ap:0, li:-116, lq:-109, pi:147, pq:20
+id:15, f:0, ch:32, ap:0, li:-129, lq:129, pi:44, pq:165
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging metho
+d: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 8
+I: Ranging data ready 8
+
+I: Ranging data get completed for ranging counter 8
+id:0, f:0, ch:14, ap:0, li:-130, lq:-98, pi:147, pq:39
+id:1, f:0, ch:20, ap:0, li:25, lq:180, pi:-113, pq:128
+id:2, f:0, ch:47, ap:0, li:23, lq:224, pi:182, pq:106
+id:3, f:0, ch:5, ap:0, li:-56, lq:174, pi:-165, pq:-42
+id:4, f:0, ch:41, ap:0, li:215, lq:48, pi:-160, pq:133
+id:5, f:0, ch:8, ap:0, li:56, lq:-212, pi:204, pq:25
+id:6, f:0, ch:11, ap:0, li:-222, lq:66, pi:30, pq:215
+id:7, f:0, ch:2, ap:0, li:-182, lq:-35, pi:-85, pq:150
+id:8, f:0, ch:32, ap:0, li:-222, lq:-2, pi:205, pq:31
+id:9, f:0, ch:38, ap:0, li:146, lq:124, pi:-63, pq:169
+id:10, f:0, ch:44, ap:0, li:11, lq:-216, pi:-164, pq:-120
+id:11, f:0, ch:50, ap:0, li:-176, lq:148, pi:177, pq:-125
+id:12, f:0, ch:35, ap:0, li:-173, lq:-142, pi:144, pq:-152
+id:13, f:0, ch:26, ap:0, li:-112, lq:-160, pi:179, pq:-43
+id:14, f:0, ch:29, ap:0, li:-159, lq:120, pi:50, pq:178
+id:15, f:0, ch:17, ap:0, li:-183, lq:54, pi:72, pq:165
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging meth
+od: 0.100000 meters (derived from 16 samples)
+I: Subevent result callback 9
+I: Ranging data ready 9
+
+I: Ranging data get completed for ranging counter 9
+id:0, f:0, ch:11, ap:0, li:-29, lq:138, pi:-159, pq:28
+id:1, f:0, ch:2, ap:0, li:-75, lq:88, pi:-125, pq:-38
+id:2, f:0, ch:32, ap:0, li:-50, lq:146, pi:-51, pq:169
+id:3, f:0, ch:50, ap:0, li:-155, lq:-66, pi:50, pq:-184
+id:4, f:0, ch:14, ap:0, li:-66, lq:75, pi:-81, pq:80
+id:5, f:0, ch:41, ap:0, li:-156, lq:41, pi:175, pq:51
+id:6, f:0, ch:5, ap:0, li:3, lq:112, pi:-76, pq:-102
+id:7, f:0, ch:17, ap:0, li:-44, lq:-112, pi:131, pq:40
+id:8, f:0, ch:44, ap:0, li:19, lq:-154, pi:-89, pq:-151
+id:9, f:0, ch:8, ap:0, li:-130, lq:-32, pi:-76, pq:133
+id:0, f:0, ch:47, ap:0, li:-52, lq:154, pi:157, pq:98
+id:11, f:0, ch:35, ap:0, li:-142, lq:63, pi:121, pq:126
+id:12, f:0, ch:26, ap:0, li:-130, lq:25, pi:24, pq:149
+id:13, f:0, ch:20, ap:0, li:-87, lq:75, pi:-49, pq:123
+id:14, f:0, ch:38, ap:0, li:2, lq:-134, pi:21, pq:-151
+id:15, f:0, ch:29, ap:0, li:53, lq:-125, pi:115, pq:-102
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.10000
+0 meters (derived from 16 samples)
+
+I: Subevent result callback 10
+I: Ranging data ready 10
+
+I: Ranging data get completed for ranging counter 10
+id:0, f:0, ch:50, ap:0, li:137, lq:152, pi:-5, pq:193
+id:1, f:0, ch:29, ap:0, li:-141, lq:-72, pi:83, pq:122
+id:2, f:0, ch:8, ap:0, li:143, lq:-82, pi:151, pq:-31
+id:3, f:0, ch:47, ap:0, li:-197, lq:14, pi:168, pq:-77
+id:4, f:0, ch:41, ap:0, li:62, lq:179, pi:-101, pq:146
+id:5, f:0, ch:38, ap:0, li:138, lq:-79, pi:-104, pq:-107
+id:6, f:0, ch:20, ap:0, li:-51, lq:126, pi:-94, pq:86
+id:7, f:0, ch:5, ap:0, li:50, lq:-128, pi:114, pq:58
+id:8, f:0, ch:44, ap:0, li:-178, lq:52, pi:172, pq:16
+id:9, f:0, ch:2, ap:0, li:-50, lq:137, pi:-109, pq:-84
+id:10, f:0, ch:14, ap:0, li:-62, lq:103, pi:-83, pq:77
+id:11, f:0, ch:32, ap:0, li:-148, lq:-107, pi:168, pq:22
+id:12, f:0, ch:17, ap:0, li:139, lq:22, pi:-36, pq:-128
+id:13, f:0, ch:11, ap:0, li:-100, lq:-144, pi:135, pq:93
+id:14, f:0, ch:35, ap:0, li:162, lq:84, pi:-170, pq:-4
+id:15, f:0, ch:26, ap:0, li:-79, lq:-130, pi:135, pq:38
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.
+100000 meters (derived from 16 samples)
+
+I: Subevent result callback 11
+I: Ranging data ready 11
+
+I: Ranging data get completed for ranging counter 11
+id:0, f:0, ch:8, ap:0, li:-116, lq:-81, pi:-15, pq:160
+id:1, f:0, ch:32, ap:0, li:8, lq:151, pi:-93, pq:147
+id:2, f:0, ch:38, ap:0, li:-9, lq:-131, pi:-8, pq:-150
+id:3, f:0, ch:26, ap:0, li:94, lq:87, pi:-144, pq:-33
+id:4, f:0, ch:44, ap:0, li:135, lq:62, pi:-109, pq:129
+id:5, f:0, ch:50, ap:0, li:-144, lq:-83, pi:0, pq:-190
+id:6, f:0, ch:11, ap:0, li:73, lq:128, pi:-158, pq:-61
+id:7, f:0, ch:20, ap:0, li:-112, lq:-39, pi:108, pq:79
+id:8, f:0, ch:2, ap:0, li:44, lq:112, pi:-41, pq:-131
+id:9, f:0, ch:29, ap:0, li:40, lq:-126, pi:102, pq:-110
+id:10, f:0, ch:47, ap:0, li:0, lq:-161, pi:-122, pq:-135
+id:11, f:0, ch:17, ap:0, li:94, lq:-81, pi:66, pq:-126
+id:12, f:0, ch:5, ap:0, li:14, lq:115, pi:-72, pq:-112
+id:13, f:0, ch:14, ap:0, li:-91, lq:-50, pi:86, pq:82
+id:14, f:0, ch:41, ap:0, li:-4, lq:155, pi:18, pq:176
+id:15, f:0, ch:35, ap:0, li:-49, lq:140, pi:16, pq:165
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.10000
+0 meters (derived from 16 samples)
+
+I: Subevent result callback 12
+I: Ranging data ready 12
+
+I: Ranging data get completed for ranging counter 12
+id:0, f:0, ch:29, ap:0, li:-34, lq:158, pi:-135, pq:66
+id:1, f:0, ch:20, ap:0, li:-144, lq:-6, pi:64, pq:118
+id:2, f:0, ch:8, ap:0, li:172, lq:10, pi:119, pq:-110
+id:3, f:0, ch:11, ap:0, li:-153, lq:-102, pi:84, pq:150
+id:4, f:0, ch:35, ap:0, li:128, lq:126, pi:-159, pq:58
+id:5, f:0, ch:44, ap:0, li:-164, lq:73, pi:164, pq:34
+id:6, f:0, ch:38, ap:0, li:-147, lq:-62, pi:146, pq:-25
+id:7, f:0, ch:32, ap:0, li:-72, lq:-173, pi:156, pq:-79
+id:8, f:0, ch:50, ap:0, li:-197, lq:-34, pi:112, pq:-150
+id:9, f:0, ch:2, ap:0, li:93, lq:-119, pi:128, pq:59
+id:10, f:0, ch:41, ap:0, li:-135, lq:-133, pi:146, pq:-99
+id:11, f:0, ch:5, ap:0, li:-35, lq:142, pi:-93, pq:-100
+id:12, f:0, ch:17, ap:0, li:-136, lq:65, pi:-52, pq:131
+id:13, f:0, ch:26, ap:0, li:49, lq:-149, pi:114, pq:-93
+id:14, f:0, ch:14, ap:0, li:63, lq:111, pi:-112, pq:-46
+id:15, f:0, ch:47, ap:0, li:-90, lq:169, pi:152, pq:95
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging metho
+d: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 13
+I: Ranging data ready 13
+
+I: Ranging data get completed for ranging couter 13
+id:0, f:0, ch:29, ap:0, li:-142, lq:-84, pi:137, pq:69
+id:1, f:0, ch:11, ap:0, li:-189, lq:-39, pi:57, pq:172
+id:2, f:0, ch:50, ap:0, li:0, lq:-202, pi:-166, pq:-94
+id:3, f:0, ch:47, ap:0, li:17, lq:-195, pi:-137, pq:-119
+id:4, f:0, ch:41, ap:0, li:190, lq:-30, pi:-181, pq:-5
+id:5, f:0, ch:35, ap:0, li:104, lq:155, pi:-123, pq:124
+id:6, f:0, ch:44, ap:0, li:-129, lq:130, pi:162, pq:52
+id:7, f:0, ch:20, ap:0, li:-30, lq:-148, pi:132, pq:-51
+id:8, f:0, ch:26, ap:0, li:76, lq:143, pi:-153, pq:13
+id:9, f:0, ch:38, ap:0, li:80, lq:141, pi:-63, pq:138
+id:10, f:0, ch:2, ap:0, li:-10, lq:158, pi:-96, pq:-112
+id:11, f:0, ch:8, ap:0, li:-70, lq:-167, pi:83, pq:148
+id:12, f:0, ch:5, ap:0, li:-69, lq:-137, pi:42, pq:136
+id:13, f:0, ch:14, ap:0, li:90, lq:-105, pi:63, pq:-113
+id:14, f:0, ch:17, ap:0, li:-157, lq:2, pi:44, pq:142
+id:15, f:0, ch:32, ap:0, li:-139, lq:132, pi:48, pq:174
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0
+.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 14
+I: Ranging data ready 14
+
+I: Ranging data get completed for ranging counter 14
+id:0, f:0, ch:44, ap:0, li:146, lq:-49, pi:-171, pq:38
+id:1, f:0, ch:8, ap:0, li:-71, lq:-135, pi:78, pq:151
+id:2, f:0, ch:32, ap:0, li:51, lq:152, pi:-135, pq:123
+id:3, f:0, ch:14, ap:0, li:93, lq:-68, pi:35, pq:-127
+id:4, f:0, ch:47, ap:0, li:164, lq:-2, pi:-119, pq:142
+id:5, f:0, ch:5, ap:0, li:127, lq:-5, pi:112, pq:-92
+id:6, f:0, ch:38, ap:0, li:122, lq:68, pi:-126, pq:98
+id:7, f:0, ch:26, ap:0, li:-137, lq:-17, pi:106, pq:113
+id:8, f:0, ch:2, ap:0, li:-131, lq:-17, pi:-106, pq:106
+id:9, f:0, ch:29, ap:0, li:134, lq:-30, pi:-64, pq:-145
+id:10, f:0, ch:41, ap:0, li:97, lq:130, pi:-88, pq:161
+id:11, f:0, ch:11, ap:0, li:-136, lq:85, pi:-78, pq:165
+id:12, f:0, ch:20, ap:0, li:28, lq:-121, pi:92, pq:-108
+id:13, f:0, ch:17, ap:0, li:-19, lq:-128, pi:142, pq:-40
+id:14, f:0, ch:35, ap:0, li:-85, lq:-134, pi:122, pq:-131
+id:15, f:0, ch:50, ap:0, li:-33, lq:-167, pi:-156, pq:-113
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging met
+hod: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 15
+I: Ranging data ready 15
+
+I: Ranging data get completed for ranging counter 15
+id:0, f:0, ch:26, ap:0, li:-125, lq:-61, pi:127, pq:92
+id:1, f:0, ch:14, ap:0, li:37, lq:-110, pi:112, pq:-72
+id:2, f:0, ch:47, ap:0, li:-68, lq:152, pi:179, pq:61
+id:3, f:0, ch:11, ap:0, li:-159, lq:-13, pi:27, pq:180
+id:4, f:0, ch:38, ap:0, li:-32, lq:138, pi:59, pq:150
+id:5, f:0, ch:29, ap:0, li:-136, lq:35, pi:45, pq:151
+id:6, f:0, ch:8, ap:0, li:143, lq:47, pi:68, pq:-158
+id:7, f:0, ch:32, ap:0, li:147, lq:-66, pi:-104, pq:-153
+id:8, f:0, ch:44, ap:0, li:-19, lq:158, pi:93, pq:155
+id:9, f:0, ch:35, ap:0, li:-141, lq:78, pi:135, pq:118
+id:10, f:0, ch:17, ap:0, li:86, lq:-97, pi:80, pq:-127
+id:11, f:0, ch:5, ap:0, li:89, lq:92, pi:9, pq:-146
+id:12, f:0, ch:41, ap:0, li:-132, lq:-100, pi:134, pq:-128
+id:13, f:0, ch:20, ap:0, li:82, lq:92, pi:-140, pq:-21
+id:14, f:0, ch:50, ap:0, li:118, lq:-125, pi:-189, pq:45
+id:15, f:0, ch:2, ap:0, li:-100, lq:86, pi:-151, pq:-5
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.100
+000 meters (derived from 16 samples)
+
+I: Subevent result callback 16
+I: Ranging data ready 16
+
+I: Ranging data get completed for ranging counter 16
+id:0, f:0, ch:50, ap:0, li:104, lq:-180, pi:-192, pq:34
+id:1, f:0, ch:5, ap:0, li:-98, lq:-121, pi:32, pq:140
+id:2, f:0, ch:26, ap:0, li:-161, lq:-42, pi:116, pq:102
+id:3, f:0, ch:47, ap:0, li:-153, lq:132, pi:184, pq:-43
+id:4, f:0, ch:38, ap:0, li:-136, lq:-105, pi:108, pq:-118
+id:5, f:0, ch:20, ap:0, li:90, lq:113, pi:-138, pq:5
+id:6, f:0, ch:11, ap:0, li:-67, lq:178, pi:-139, pq:112
+id:7, f:0, ch:17, ap:0, li:103, lq:-115, pi:54, pq:-136
+id:8, f:0, ch:35, ap:0, li:175, lq:-78, pi:-160, pq:-84
+id:9, f:0, ch:41, ap:0, li:-198, lq:23, pi:185, pq:-24
+id:10, f:0, ch:14, ap:0, li:-85, lq:107, pi:-55, pq:117
+id:11, f:0, ch:44, ap:0, li:184, lq:-47, pi:-168, pq:59
+id:12, f:0, ch:8, ap:0, li:10, lq:180, pi:-148, pq:-83
+id:13, f:0, ch:32, ap:0, li:172, lq:90, pi:-182, pq:14
+id:14, f:0, ch:2, ap:0, li:153, lq:47, pi:66, pq:-136
+id:15, f:0, ch:29, ap:0, li:66, lq:-155, pi:80, pq:-136
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging meth
+od: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 17
+I: Ranging data ready 17
+
+I: Ranging data get completed for ranging counter 17
+id:0, f:0, ch:14, ap:0, li:88, lq:-73, pi:56, pq:-119
+id:1, f:0, ch:8, ap:0, li:44, lq:143, pi:-80, pq:-152
+id:2, f:0, ch:50, ap:0, li:-63, lq:-162, pi:-105, pq:-167
+id:3, f:0, ch:47, ap:0, li:-15, lq:-168, pi:-111, pq:-157
+id:4, f:0, ch:29, ap:0, li:137, lq:-14, pi:-35, pq:-153
+id:5, f:0, ch:17, ap:0, li:-71, lq:-107, pi:133, pq:58
+id:6, f:0, ch:38, ap:0, li:92, lq:-110, pi:-99, pq:-127
+id:7, f:0, ch:41, ap:0, li:-150, lq:73, pi:167, pq:88
+id:8, f:0, ch:11, ap:0, li:-156, lq:31, pi:-30, pq:179
+id:9, f:0, ch:35, ap:0, li:-160, lq:-4, pi:166, pq:70
+id:10, f:0, ch:20, ap:0, li:-97, lq:72, pi:-22, pq:136
+id:11, f:0, ch:2, ap:0, li:-119, lq:-62, pi:-86, pq:125
+id:12, f:0, ch:44, ap:0, li:25, lq:157, pi:36, pq:175
+id:13, f:0, ch:32, ap:0, li:149, lq:-63, pi:-90, pq:-161
+id:14, f:0, ch:5, ap:0, li:-18, lq:-127, pi:71, pq:126
+id:15, f:0, ch:26, ap:0, li:134, lq:-11, pi:-64, pq:-141
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging meth
+od: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 18
+I: Ranging data ready 18
+
+I: Ranging data get completed for ranging counter 18
+id:0, f:0, ch:47, ap:0, li:131, lq:-103, pi:-156, pq:2
+id:1, f:0, ch:38, ap:0, li:89, lq:110, pi:-85, pq:100
+id:2, f:0, ch:26, ap:0, li:-131, lq:-34, pi:82, pq:96
+id:3, f:0, ch:17, ap:0, li:-18, lq:-127, pi:118, pq:-21
+id:4, f:0, ch:50, ap:0, li:169, lq:-24, pi:-118, pq:109
+id:5, f:0, ch:29, ap:0, li:54, lq:-126, pi:89, pq:-93
+id:6, f:0, ch:5, ap:0, li:-26, lq:-127, pi:58, pq:104
+id:7, f:0, ch:44, ap:0, li:-74, lq:-140, pi:12, pq:-146
+id:8, f:0, ch:2, ap:0, li:-128, lq:43, pi:-124, pq:14
+id:9, f:0, ch:35, ap:0, li:-40, lq:-155, pi:82, pq:-125
+id:10, f:0, ch:41, ap:0, li:12, lq:165, pi:0, pq:155
+id:11, f:0, ch:20, ap:0, li:118, lq:-26, pi:-25, pq:-112
+id:12, f:0, ch:32, ap:0, li:0, lq:162, pi:-88, pq:123
+id:13, f:0, ch:11, ap:0, li:154, lq:-45, pi:50, pq:-142
+id:14, f:0, ch:14, ap:0, li:-88, lq:-77, pi:90, pq:62
+id:15, f:0, ch:8, ap:0, li:-24, lq:-149, pi:87, pq:110
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.1000
+00 meters (derived from 16 samples)
+
+I: Subevent result callback 19
+I: Ranging data ready 19
+
+I: Ranging data get completed for ranging counter 19
+id:0, f:0, ch:11, ap:0, li:159, lq:-23, pi:-2, pq:-184
+id:1, f:0, ch:5, ap:0, li:63, lq:113, pi:-55, pq:-136
+id:2, f:0, ch:47, ap:0, li:-125, lq:106, pi:182, pq:-40
+id:3, f:0, ch:20, ap:0, li:50, lq:-109, pi:63, pq:-123
+id:4, f:0, ch:32, ap:0, li:141, lq:-80, pi:-109, pq:-148
+id:5, f:0, ch:8, ap:0, li:86, lq:123, pi:-65, pq:-159
+id:6, f:0, ch:41, ap:0, li:165, lq:-10, pi:-195, pq:18
+id:7, f:0, ch:50, ap:0, li:9, lq:169, pi:168, pq:93
+id:8, f:0, ch:2, ap:0, li:96, lq:-94, pi:151, pq:4
+id:9, f:0, ch:26, ap:0, li:-27, lq:130, pi:-102, pq:112
+id:10, f:0, ch:14, ap:0, li:-23, lq:-114, pi:126, pq:-37
+id:11, f:0, ch:44, ap:0, li:71, lq:-141, pi:-152, pq:-92
+id:12, f:0, ch:35, ap:0, li:88, lq:130, pi:-113, pq:139
+id:13, f:0, ch:38, ap:0, li:21, lq:-137, pi:-56, pq:-143
+id:14, f:0, ch:17, ap:0, li:-5, lq:-127, pi:127, pq:-69
+id:15, f:0, ch:29, ap:0, li:119, lq:-66, pi:-9, pq:-155
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 
+0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 20
+I: Ranging data ready 20
+
+I: Ranging data get completed for ranging counter 20
+id:0, f:0, ch:38, ap:0, li:26, lq:-170, pi:-38, pq:-155
+id:1, f:0, ch:41, ap:0, li:-201, lq:20, pi:189, pq:4
+id:2, f:0, ch:14, ap:0, li:11, lq:141, pi:-126, pq:44
+id:3, f:0, ch:8, ap:0, li:-62, lq:172, pi:-167, pq:-44
+id:4, f:0, ch:50, ap:0, li:-201, lq:-57, pi:61, pq:-185
+id:5, f:0, ch:32, ap:0, li:196, lq:22, pi:-171, pq:-71
+id:6, f:0, ch:20, ap:0, li:16, lq:145, pi:-121, pq:66
+id:7, f:0, ch:2, ap:0, li:-68, lq:-151, pi:38, pq:148
+id:8, f:0, ch:26, ap:0, li:-102, lq:-129, pi:152, pq:12
+id:9, f:0, ch:5, ap:0, li:83, lq:132, pi:-37, pq:-142
+id:10, f:0, ch:44, ap:0, li:-153, lq:-117, pi:75, pq:-163
+id:11, f:0, ch:29, ap:0, li:157, lq:-52, pi:-35, pq:-151
+id:12, f:0, ch:35, ap:0, li:-193, lq:-28, pi:180, pq:15
+id:13, f:0, ch:17, ap:0, li:132, lq:-83, pi:23, pq:-144
+id:14, f:0, ch:11, ap:0, li:154, lq:-124, pi:100, pq:-155
+id:15, f:0, ch:47, ap:0, li:-200, lq:-33, pi:112, pq:-152
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging me
+thod: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 21
+I: Ranging data ready 21
+
+I: Ranging data get completed for ranging counter 21
+id:0, f:0, ch:38, ap:0, li:168, lq:-20, pi:-159, pq:-16
+id:1, f:0, ch:29, ap:0, li:160, lq:-38, pi:-30, pq:-153
+id:2, f:0, ch:5, ap:0, li:131, lq:86, pi:21, pq:-145
+id:3, f:0, ch:8, ap:0, li:108, lq:-147, pi:170, pq:-4
+id:4, f:0, ch:44, ap:0, li:159, lq:106, pi:-85, pq:157
+id:5, f:0, ch:2, ap:0, li:-164, lq:-8, pi:-115, pq:98
+id:6, f:0, ch:35, ap:0, li:110, lq:-157, pi:-60, pq:-170
+id:7, f:0, ch:17, ap:0, li:111, lq:-105, pi:46, pq:-137
+id:8, f:0, ch:11, ap:0, li:-11, lq:-195, pi:181, pq:-8
+id:9, f:0, ch:47, ap:0, li:171, lq:106, pi:-33, pq:186
+id:10, f:0, ch:50, ap:0, li:118, lq:-171, pi:-196, pq:18
+id:11, f:0, ch:20, ap:0, li:143, lq:20, pi:-94, pq:-99
+id:12, f:0, ch:14, ap:0, li:93, lq:-104, pi:55, pq:-120
+id:13, f:0, ch:41, ap:0, li:-163, lq:119, pi:166, pq:89
+id:14, f:0, ch:32, ap:0, li:-63, lq:186, pi:-35, pq:180
+id:15, f:0, ch:26, ap:0, li:58, lq:152, pi:-151, pq:30
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method
+: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 22
+I: Ranging data ready 22
+
+I: Ranging data get completed for ranging counter 22
+id:0, f:0, ch:2, ap:0, li:-12, lq:-133, pi:73, pq:134
+id:1, f:0, ch:20, ap:0, li:79, lq:88, pi:-135, pq:-29
+id:2, f:0, ch:29, ap:0, li:53, lq:-123, pi:104, pq:-114
+id:3, f:0, ch:17, ap:0, li:35, lq:-121, pi:120, pq:-80
+id:4, f:0, ch:44, ap:0, li:139, lq:74, pi:-117, pq:136
+id:5, f:0, ch:11, ap:0, li:-161, lq:3, pi:8, pq:183
+id:6, f:0, ch:41, ap:0, li:10, lq:-167, pi:-12, pq:-190
+id:7, f:0, ch:5, ap:0, li:16, lq:127, pi:-78, pq:-124
+id:8, f:0, ch:32, ap:0, li:-157, lq:-39, pi:169, pq:69
+id:9, f:0, ch:50, ap:0, li:173, lq:-13, pi:-130, pq:149
+id:10, f:0, ch:26, ap:0, li:4, lq:132, pi:-132, pq:75
+id:11, f:0, ch:47, ap:0, li:-85, lq:-145, pi:-32, pq:-188
+id:12, f:0, ch:38, ap:0, li:-99, lq:-100, pi:116, pq:-107
+id:13, f:0, ch:8, ap:0, li:141, lq:-51, pi:149, pq:-81
+id:14, f:0, ch:35, ap:0, li:-38, lq:153, pi:-19, pq:178
+id:15, f:0, ch:14, ap:0, li:-82, lq:79, pi:-60, pq:118
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0
+.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 23
+I: Ranging data ready 23
+
+I: Ranging data get completed for ranging counter 23
+id:0, f:0, ch:2, ap:0, li:-106, lq:-126, pi:-4, pq:152
+id:1, f:0, ch:35, ap:0, li:80, lq:173, pi:-121, pq:132
+id:2, f:0, ch:32, ap:0, li:195, lq:15, pi:-164, pq:-86
+id:3, f:0, ch:50, ap:0, li:-106, lq:-184, pi:-101, pq:-172
+id:4, f:0, ch:5, ap:0, li:36, lq:-154, pi:134, pq:60
+id:5, f:0, ch:29, ap:0, li:-158, lq:43, pi:31, pq:150
+id:6, f:0, ch:47, ap:0, li:157, lq:130, pi:-22, pq:190
+id:7, f:0, ch:38, ap:0, li:169, lq:-22, pi:-162, pq:-20
+id:8, f:0, ch:20, ap:0, li:90, lq:-114, pi:35, pq:-131
+id:9, f:0, ch:26, ap:0, li:-76, lq:-141, pi:150, pq:-4
+id:10, f:0, ch:17, ap:0, li:-150, lq:31, pi:30, pq:141
+id:11, f:0, ch:44, ap:0, li:109, lq:159, pi:-19, pq:180
+id:12, f:0, ch:14, ap:0, li:134, lq:39, pi:-85, pq:-103
+id:13, f:0, ch:41, ap:0, li:50, lq:-199, pi:-57, pq:-184
+id:14, f:0, ch:8, ap:0, li:-55, lq:-175, pi:106, pq:134
+id:15, f:0, ch:11, ap:0, li:-187, lq:60, pi:-28, pq:183
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging meth
+od: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 24
+I: Ranging data ready 24
+
+I: Ranging data get completed for ranging counter 24
+id:0, f:0, ch:35, ap:0, li:153, lq:-115, pi:-101, pq:-149
+id:1, f:0, ch:5, ap:0, li:158, lq:-8, pi:123, pq:-84
+id:2, f:0, ch:38, ap:0, li:-117, lq:122, pi:97, pq:126
+id:3, f:0, ch:26, ap:0, li:-62, lq:-150, pi:151, pq:-11
+id:4, f:0, ch:2, ap:0, li:-164, lq:17, pi:-144, pq:54
+id:5, f:0, ch:8, ap:0, li:178, lq:49, pi:73, pq:-158
+id:6, f:0, ch:20, ap:0, li:-47, lq:139, pi:-96, pq:100
+id:7, f:0, ch:41, ap:0, li:-31, lq:201, pi:30, pq:188
+id:8, f:0, ch:47, ap:0, li:81, lq:-184, pi:-169, pq:-87
+id:9, f:0, ch:29, ap:0, li:-126, lq:104, pi:-58, pq:141
+id:10, f:0, ch:32, ap:0, li:189, lq:55, pi:-172, pq:-67
+id:11, f:0, ch:50, ap:0, li:147, lq:148, pi:11, pq:196
+id:12, f:0, ch:14, ap:0, li:-50, lq:146, pi:-110, pq:80
+id:13, f:0, ch:44, ap:0, li:189, lq:-26, pi:-176, pq:31
+id:14, f:1, ch:17, ap:0, li:56, lq:-171, pi:102, pq:-78
+id:15, f:0, ch:11, ap:0, li:90, lq:-180, pi:171, pq:-87
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method:
+ 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 25
+I: Ranging data ready 25
+
+I: Ranging data get completed for ranging counter 25
+id:0, f:0, ch:32, ap:0, li:-5, lq:161, pi:-79, pq:167
+id:1, f:0, ch:38, ap:0, li:-40, lq:-134, pi:31, pq:-155
+id:2, f:0, ch:14, ap:0, li:67, lq:-98, pi:66, pq:-118
+id:3, f:0, ch:8, ap:0, li:149, lq:25, pi:66, pq:-159
+id:4, f:0, ch:11, ap:0, li:-124, lq:-108, pi:144, pq:117
+id:5, f:0, ch:41, ap:0, li:3, lq:-167, pi:-29, pq:-187
+id:6, f:0, ch:29, ap:0, li:2, lq:135, pi:-129, pq:82
+id:7, f:0, ch:44, ap:0, li:73, lq:137, pi:19, pq:176
+id:8, f:0, ch:26, ap:0, li:133, lq:5, pi:-97, pq:-116
+id:9, f:0, ch:47, ap:0, li:-123, lq:-110, pi:-11, pq:-186
+id:10, f:0, ch:35, ap:0, li:129, lq:88, pi:-158, pq:81
+id:11, f:0, ch:20, ap:0, li:-40, lq:-115, pi:129, pq:-52
+id:12, f:0, ch:5, ap:0, li:-70, lq:111, pi:-143, pq:-40
+id:13, f:0, ch:2, ap:0, li:-30, lq:130, pi:-122, pq:-91
+id:14, f:0, ch:50, ap:0, li:-170, lq:17, pi:101, pq:-165
+id:15, f:0, ch:17, ap:0, li:121, lq:41, pi:-99, pq:-110
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 
+0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 26
+I: Ranging data ready 26
+
+I: Ranging data get completed for ranging counter 26
+id:0, f:0, ch:17, ap:0, li:118, lq:-47, pi:-30, pq:-144
+id:1, f:0, ch:14, ap:0, li:77, lq:-87, pi:20, pq:-132
+id:2, f:0, ch:5, ap:0, li:50, lq:118, pi:-78, pq:-126
+id:3, f:0, ch:32, ap:0, li:-145, lq:-73, pi:181, pq:-22
+id:4, f:0, ch:38, ap:0, li:130, lq:50, pi:-125, pq:96
+id:5, f:0, ch:41, ap:0, li:-58, lq:-157, pi:3, pq:-189
+id:6, f:0, ch:20, ap:0, li:-114, lq:-42, pi:125, pq:56
+id:7, f:0, ch:44, ap:0, li:96, lq:122, pi:6, pq:177
+id:8, f:0, ch:26, ap:0, li:100, lq:-88, pi:-4, pq:-151
+id:9, f:0, ch:2, ap:0, li:99, lq:-90, pi:150, pq:-9
+id:10, f:0, ch:29, ap:0, li:-88, lq:102, pi:-29, pq:149
+id:11, f:0, ch:50, ap:0, li:157, lq:66, pi:20, pq:193
+id:12, f:0, ch:11, ap:0, li:23, lq:-161, pi:164, pq:-85
+id:13, f:0, ch:47, ap:0, li:66, lq:-151, pi:-186, pq:-21
+id:14, f:0, ch:8, ap:0, li:-144, lq:-48, pi:-19, pq:171
+id:15, f:0, ch:35, ap:0, li:150, lq:42, pi:-174, pq:41
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.10000
+0 meters (derived from 16 samples)
+
+I: Subevent result callback 27
+I: Ranging data ready 27
+
+I: Ranging data get completed for ranging counter 27
+id:0, f:0, ch:47, ap:0, li:15, lq:177, pi:102, pq:131
+id:1, f:0, ch:44, ap:0, li:47, lq:165, pi:31, pq:157
+id:2, f:0, ch:20, ap:0, li:-75, lq:126, pi:-37, pq:133
+id:3, f:0, ch:35, ap:0, li:-68, lq:170, pi:46, pq:166
+id:4, f:0, ch:29, ap:0, li:-154, lq:23, pi:53, pq:135
+id:5, f:0, ch:50, ap:0, li:156, lq:104, pi:-5, pq:176
+id:6, f:0, ch:38, ap:0, li:-148, lq:-53, pi:129, pq:-68
+id:7, f:0, ch:32, ap:0, li:-59, lq:-178, pi:134, pq:-111
+id:8, f:0, ch:17, ap:0, li:-38, lq:151, pi:-109, pq:99
+id:9, f:0, ch:14, ap:0, li:25, lq:137, pi:-129, pq:31
+id:10, f:0, ch:11, ap:0, li:83, lq:175, pi:-179, pq:-43
+id:11, f:0, ch:8, ap:0, li:83, lq:167, pi:-88, pq:-153
+id:12, f:0, ch:26, ap:0, li:149, lq:31, pi:-117, pq:-84
+id:13, f:0, ch:2, ap:0, li:145, lq:71, pi:65, pq:-136
+id:14, f:0, ch:41, ap:0, li:96, lq:-157, pi:-119, pq:-125
+id:15, f:0, ch:5, ap:0, li:-156, lq:-8, pi:-97, pq:110
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.10
+0000 meters (derived from 16 samples)
+
+I: Subevent result callback 28
+I: Ranging data ready 28
+
+I: Ranging data get completed for ranging counter 28
+id:0, f:0, ch:29, ap:0, li:130, lq:-77, pi:9, pq:-141
+id:1, f:0, ch:32, ap:0, li:-151, lq:-101, pi:169, pq:-13
+id:2, f:0, ch:41, ap:0, li:166, lq:57, pi:-134, pq:96
+id:3, f:0, ch:14, ap:0, li:23, lq:-103, pi:93, pq:-34
+id:4, f:0, ch:38, ap:0, li:18, lq:-149, pi:-46, pq:-132
+id:5, f:0, ch:8, ap:0, li:-97, lq:-96, pi:6, pq:127
+id:6, f:0, ch:35, ap:0, li:-176, lq:26, pi:161, pq:37
+id:7, f:0, ch:11, ap:0, li:123, lq:73, pi:-59, pq:-121
+id:8, f:0, ch:20, ap:0, li:-108, lq:-66, pi:94, pq:70
+id:9, f:0, ch:5, ap:0, li:85, lq:-69, pi:103, pq:-4
+id:10, f:0, ch:2, ap:0, li:20, lq:-112, pi:75, pq:76
+id:11, f:0, ch:47, ap:0, li:139, lq:87, pi:17, pq:152
+id:12, f:0, ch:17, ap:0, li:91, lq:-84, pi:70, pq:-92
+id:13, f:0, ch:44, ap:0, li:54, lq:-157, pi:-136, pq:-76
+id:14, f:0, ch:50, ap:0, li:-146, lq:87, pi:125, pq:-99
+id:15, f:0, ch:26, ap:0, li:144, lq:16, pi:-82, pq:-110
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.100000 met
+ers (derived from 16 samples)
+
+I: Subevent result callback 29
+I: Ranging data ready 29
+
+I: Ranging data get completed for ranging counter 29
+id:0, f:0, ch:44, ap:0, li:157, lq:70, pi:-76, pq:141
+id:1, f:0, ch:47, ap:0, li:-20, lq:-171, pi:-124, pq:-103
+id:2, f:0, ch:26, ap:0, li:-141, lq:34, pi:24, pq:133
+id:3, f:0, ch:14, ap:0, li:-31, lq:-98, pi:91, pq:25
+id:4, f:0, ch:29, ap:0, li:143, lq:-52, pi:0, pq:-142
+id:5, f:0, ch:50, ap:0, li:100, lq:-148, pi:-167, pq:24
+id:6, f:0, ch:2, ap:0, li:-95, lq:-55, pi:-39, pq:93
+id:7, f:0, ch:38, ap:0, li:145, lq:-46, pi:-140, pq:-32
+id:8, f:0, ch:11, ap:0, li:44, lq:-130, pi:125, pq:-27
+id:9, f:0, ch:41, ap:0, li:-173, lq:54, pi:167, pq:18
+id:10, f:0, ch:8, ap:0, li:-125, lq:-3, pi:-64, pq:103
+id:11, f:0, ch:35, ap:0, li:-38, lq:176, pi:11, pq:167
+id:12, f:0, ch:32, ap:0, li:39, lq:176, pi:-133, pq:109
+id:13, f:0, ch:20, ap:0, li:-119, lq:23, :5, pq:113
+id:14, f:0, ch:5, ap:0, li:48, lq:-94, pi:88, pq:43
+id:15, f:0, ch:17, ap:0, li:54, lq:107, pi:-99, pq:-55
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.100000 met
+ers (derived from 16 samples)
+
+I: Subevent result callback 30
+I: Ranging data ready 30
+
+I: Ranging data get completed for ranging counter 30
+id:0, f:0, ch:2, ap:0, li:39, lq:101, pi:-2, pq:-101
+id:1, f:0, ch:20, ap:0, li:123, lq:-15, pi:16, pq:-115
+id:2, f:0, ch:14, ap:0, li:88, lq:55, pi:-33, pq:-92
+id:3, f:0, ch:8, ap:0, li:-5, lq:130, pi:-58, pq:-109
+id:4, f:0, ch:47, ap:0, li:106, lq:-139, pi:-161, pq:-35
+id:5, f:0, ch:32, ap:0, li:-185, lq:-23, pi:128, pq:118
+id:6, f:0, ch:11, ap:0, li:-129, lq:56, pi:-96, pq:89
+id:7, f:0, ch:5, ap:0, li:-88, lq:-59, pi:-57, pq:80
+id:8, f:0, ch:44, ap:0, li:5, lq:175, pi:50, pq:156
+id:9, f:0, ch:41, ap:0, li:23, lq:183, pi:-32, pq:169
+id:10, f:0, ch:35, ap:0, li:-113, lq:142, pi:48, pq:163
+id:11, f:0, ch:38, ap:0, li:156, lq:-8, pi:-143, pq:-33
+id:12, f:0, ch:50, ap:0, li:102, lq:150, pi:44, pq:165
+id:13, f:0, ch:17, ap:0, li:-21, lq:-120, pi:99, pq:57
+id:14, f:0, ch:29, ap:0, li:141, lq:-64, pi:46, pq:-138
+id:15, f:0, ch:26, ap:0, li:99, lq:-108, pi:88, pq:-106
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.100000 
+meters (derived from 16 samples)
+
+I: Subevent result callback 31
+I: Ranging data ready 31
+
+I: Ranging data get completed for ranging counter 31
+id:0, f:0, ch:14, ap:0, li:-54, lq:-97, pi:87, pq:55
+id:1, f:0, ch:2, ap:0, li:-5, lq:-118, pi:35, pq:102
+id:2, f:0, ch:11, ap:0, li:-65, lq:135, pi:-136, pq:40
+id:3, f:0, ch:26, ap:0, li:89, lq:-120, pi:71, pq:-120
+id:4, f:0, ch:20, ap:0, li:-1, lq:-131, pi:120, pq:-26
+id:5, f:0, ch:17, ap:0, li:-99, lq:-86, pi:73, pq:98
+id:6, f:0, ch:8, ap:0, li:-117, lq:-84, pi:-37, pq:128
+id:7, f:0, ch:35, ap:0, li:116, lq:-139, pi:-83, pq:-147
+id:8, f:0, ch:41, ap:0, li:-175, lq:-57, pi:150, pq:-86
+id:9, f:0, ch:47, ap:0, li:36, lq:166, pi:101, pq:123
+id:10, f:0, ch:50, ap:0, li:172, lq:-27, pi:-87, pq:140
+id:11, f:0, ch:44, ap:0, li:131, lq:-110, pi:-161, pq:2
+id:12, f:0, ch:29, ap:0, li:153, lq:21, pi:-74, pq:-124
+id:13, f:0, ch:38, ap:0, li:-115, lq:-106, pi:93, pq:-110
+id:14, f:0, ch:32, ap:0, li:-179, lq:-48, pi:162, pq:61
+id:15, f:0, ch:5, ap:0, li:33, lq:-110, pi:76, pq:76
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.1
+00000 meters (derived from 16 samples)
+
+I: Subevent result callback 32
+I: Ranging data ready 32
+
+I: Ranging data get completed for ranging counter 32
+id:0, f:0, ch:29, ap:0, li:-19, lq:-140, pi:141, pq:-75
+id:1, f:0, ch:2, ap:0, li:-24, lq:-129, pi:64, pq:134
+id:2, f:0, ch:44, ap:0, li:-114, lq:-105, pi:-3, pq:-173
+id:3, f:0, ch:38, ap:0, li:-50, lq:-138, pi:17, pq:-166
+id:4, f:0, ch:35, ap:0, li:-113, lq:-124, pi:127, pq:-142
+id:5, f:0, ch:17, ap:0, li:20, lq:132, pi:-154, pq:25
+id:6, f:0, ch:8, ap:0, li:-144, lq:60, pi:-152, pq:93
+id:7, f:0, ch:41, ap:0, li:40, lq:-161, pi:-108, pq:-156
+id:8, f:0, ch:5, ap:0, li:75, lq:106, pi:-8, pq:-148
+id:9, f:0, ch:50, ap:0, li:154, lq:14, pi:-58, pq:165
+id:10, f:0, ch:11, ap:0, li:-153, lq:51, pi:-42, pq:178
+id:11, f:0, ch:26, ap:0, li:-78, lq:-117, pi:157, pq:-29
+id:12, f:0, ch:32, ap:0, li:57, lq:159, pi:-134, pq:140
+id:13, f:0, ch:47, ap:0, li:-104, lq:114, pi:170, pq:-39
+id:14, f:0, ch:14, ap:0, li:-122, lq:-7, pi:51, pq:126
+id:15, f:0, ch:20, ap:0, li:119, lq:54, pi:-134, pq:-65
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging me
+thod: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 33
+I: Ranging data ready 33
+
+I: Ranging data get completed for ranging counter 33
+id:0, f:0, ch:38, ap:0, li:145, lq:0, pi:-125, pq:53
+id:1, f:0, ch:32, ap:0, li:169, lq:9, pi:-149, pq:-58
+id:2, f:0, ch:2, ap:0, li:-56, lq:-119, pi:23, pq:119
+id:3, f:0, ch:35, ap:0, li:-167, lq:-12, pi:154, pq:-21
+id:4, f:0, ch:5, ap:0, li:52, lq:118, pi:-33, pq:-117
+id:5, f:0, ch:41, ap:0, li:158, lq:-47, pi:-155, pq:17
+id:6, f:0, ch:14, ap:0, li:-117, lq:20, pi:18, pq:109
+id:7, f:0, ch:29, ap:0, li:127, lq:-62, pi:-22, pq:-131
+id:8, f:0, ch:26, ap:0, li:25, lq:-138, pi:78, pq:-106
+id:9, f:0, ch:44, ap:0, li:140, lq:64, pi:-39, pq:138
+id:10, f:0, ch:17, ap:0, li:-109, lq:-77, pi:101, pq:73
+id:11, f:0, ch:11, ap:0, li:-154, lq:-40, pi:49, pq:139
+id:12, f:0, ch:47, ap:0, li:-123, lq:93, pi:126, pq:-71
+id:13, f:0, ch:20, ap:0, li:102, lq:-81, pi:-2, pq:-123
+id:14, f:0, ch:50, ap:0, li:145, lq:-52, pi:-81, pq:120
+id:15, f:0, ch:8, ap:0, li:69, lq:-138, pi:142, pq:20
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.100
+000 meters (derived from 16 samples)
+
+I: Subevent result callback 34
+I: Ranging data ready 34
+
+I: Ranging data get completed for ranging counter 34
+id:0, f:0, ch:14, ap:0, li:-98, lq:101, pi:-94, pq:92
+id:1, f:0, ch:8, ap:0, li:-168, lq:84, pi:-169, pq:42
+id:2, f:0, ch:20, ap:0, li:10, lq:-158, pi:135, pq:-62
+id:3, f:0, ch:17, ap:0, li:-83, lq:-137, pi:132, pq:71
+id:4, f:0, ch:35, ap:0, li:130, lq:-155, pi:-74, pq:-175
+id:5, f:0, ch:38, ap:0, li:-163, lq:-65, pi:148, pq:-68
+id:6, f:0, ch:32, ap:0, li:-186, lq:-89, pi:188, pq:41
+id:7, f:0, ch:5, ap:0, li:-37, lq:151, pi:-95, pq:-111
+id:8, f:0, ch:26, ap:0, li:-119, lq:120, pi:-45, pq:152
+id:9, f:0, ch:47, ap:0, li:-185, lq:29, pi:136, pq:-110
+id:10, f:0, ch:2, ap:0, li:0, lq:-160, pi:60, pq:134
+id:11, f:0, ch:44, ap:0, li:71, lq:173, pi:1, pq:174
+id:12, f:0, ch:29, ap:0, li:-172, lq:-8, pi:68, pq:146
+id:13, f:0, ch:11, ap:0, li:81, lq:-174, pi:168, pq:-59
+id:14, f:0, ch:50, ap:0, li:-164, lq:93, pi:161, pq:-71
+id:15, f:0, ch:41, ap:0, li:-200, lq:-19, pi:182, pq:-46
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0
+.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 35
+I: Ranging data ready 35
+
+I: Ranging data get completed for ranging counter 35
+id:0, f:0, ch:8, ap:0, li:-133, lq:131, pi:-176, pq:0
+id:1, f:0, ch:44, ap:0, li:82, lq:159, pi:22, pq:167
+id:2, f:0, ch:2, ap:0, li:126, lq:96, pi:75, pq:-127
+id:3, f:0, ch:38, ap:0, li:165, lq:-56, pi:-161, pq:-40
+id:4, f:0, ch:32, ap:0, li:206, lq:-84, pi:-89, pq:-173
+id:5, f:0, ch:26, ap:0, li:121, lq:-117, pi:41, pq:-154
+id:6, f:0, ch:35, ap:0, li:-191, lq:68, pi:146, pq:118
+id:7, f:0, ch:47, ap:0, li:170, lq:-75, pi:-158, pq:75
+id:8, f:0, ch:14, ap:0, li:-139, lq:-36, pi:36, pq:129
+id:9, f:0, ch:20, ap:0, li:54, lq:147, pi:-147, pq:9
+id:10, f:0, ch:11, ap:0, li:47, lq:185, pi:-169, pq:-67
+id:11, f:0, ch:41, ap:0, li:-82, lq:182, pi:115, pq:148
+id:12, f:0, ch:17, ap:0, li:-83, lq:-138, pi:139, pq:60
+id:13, f:0, ch:50, ap:0, li:-36, lq:-183, pi:-120, pq:-129
+id:14, f:0, ch:5, ap:0, li:-143, lq:-65, pi:-91, pq:114
+id:15, f:0, ch:29, ap:0, li:99, lq:-139, pi:84, pq:-136
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method:
+ 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 36
+I: Ranging data ready 36
+
+I: Ranging data get completed for ranging counter 36
+id:0, f:0, ch:17, ap:0, li:22, lq:130, pi:-152, pq:0
+id:1, f:0, ch:50, ap:0, li:141, lq:55, pi:-30, pq:170
+id:2, f:0, ch:11, ap:0, li:151, lq:-42, pi:54, pq:-170
+id:3, f:0, ch:2, ap:0, li:126, lq:26, pi:109, pq:-98
+id:4, f:0, ch:41, ap:0, li:-20, lq:-161, pi:-16, pq:-184
+id:5, f:0, ch:8, ap:0, li:-149, lq:38, pi:-145, pq:95
+id:6, f:0, ch:38, ap:0, li:-126, lq:67, pi:150, pq:60
+id:7, f:0, ch:29, ap:0, li:-139, lq:-15, pi:81, pq:135
+id:8, f:0, ch:20, ap:0, li:-129, lq:-3, pi:63, pq:132
+id:9, f:0, ch:26, ap:0, li:69, lq:119, pi:-158, pq:-4
+id:10, f:0, ch:5, ap:0, li:-127, lq:-20, pi:-119, pq:83
+id:11, f:0, ch:44, ap:0, li:-43, lq:144, pi:129, pq:111
+id:12, f:0, ch:47, ap:0, li:150, lq:11, pi:-94, pq:144
+id:13, f:0, ch:14, ap:0, li:-84, lq:-82, pi:104, pq:82
+id:14, f:0, ch:35, ap:0, li:150, lq:-67, pi:-156, pq:-106
+id:15, f:0, ch:32, ap:0, li:86, lq:-143, pi:18, pq:-191
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.100
+000 meters (derived from 16 samples)
+
+I: Subevent result callback 37
+I: Ranging data ready 37
+
+I: Ranging data get completed for ranging counter 37
+id:0, f:0, ch:14, ap:0, li:130, lq:-49, pi:38, pq:-125
+id:1, f:0, ch:5, ap:0, li:82, lq:129, pi:9, pq:-143
+id:2, f:0, ch:8, ap:0, li:83, lq:-167, pi:165, pq:57
+id:3, f:0, ch:50, ap:0, li:105, lq:-148, pi:-169, pq:11
+id:4, f:0, ch:38, ap:0, li:94, lq:140, pi:-68, pq:142
+id:5, f:0, ch:47, ap:0, li:-154, lq:-93, pi:24, pq:-168
+id:6, f:0, ch:32, ap:0, li:200, lq:35, pi:-176, pq:-72
+id:7, f:0, ch:20, ap:0, li:-41, lq:154, pi:-119, pq:91
+id:8, f:0, ch:17, ap:0, li:29, lq:158, pi:-151, pq:-14
+id:9, f:0, ch:35, ap:0, li:-74, lq:183, pi:45, pq:179
+id:10, f:0, ch:29, ap:0, li:-128, lq:113, pi:-53, pq:150
+id:11, f:0, ch:44, ap:0, li:-170, lq:-61, pi:101, pq:-134
+id:12, f:0, ch:26, ap:0, li:147, lq:83, pi:-132, pq:-89
+id:13, f:0, ch:2, ap:0, li:32, lq:-151, pi:84, pq:115
+id:14, f:0, ch:41, ap:0, li:161, lq:108, pi:-127, pq:131
+id:15, f:0, ch:11, ap:0, li:188, lq:-1, pi:9, pq:-177
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.1
+00000 meters (derived from 16 samples)
+
+I: Subevent result callback 38
+I: Ranging data ready 38
+
+I: Ranging data get completed for ranging counter 38
+id:0, f:0, ch:50, ap:0, li:-75, lq:163, pi:168, pq:7
+id:1, f:0, ch:26, ap:0, li:-85, lq:-147, pi:158, pq:-15
+id:2, f:0, ch:14, ap:0, li:56, lq:125, pi:-123, pq:-38
+id:3, f:0, ch:32, ap:0, li:145, lq:-142, pi:-67, pq:-178
+id:4, f:0, ch:44, ap:0, li:156, lq:-87, pi:-165, pq:31
+id:5, f:0, ch:11, ap:0, li:-3, lq:-188, pi:176, pq:-1
+id:6, f:0, ch:47, ap:0, li:-100, lq:149, pi:167, pq:-8
+id:7, f:0, ch:41, ap:0, li:-191, lq:-32, pi:158, pq:-88
+id:8, f:0, ch:5, ap:0, li:-145, lq:-41, pi:-97, pq:102
+id:9, f:0, ch:35, ap:0, li:-197, lq:1, pi:183, pq:15
+id:10, f:0, ch:38, ap:0, li:124, lq:112, pi:-86, pq:132
+id:11, f:0, ch:8, ap:0, li:-15, lq:-184, pi:114, pq:127
+id:12, f:0, ch:17, ap:0, li:159, lq:-18, pi:-12, pq:-152
+id:13, f:0, ch:20, ap:0, li:-130, lq:-93, pi:135, pq:65
+id:14, f:0, ch:2, ap:0, li:-148, lq:35, pi:-137, pq:33
+id:15, f:0, ch:29, ap:0, li:-47, lq:-167, pi:155, pq:-43
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method
+: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 39
+I: Ranging data ready 39
+
+I: Ranging data get completed for ranging counter 39
+id:0, f:0, ch:41, ap:0, li:115, lq:-157, pi:-148, pq:-109
+id:1, f:0, ch:50, ap:0, li:-159, lq:90, pi:133, pq:-108
+id:2, f:0, ch:38, ap:0, li:-170, lq:-7, pi:154, pq:-41
+id:3, f:0, ch:44, ap:0, li:83, lq:162, pi:31, pq:167
+id:4, f:0, ch:29, ap:0, li:-116, lq:128, pi:-51, pq:155
+id:5, f:0, ch:17, ap:0, li:-134, lq:91, pi:-72, pq:135
+id:6, f:0, ch:26, ap:0, li:171, lq:13, pi:-99, pq:-129
+id:7, f:0, ch:8, ap:0, li:42, lq:182, pi:-95, pq:-147
+id:8, f:0, ch:5, ap:0, li:136, lq:70, pi:79, pq:-122
+id:9, f:0, ch:32, ap:0, li:-55, lq:197, pi:-49, pq:186
+id:10, f:0, ch:11, ap:0, li:-190, lq:16, pi:-5, pq:179
+id:11, f:0, ch:14, ap:0, li:24, lq:136, pi:-131, pq:-5
+id:12, f:0, ch:47, ap:0, li:-118, lq:138, pi:170, pq:-14
+id:13, f:0, ch:2, ap:0, li:135, lq:76, pi:80, pq:-120
+id:14, f:0, ch:20, ap:0, li:-160, lq:0, pi:72, pq:132
+id:15, f:0, ch:35, ap:0, li:194, lq:44, pi:-186, pq:22
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.10
+0000 meters (derived from 16 samples)
+
+I: Subevent result callback 40
+I: Ranging data ready 40
+
+I: Ranging data get completed for ranging counter 40
+id:0, f:0, ch:35, ap:0, li:16, lq:167, pi:-46, pq:186
+id:1, f:0, ch:41, ap:0, li:38, lq:-160, pi:-95, pq:-162
+id:2, f:0, ch:47, ap:0, li:-82, lq:130, pi:175, pq:4
+id:3, f:0, ch:11, ap:0, li:-146, lq:-58, pi:64, pq:168
+id:4, f:0, ch:32, ap:0, li:-162, lq:-60, pi:195, pq:16
+id:5, f:0, ch:8, ap:0, li:-44, lq:147, pi:-161, pq:-73
+id:6, f:0, ch:26, ap:0, li:-116, lq:82, pi:-14, pq:161
+id:7, f:0, ch:14, ap:0, li:-85, lq:-79, pi:100, pq:85
+id:8, f:0, ch:29, ap:0, li:120, lq:-78, pi:8, pq:-165
+id:9, f:0, ch:2, ap:0, li:-43, lq:-124, pi:15, pq:146
+id:10, f:0, ch:5, ap:0, li:-98, lq:83, pi:-146, pq:-23
+id:11, f:0, ch:38, ap:0, li:135, lq:-49, pi:-161, pq:-34
+id:12, f:0, ch:44, ap:0, li:-150, lq:-36, pi:112, pq:-135
+id:13, f:0, ch:50, ap:0, li:116, lq:100, pi:57, pq:166
+id:14, f:0, ch:17, ap:0, li:102, lq:83, pi:-114, pq:-104
+id:15, f:0, ch:20, ap:0, li:32, lq:-125, pi:107, pq:-103
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 
+0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 41
+I: Ranging data ready 41
+
+I: Ranging data get completed for ranging counter 41
+id:0, f:0, ch:41, ap:0, li:110, lq:131, pi:-58, pq:186
+id:1, f:0, ch:5, ap:0, li:126, lq:35, pi:61, pq:-136
+id:2, f:0, ch:20, ap:0, li:123, lq:-44, pi:-46, pq:-143
+id:3, f:0, ch:44, ap:0, li:-109, lq:118, pi:182, pq:-1
+id:4, f:0, ch:29, ap:0, li:127, lq:67, pi:-150, pq:-69
+id:5, f:0, ch:32, ap:0, li:-74, lq:-161, pi:149, pq:-133
+id:6, f:0, ch:38, ap:0, li:102, lq:109, pi:-72, pq:153
+id:7, f:0, ch:35, ap:0, li:135, lq:102, pi:-143, pq:130
+id:8, f:0, ch:47, ap:0, li:38, lq:155, pi:135, pq:120
+id:9, f:0, ch:2, ap:0, li:-133, lq:-31, pi:-101, pq:117
+id:10, f:0, ch:8, ap:0, li:154, lq:1, pi:82, pq:-156
+id:11, f:0, ch:26, ap:0, li:61, lq:-128, pi:58, pq:-151
+id:12, f:0, ch:50, ap:0, li:-24, lq:159, pi:182, pq:14
+id:13, f:0, ch:14, ap:0, li:125, lq:11, pi:-5, pq:-187
+id:14, f:0, ch:11, ap:0, li:160, lq:-16, pi:-16, pq:-173
+id:15, f:1, ch:17, ap:0, li:-134, lq:0, pi:25, pq:163
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.
+100000 meters (derived from 16 samples)
+
+I: Subevent result callback 42
+I: Ranging data ready 42
+
+I: Ranging data get completed for ranging counter 42
+id:0, f:0, ch:20, ap:0, li:68, lq:-137, pi:-10, pq:-144
+id:1, f:0, ch:8, ap:0, li:-32, lq:158, pi:-148, pq:27
+id:2, f:0, ch:38, ap:0, li:-172, lq:30, pi:69, pq:-149
+id:3, f:0, ch:26, ap:0, li:155, lq:-73, pi:-141, pq:-81
+id:4, f:0, ch:11, ap:0, li:-175, lq:10, pi:63, pq:151
+id:5, f:0, ch:2, ap:0, li:10, lq:-140, pi:116, pq:56
+id:6, f:0, ch:47, ap:0, li:-3, lq:179, pi:159, pq:-57
+id:7, f:0, ch:29, ap:0, li:149, lq:-19, pi:-142, pq:-7
+id:8, f:0, ch:32, ap:0, li:-111, lq:-134, pi:67, pq:-147
+id:9, f:0, ch:44, ap:0, li:80, lq:-145, pi:-139, pq:68
+id:10, f:0, ch:17, ap:0, li:150, lq:-52, pi:-97, pq:-116
+id:11, f:0, ch:5, ap:0, li:-104, lq:103, pi:-128, pq:52
+id:12, f:0, ch:50, ap:0, li:157, lq:-42, pi:34, pq:148
+id:13, f:0, ch:35, ap:0, li:-184, lq:-10, pi:139, pq:-100
+id:14, f:0, ch:41, ap:0, li:160, lq:12, pi:-41, pq:145
+id:15, f:0, ch:14, ap:0, li:128, lq:88, pi:-142, pq:-35
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method
+: 0.100000 meters (derived from 16 samples)
+I: Subevent result callback 43
+I: Ranging data ready 43
+
+I: Ranging data get completed for ranging counter 43
+id:0, f:0, ch:5, ap:0, li:100, lq:149, pi:-79, pq:-147
+id:1, f:0, ch:38, ap:0, li:40, lq:134, pi:88, pq:96
+id:2, f:0, ch:26, ap:0, li:-117, lq:-92, pi:79, pq:-115
+id:3, f:0, ch:2, ap:0, li:-85, lq:-157, pi:85, pq:141
+id:4, f:0, ch:17, ap:0, li:-89, lq:-151, pi:132, pq:-96
+id:5, f:0, ch:11, ap:0, li:44, lq:-210, pi:155, pq:-127
+id:6, f:0, ch:41, ap:0, li:122, lq:86, pi:-17, pq:139
+id:7, f:0, ch:8, ap:0, li:-181, lq:-62, pi:34, pq:175
+id:8, f:0, ch:32, ap:0, li:93, lq:134, pi:-47, pq:146
+id:9, f:0, ch:47, ap:0, li:48, lq:151, pi:146, pq:23
+id:10, f:0, ch:20, ap:0, li:-61, lq:163, pi:17, pq:162
+id:11, f:0, ch:29, ap:0, li:-37, lq:-125, pi:33, pq:-117
+id:12, f:0, ch:35, ap:0, li:48, lq:147, pi:56, pq:134
+id:13, f:0, ch:44, ap:0, li:-137, lq:-82, pi:-44, pq:-142
+id:14, f:0, ch:14, ap:0, li:33, lq:-184, pi:75, pq:-156
+id:15, f:0, ch:50, ap:0, li:133, lq:-64, pi:-52, pq:128
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.10
+0000 meters (derived from 16 samples)
+
+I: Subevent result callback 44
+I: Ranging data ready 44
+
+I: Ranging data get completed for ranging counter 44
+id:0, f:0, ch:38, ap:0, li:146, lq:-60, pi:-49, pq:139
+id:1, f:0, ch:44, ap:0, li:-137, lq:-23, pi:-61, pq:-116
+id:2, f:0, ch:14, ap:0, li:-198, lq:-29, pi:183, pq:39
+id:3, f:0, ch:35, ap:0, li:-147, lq:2, pi:69, pq:-120
+id:4, f:0, ch:2, ap:0, li:-102, lq:-132, pi:70, pq:136
+id:5, f:0, ch:11, ap:0, li:220, lq:56, pi:-188, pq:-102
+id:6, f:0, ch:17, ap:0, li:-177, lq:-80, pi:167, pq:-75
+id:7, f:0, ch:26, ap:0, li:159, lq:24, pi:-94, pq:117
+id:8, f:0, ch:8, ap:0, li:-180, lq:-94, pi:115, pq:151
+id:9, f:0, ch:47, ap:0, li:93, lq:-132, pi:-39, pq:145
+id:10, f:0, ch:50, ap:0, li:-122, lq:-45, pi:-107, pq:-47
+id:11, f:0, ch:32, ap:0, li:148, lq:21, pi:-64, pq:115
+id:12, f:0, ch:5, ap:0, li:126, lq:-131, pi:133, pq:-99
+id:13, f:1, ch:41, ap:0, li:11, lq:191, pi:211, pq:-205
+id:14, f:0, ch:29, ap:0, li:-130, lq:-18, pi:59, pq:-103
+id:15, f:0, ch:20, ap:0, li:-130, lq:-140, pi:59, pq:-163
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging 
+method: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 45
+I: Ranging data ready 45
+
+I: Ranging data get completed for ranging counter 45
+id:0, f:0, ch:38, ap:0, li:44, lq:132, pi:123, pq:46
+id:1, f:0, ch:44, ap:0, li:121, lq:-59, pi:-29, pq:122
+id:2, f:0, ch:11, ap:0, li:-47, lq:198, pi:-84, pq:171
+id:3, f:0, ch:41, ap:0, li:-115, lq:-63, pi:-63, pq:-106
+id:4, f:0, ch:8, ap:0, li:183, lq:-44, pi:-1, pq:-177
+id:5, f:0, ch:35, ap:0, li:-42, lq:128, pi:124, pq:19
+id:6, f:0, ch:47, ap:0, li:116, lq:-92, pi:-1, pq:138
+id:7, f:0, ch:2, ap:0, li:-147, lq:58, pi:-95, pq:112
+id:8, f:0, ch:32, ap:0, li:-7, lq:-143, pi:-99, pq:-89
+id:9, f:0, ch:14, ap:0, li:43, lq:-175, pi:9, pq:-168
+id:10, f:0, ch:17, ap:0, li:-169, lq:-41, pi:155, pq:-45
+id:11, f:0, ch:26, ap:0, li:31, lq:139, pi:60, pq:118
+id:12, f:0, ch:29, ap:0, li:121, lq:-17, pi:-92, pq:67
+id:13, f:0, ch:50, ap:0, li:-128, lq:-13, pi:-83, pq:-89
+id:14, f:0, ch:5, ap:0, li:159, lq:-54, pi:58, pq:-144
+id:15, f:0, ch:20, ap:0, li:-174, lq:19, pi:155, pq:-43
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.100
+000 meters (derived from 16 samples)
+
+I: Subevent result callback 46
+I: Ranging data ready 46
+
+I: Ranging data get completed for ranging counter 46
+id:0, f:0, ch:47, ap:0, li:38, lq:140, pi:136, pq:-17
+id:1, f:0, ch:50, ap:0, li:95, lq:-87, pi:-35, pq:116
+id:2, f:0, ch:32, ap:0, li:-131, lq:-48, pi:60, pq:-117
+id:3, f:0, ch:5, ap:0, li:-67, lq:-159, pi:129, pq:94
+id:4, f:0, ch:38, ap:0, li:90, lq:-104, pi:-114, pq:60
+id:5, f:0, ch:8, ap:0, li:137, lq:132, pi:-132, pq:-123
+id:6, f:0, ch:26, ap:0, li:140, lq:19, pi:-106, pq:81
+id:7, f:0, ch:29, ap:0, li:-41, lq:-114, pi:-34, pq:-107
+id:8, f:0, ch:11, ap:0, li:-107, lq:178, pi:-57, pq:186
+id:9, f:0, ch:17, ap:0, li:91, lq:-148, pi:-52, pq:-156
+id:10, f:0, ch:35, ap:0, li:66, lq:-114, pi:-125, pq:-11
+id:11, f:0, ch:2, ap:0, li:68, lq:146, pi:-89, pq:-122
+id:12, f:0, ch:41, ap:0, li:59, lq:114, pi:92, pq:78
+id:13, f:0, ch:44, ap:0, li:80, lq:-106, pi:-98, pq:79
+id:14, f:0, ch:20, ap:0, li:-70, lq:-159, pi:30, pq:-161
+id:15, f:0, ch:14, ap:0, li:14, lq:-180, pi:64, pq:-157
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method:
+ 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 47
+I: Ranging data ready 47
+
+I: Ranging data get completed for ranging counter 47
+id:0, f:0, ch:14, ap:0, li:170, lq:51, pi:-167, pq:16
+id:1, f:0, ch:8, ap:0, li:99, lq:164, pi:-171, pq:-56
+id:2, f:0, ch:20, ap:0, li:-128, lq:118, pi:148, pq:69
+id:3, f:0, ch:5, ap:0, li:139, lq:-104, pi:108, pq:-121
+id:4, f:0, ch:50, ap:0, li:-48, lq:-123, pi:-120, pq:25
+id:5, f:0, ch:2, ap:0, li:-124, lq:-107, pi:62, pq:139
+id:6, f:0, ch:11, ap:0, li:204, lq:-24, pi:-144, pq:-131
+id:7, f:0, ch:29, ap:0, li:119, lq:-16, pi:-91, pq:68
+id:8, f:0, ch:26, ap:0, li:122, lq:-69, pi:-130, pq:27
+id:9, f:0, ch:17, ap:0, li:143, lq:96, pi:-132, pq:94
+id:10, f:0, ch:32, ap:0, li:-22, lq:139, pi:112, pq:67
+id:11, f:0, ch:35, ap:0, li:129, lq:-32, pi:-81, pq:95
+id:12, f:0, ch:44, ap:0, li:-116, lq:70, pi:54, pq:-114
+id:13, f:0, ch:47, ap:0, li:127, lq:70, pi:116, pq:71
+id:14, f:0, ch:38, ap:0, li:6, lq:137, pi:127, pq:9
+id:15, f:0, ch:41, ap:0, li:122, lq:-47, pi:-55, pq:110
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.1000
+00 meters (derived from 16 samples)
+
+I: Subevent result callback 48
+I: Ranging data ready 48
+
+I: Ranging data get completed for ranging counter 48
+id:0, f:0, ch:14, ap:0, li:34, lq:-175, pi:11, pq:-167
+id:1, f:0, ch:29, ap:0, li:34, lq:112, pi:51, pq:97
+id:2, f:0, ch:44, ap:0, li:-84, lq:-105, pi:-110, pq:-61
+id:3, f:0, ch:17, ap:0, li:144, lq:92, pi:-136, pq:88
+id:4, f:0, ch:47, ap:0, li:71, lq:124, pi:134, pq:-15
+id:5, f:0, ch:35, ap:0, li:-13, lq:131, pi:117, pq:40
+id:6, f:0, ch:26, ap:0, li:-10, lq:139, pi:89, pq:95
+id:7, f:0, ch:38, ap:0, li:32, lq:-132, pi:-126, pq:25
+id:8, f:0, ch:20, ap:0, li:172, lq:-9, pi:-153, pq:55
+id:9, f:0, ch:8, ap:0, li:141, lq:130, pi:-162, pq:-77
+id:10, f:0, ch:5, ap:0, li:171, lq:-19, pi:22, pq:-160
+id:11, f:0, ch:11, ap:0, li:-157, lq:-131, pi:191, pq:-20
+id:12, f:0, ch:50, ap:0, li:-116, lq:-61, pi:-103, pq:-68
+id:13, f:0, ch:41, ap:0, li:-115, lq:-61, pi:-52, pq:-110
+id:14, f:0, ch:32, ap:0, li:-126, lq:-63, pi:43, pq:-124
+id:15, f:0, ch:2, ap:0, li:160, lq:30, pi:17, pq:-151
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0
+.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 49
+I: Ranging data ready 49
+
+I: Ranging data get completed for ranging counter 49
+id:0, f:0, ch:20, ap:0, li:-125, lq:-121, pi:86, pq:-138
+id:1, f:0, ch:47, ap:0, li:143, lq:-29, pi:23, pq:135
+id:2, f:0, ch:35, ap:0, li:134, lq:-3, pi:-76, pq:100
+id:3, f:0, ch:44, ap:0, li:-80, lq:-112, pi:-108, pq:-71
+id:4, f:0, ch:5, ap:0, li:103, lq:139, pi:-114, pq:-115
+id:5, f:0, ch:2, ap:0, li:165, lq:-6, pi:67, pq:-135
+id:6, f:0, ch:14, ap:0, li:-177, lq:-28, pi:161, pq:43
+id:7, f:0, ch:29, ap:0, li:96, lq:70, pi:-46, pq:103
+id:8, f:0, ch:50, ap:0, li:-110, lq:-74, pi:-103, pq:-72
+id:9, f:0, ch:11, ap:0, li:203, lq:-27, pi:-124, pq:-149
+id:10, f:0, ch:41, ap:0, li:-75, lq:109, pi:115, pq:-47
+id:11, f:0, ch:8, ap:0, li:-114, lq:-155, pi:159, pq:84
+id:12, f:0, ch:17, ap:0, li:-33, lq:185, pi:-4, pq:161
+id:13, f:0, ch:38, ap:0, li:24, lq:-136, pi:-130, pq:0
+id:14, f:0, ch:32, ap:0, li:-57, lq:-130, pi:-43, pq:-126
+id:15, f:0, ch:26, ap:0, li:-136, lq:-39, pi:95, pq:-92
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging met
+hod: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 50
+I: Ranging data ready 50
+
+I: Ranging data get completed for ranging counter 50
+id:0, f:0, ch:20, ap:0, li:-4, lq:140, pi:58, pq:155
+id:1, f:0, ch:2, ap:0, li:-53, lq:120, pi:-153, pq:28
+id:2, f:0, ch:32, ap:0, li:106, lq:50, pi:-37, pq:135
+id:3, f:0, ch:47, ap:0, li:79, lq:-88, pi:-35, pq:137
+id:4, f:0, ch:17, ap:0, li:-84, lq:-110, pi:91, pq:-136
+id:5, f:0, ch:29, ap:0, li:-48, lq:-88, pi:-20, pq:-115
+id:6, f:0, ch:44, ap:0, li:-113, lq:1, pi:-27, pq:-132
+id:7, f:0, ch:14, ap:0, li:11, lq:142, pi:-45, pq:163
+id:8, f:0, ch:8, ap:0, li:-153, lq:25, pi:16, pq:182
+id:9, f:0, ch:35, ap:0, li:-110, lq:4, pi:53, pq:-120
+id:10, f:0, ch:5, ap:0, li:-8, lq:138, pi:-164, pq:13
+id:11, f:0, ch:50, ap:0, li:61, lq:89, pi:130, pq:-4
+id:12, f:0, ch:11, ap:0, li:-149, lq:74, pi:96, pq:170
+id:13, f:0, ch:38, ap:0, li:-109, lq:-9, pi:-3, pq:-136
+id:14, f:0, ch:41, ap:0, li:67, lq:85, pi:99, pq:83
+id:15, f:0, ch:26, ap:0, li:72, lq:-89, pi:-135, pq:-11
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.100000 meters
+ (derived from 16 samples)
+
+I: Subevent result callback 51
+I: Ranging data ready 51
+
+I: Ranging data get completed for ranging counter 51
+id:0, f:0, ch:38, ap:0, li:151, lq:-89, pi:-132, pq:97
+id:1, f:0, ch:35, ap:0, li:22, lq:-171, pi:-132, pq:-93
+id:2, f:0, ch:32, ap:0, li:-152, lq:-103, pi:59, pq:-161
+id:3, f:0, ch:41, ap:0, li:-78, lq:151, pi:159, pq:-20
+id:4, f:0, ch:44, ap:0, li:137, lq:109, pi:88, pq:140
+id:5, f:0, ch:11, ap:0, li:132, lq:218, pi:-238, pq:28
+id:6, f:0, ch:29, ap:0, li:67, lq:-139, pi:-97, pq:-109
+id:7, f:0, ch:14, ap:0, li:-56, lq:-215, pi:138, pq:-155
+id:8, f:0, ch:47, ap:0, li:-58, lq:177, pi:148, pq:-94
+id:9, f:0, ch:8, ap:0, li:-196, lq:138, pi:-133, pq:179
+id:10, f:0, ch:20, ap:0, li:202, lq:73, pi:-189, pq:75
+id:11, f:0, ch:2, ap:0, li:201, lq:38, pi:63, pq:-181
+id:12, f:0, ch:26, ap:0, li:-121, lq:-131, pi:60, pq:-156
+id:13, f:0, ch:50, ap:0, li:-97, lq:140, pi:104, pq:-120
+id:14, f:0, ch:5, ap:0, li:-171, lq:134, pi:-161, pq:121
+id:15, f:0, ch:17, ap:0, li:192, lq:88, pi:-196, pq:31
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging 
+method: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result calback 52
+I: Ranging data ready 52
+
+I: Ranging data get completed for ranging counter 52
+id:0, f:0, ch:38, ap:0, li:-135, lq:40, pi:84, pq:-137
+id:1, f:0, ch:41, ap:0, li:15, lq:135, pi:147, pq:52
+id:2, f:0, ch:35, ap:0, li:110, lq:84, pi:23, pq:157
+id:3, f:0, ch:2, ap:0, li:-22, lq:166, pi:-189, pq:-23
+id:4, f:0, ch:29, ap:0, li:8, lq:-124, pi:-87, pq:-112
+id:5, f:0, ch:44, ap:0, li:-124, lq:71, pi:69, pq:-146
+id:6, f:0, ch:26, ap:0, li:-102, lq:101, pi:160, pq:33
+id:7, f:0, ch:50, ap:0, li:136, lq:-12, pi:47, pq:151
+id:8, f:0, ch:20, ap:0, li:172, lq:25, pi:-188, pq:67
+id:9, f:0, ch:32, ap:0, li:0, lq:-148, pi:-117, pq:-122
+id:10, f:0, ch:14, ap:0, li:-88, lq:-158, pi:147, pq:-143
+id:11, f:0, ch:5, ap:0, li:-141, lq:-109, pi:100, pq:175
+id:12, f:0, ch:8, ap:0, li:-130, lq:145, pi:-124, pq:185
+id:13, f:0, ch:47, ap:0, li:87, lq:-124, pi:-83, pq:150
+id:14, f:0, ch:17, ap:0, li:97, lq:-144, pi:-112, pq:-166
+id:15, f:0, ch:11, ap:0, li:-74, lq:-196, pi:203, pq:-125
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging met
+hod: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 53
+I: Ranging data ready 53
+
+I: Ranging data get completed for ranging counter 53
+id:0, f:0, ch:17, ap:0, li:-44, lq:-165, pi:89, pq:-134
+id:1, f:0, ch:44, ap:0, li:-138, lq:-26, pi:1, pq:-131
+id:2, f:0, ch:8, ap:0, li:-116, lq:154, pi:-150, pq:102
+id:3, f:0, ch:50, ap:0, li:83, lq:108, pi:113, pq:61
+id:4, f:0, ch:32, ap:0, li:132, lq:-61, pi:-137, pq:11
+id:5, f:0, ch:41, ap:0, li:-3, lq:-135, pi:-115, pq:-61
+id:6, f:0, ch:26, ap:0, li:-141, lq:-8, pi:121, pq:-54
+id:7, f:0, ch:35, ap:0, li:-81, lq:110, pi:127, pq:18
+id:8, f:0, ch:14, ap:0, li:150, lq:95, pi:-167, pq:-5
+id:9, f:0, ch:11, ap:0, li:155, lq:-136, pi:16, pq:-194
+id:10, f:0, ch:47, ap:0, li:44, lq:-141, pi:-125, pq:62
+id:11, f:0, ch:2, ap:0, li:-166, lq:4, pi:-81, pq:131
+id:12, f:0, ch:38, ap:0, li:-95, lq:99, pi:122, pq:-43
+id:13, f:0, ch:5, ap:0, li:140, lq:105, pi:-44, pq:-158
+id:14, f:0, ch:20, ap:0, li:143, lq:-97, pi:-131, pq:-97
+id:15, f:0, ch:29, ap:0, li:8, lq:-121, pi:-44, pq:-106
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 
+0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 54
+I: Ranging data ready 54
+
+I: Ranging data get completed for ranging counter 54
+id:0, f:0, ch:8, ap:0, li:185, lq:-47, pi:25, pq:-179
+id:1, f:0, ch:47, ap:0, li:-44, lq:139, pi:113, pq:-76
+id:2, f:0, ch:20, ap:0, li:-104, lq:136, pi:126, pq:98
+id:3, f:0, ch:26, ap:0, li:114, lq:79, pi:-49, pq:121
+id:4, f:0, ch:38, ap:0, li:34, lq:-132, pi:-129, pq:7
+id:5, f:0, ch:29, ap:0, li:-44, lq:-110, pi:-7, pq:-112
+id:6, f:0, ch:5, ap:0, li:11, lq:-174, pi:160, pq:27
+id:7, f:0, ch:14, ap:0, li:-140, lq:104, pi:94, pq:136
+id:8, f:0, ch:2, ap:0, li:-119, lq:112, pi:-144, pq:50
+id:9, f:0, ch:50, ap:0, li:-7, lq:-137, pi:-125, pq:31
+id:10, f:0, ch:41, ap:0, li:-102, lq:-89, pi:-50, pq:-117
+id:11, f:0, ch:44, ap:0, li:-118, lq:73, pi:70, pq:-108
+id:12, f:0, ch:11, ap:0, li:-193, lq:69, pi:76, pq:176
+id:13, f:0, ch:32, ap:0, li:114, lq:87, pi:-36, pq:131
+id:14, f:0, ch:35, ap:0, li:104, lq:-88, pi:-124, pq:33
+id:15, f:0, ch:17, ap:0, li:31, lq:-169, pi:-13, pq:-160
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0
+.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 55
+I: Ranging data ready 55
+
+I: Ranging data get completed for ranging counter 55
+id:0, f:0, ch:50, ap:0, li:-99, lq:-98, pi:-122, pq:-49
+id:1, f:0, ch:41, ap:0, li:138, lq:-5, pi:-36, pq:126
+id:2, f:0, ch:29, ap:0, li:-117, lq:-39, pi:79, pq:-84
+id:3, f:0, ch:32, ap:0, li:72, lq:130, pi:21, pq:137
+id:4, f:0, ch:47, ap:0, li:146, lq:28, pi:80, pq:115
+id:5, f:0, ch:11, ap:0, li:189, lq:79, pi:-178, pq:-73
+id:6, f:0, ch:14, ap:0, li:-99, lq:-148, pi:144, pq:-85
+id:7, f:0, ch:5, ap:0, li:159, lq:72, pi:-30, pq:-160
+id:8, f:0, ch:35, ap:0, li:140, lq:2, pi:-72, pq:110
+id:9, f:0, ch:38, ap:0, li:-108, lq:-90, pi:-64, pq:-116
+id:10, f:0, ch:8, ap:0, li:-8, lq:194, pi:-179, pq:37
+id:11, f:0, ch:17, ap:0, li:-168, lq:38, pi:154, pq:49
+id:12, f:0, ch:26, ap:0, li:-14, lq:-143, pi:-54, pq:-123
+id:13, f:0, ch:20, ap:0, li:131, lq:-112, pi:-137, pq:-87
+id:14, f:0, ch:2, ap:0, li:62, lq:-152, pi:152, pq:9
+id:15, f:0, ch:44, ap:0, li:111, lq:89, pi:83, pq:104
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.1000
+00 meters (derived from 16 samples)
+
+I: Subevent result callback 56
+I: Ranging data ready 56
+
+I: Ranging data get completed for ranging counter 56
+id:0, f:0, ch:8, ap:0, li:-105, lq:115, pi:-114, pq:143
+id:1, f:0, ch:5, ap:0, li:-109, lq:88, pi:-113, pq:121
+id:2, f:0, ch:41, ap:0, li:-103, lq:50, pi:85, pq:-103
+id:3, f:0, ch:2, ap:0, li:37, lq:127, pi:-125, pq:-91
+id:4, f:0, ch:26, ap:0, li:71, lq:91, pi:-4, pq:137
+id:5, f:0, ch:35, ap:0, li:-24, lq:111, pi:128, pq:41
+id:6, f:0, ch:20, ap:0, li:53, lq:129, pi:-24, pq:162
+id:7, f:0, ch:47, ap:0, li:121, lq:0, pi:63, pq:130
+id:8, f:0, ch:14, ap:0, li:13, lq:142, pi:-73, pq:152
+id:9, f:0, ch:44, ap:0, li:68, lq:-94, pi:-107, pq:87
+id:10, f:0, ch:11, ap:0, li:148, lq:72, pi:-185, pq:-64
+id:11, f:0, ch:32, ap:0, li:-68, lq:100, pi:135, pq:43
+id:12, f:0, ch:38, ap:0, li:-40, lq:-106, pi:-119, pq:-65
+id:13, f:0, ch:29, ap:0, li:51, lq:86, pi:-10, pq:119
+id:14, f:0, ch:50, ap:0, li:-109, lq:24, pi:-38, pq:-128
+id:15, f:0, ch:17, ap:0, li:-106, lq:-90, pi:132, pq:-96
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.10000
+0 meters (derived from 16 samples)
+
+I: Subevent result callback 57
+I: Ranging data ready 57
+
+I: Ranging data get completed for ranging counter 57
+id:0, f:0, ch:32, ap:0, li:81, lq:-126, pi:-133, pq:-48
+id:1, f:0, ch:44, ap:0, li:142, lq:-21, pi:-29, pq:132
+id:2, f:0, ch:8, ap:0, li:70, lq:-182, pi:166, pq:-77
+id:3, f:0, ch:26, ap:0, li:-136, lq:-51, pi:90, pq:-102
+id:4, f:0, ch:17, ap:0, li:105, lq:-139, pi:-64, pq:-151
+id:5, f:0, ch:29, ap:0, li:124, lq:19, pi:-100, pq:63
+id:6, f:0, ch:47, ap:0, li:81, lq:-129, pi:-89, pq:111
+id:7, f:0, ch:14, ap:0, li:-156, lq:92, pi:89, pq:144
+id:8, f:0, ch:38, ap:0, li:130, lq:-58, pi:-102, pq:86
+id:9, f:0, ch:41, ap:0, li:-117, lq:-76, pi:-31, pq:-126
+id:10, f:0, ch:50, ap:0, li:117, lq:-71, pi:-36, pq:125
+id:11, f:0, ch:2, ap:0, li:-41, lq:163, pi:-149, pq:-49
+id:12, f:0, ch:11, ap:0, li:-190, lq:-90, pi:183, pq:71
+id:13, f:0, ch:5, ap:0, li:-29, lq:-177, pi:157, pq:56
+id:14, f:0, ch:35, ap:0, li:127, lq:-60, pi:-119, pq:57
+id:15, f:0, ch:20, ap:0, li:-175, lq:10, pi:165, pq:12
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging metho
+d: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 58
+I: Ranging data ready 58
+
+I: Ranging data get completed for ranging counter 58
+id:0, f:0, ch:35, ap:0, li:67, lq:85, pi:35, pq:123
+id:1, f:0, ch:32, ap:0, li:103, lq:52, pi:-55, pq:125
+id:2, f:0, ch:2, ap:0, li:64, lq:116, pi:-96, pq:-122
+id:3, f:0, ch:11, ap:0, li:-158, lq:-54, pi:169, pq:96
+id:4, f:0, ch:41, ap:0, li:85, lq:66, pi:48, pq:118
+id:5, f:0, ch:20, ap:0, li:-2, lq:-140, pi:-22, pq:-164
+id:6, f:0, ch:44, ap:0, li:-90, lq:-65, pi:-75, pq:-107
+id:7, f:0, ch:5, ap:0, li:139, lq:17, pi:3, pq:-165
+id:8, f:0, ch:38, ap:0, li:-102, lq:39, pi:76, pq:-104
+id:9, f:0, ch:29, ap:0, li:-71, lq:-66, pi:41, pq:-107
+id:10, f:0, ch:50, ap:0, li:-87, lq:-62, pi:-108, pq:-67
+id:11, f:0, ch:8, ap:0, li:138, lq:68, pi:-96, pq:-154
+id:12, f:0, ch:26, ap:0, li:84, lq:73, pi:-38, pq:127
+id:13, f:0, ch:14, ap:0, li:-106, lq:105, pi:79, pq:123
+id:14, f:1, ch:17, ap:0, li:134, lq:53, pi:-183, pq:51
+id:15, f:0, ch:47, ap:0, li:-6, lq:-118, pi:-132, pq:38
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.100000 m
+eters (derived from 16 samples)
+
+I: Subevent result callback 59
+I: Ranging data ready 59
+
+I: Ranging data get completed for ranging counter 59
+id:0, f:0, ch:47, ap:0, li:41, lq:-139, pi:-99, pq:93
+id:1, f:0, ch:38, ap:0, li:51, lq:-126, pi:-124, pq:34
+id:2, f:0, ch:41, ap:0, li:-125, lq:-50, pi:-29, pq:-122
+id:3, f:0, ch:20, ap:0, li:48, lq:-167, pi:-87, pq:-138
+id:4, f:0, ch:2, ap:0, li:153, lq:62, pi:-15, pq:-154
+id:5, f:0, ch:11, ap:0, li:-157, lq:-136, pi:194, pq:-7
+id:6, f:0, ch:26, ap:0, li:128, lq:60, pi:-54, pq:120
+id:7, f:0, ch:5, ap:0, li:-123, lq:126, pi:-122, pq:109
+id:8, f:0, ch:29, ap:0, li:-84, lq:-86, pi:6, pq:-112
+id:9, f:0, ch:35, ap:0, li:-55, lq:123, pi:125, pq:11
+id:10, f:0, ch:8, ap:0, li:-77, lq:-179, pi:177, pq:31
+id:11, f:0, ch:32, ap:0, li:143, lq:-16, pi:-99, pq:91
+id:12, f:0, ch:17, ap:0, li:165, lq:51, pi:-156, pq:46
+id:13, f:0, ch:14, ap:0, li:148, lq:-102, pi:-106, pq:-132
+id:14, f:0, ch:44, ap:0, li:63, lq:122, pi:119, pq:48
+id:15, f:0, ch:50, ap:0, li:102, lq:-86, pi:-38, pq:119
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 
+0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 60
+I: Ranging data ready 60
+
+I: Ranging data get completed for ranging counter 60
+id:0, f:0, ch:26, ap:0, li:133, lq:40, pi:-89, pq:131
+id:1, f:0, ch:38, ap:0, li:-130, lq:-37, pi:-15, pq:-153
+id:2, f:0, ch:50, ap:0, li:127, lq:40, pi:91, pq:122
+id:3, f:0, ch:29, ap:0, li:-94, lq:73, pi:133, pq:16
+id:4, f:0, ch:35, ap:0, li:128, lq:36, pi:-40, pq:147
+id:5, f:0, ch:5, ap:0, li:-103, lq:-144, pi:159, pq:122
+id:6, f:0, ch:14, ap:0, li:95, lq:152, pi:-156, pq:133
+id:7, f:0, ch:2, ap:0, li:-73, lq:149, pi:-185, pq:32
+id:8, f:0, ch:17, ap:0, li:-73, lq:-155, pi:97, pq:-170
+id:9, f:0, ch:44, ap:0, li:82, lq:-110, pi:-127, pq:93
+id:10, f:0, ch:41, ap:0, li:-17, lq:-131, pi:-141, pq:-52
+id:11, f:0, ch:47, ap:0, li:-109, lq:95, pi:53, pq:-157
+id:12, f:0, ch:8, ap:0, li:127, lq:143, pi:-196, pq:-99
+id:13, f:0, ch:11, ap:0, li:101, lq:-181, pi:42, pq:-233
+id:14, f:0, ch:32, ap:0, li:78, lq:120, pi:20, pq:162
+id:15, f:0, ch:20, ap:0, li:50, lq:164, pi:-14, pq:197
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0
+.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 61
+I: Ranging data ready 61
+
+I: Ranging data get completed for ranging counter 61
+id:0, f:0, ch:29, ap:0, li:-73, lq:-100, pi:40, pq:-134
+id:1, f:0, ch:44, ap:0, li:-43, lq:136, pi:159, pq:-35
+id:2, f:0, ch:41, ap:0, li:-71, lq:117, pi:153, pq:-22
+id:3, f:0, ch:35, ap:0, li:-117, lq:-77, pi:21, pq:-157
+id:4, f:0, ch:47, ap:0, li:-147, lq:31, pi:-14, pq:-170
+id:5, f:0, ch:26, ap:0, li:93, lq:-109, pi:-153, pq:-60
+id:6, f:0, ch:32, ap:0, li:15, lq:147, pi:78, pq:149
+id:7, f:0, ch:8, ap:0, li:138, lq:-138, pi:141, pq:-170
+id:8, f:0, ch:2, ap:0, li:110, lq:126, pi:-69, pq:-178
+id:9, f:0, ch:5, ap:0, li:-63, lq:-168, pi:177, pq:101
+id:10, f:0, ch:20, ap:0, li:-62, lq:164, pi:86, pq:180
+id:11, f:0, ch:38, ap:0, li:27, lq:-136, pi:-157, pq:-17
+id:12, f:0, ch:17, ap:0, li:112, lq:131, pi:-151, pq:130
+id:13, f:0, ch:14, ap:0, li:106, lq:145, pi:-174, pq:110
+id:14, f:0, ch:11, ap:0, li:84, lq:191, pi:-226, pq:77
+id:15, f:0, ch:50, ap:0, li:76, lq:113, pi:150, pq:44
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging meth
+od: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 62
+I: Ranging data ready 62
+
+I: Ranging data get completed for ranging counter 62
+id:0, f:0, ch:41, ap:0, li:141, lq:-24, pi:-47, pq:125
+id:1, f:0, ch:44, ap:0, li:-114, lq:-99, pi:-109, pq:-91
+id:2, f:0, ch:2, ap:0, li:-63, lq:-159, pi:122, pq:99
+id:3, f:0, ch:47, ap:0, li:149, lq:53, pi:114, pq:92
+id:4, f:0, ch:32, ap:0, li:-72, lq:-136, pi:-38, pq:-139
+id:5, f:0, ch:5, ap:0, li:156, lq:-91, pi:91, pq:-142
+id:6, f:0, ch:26, ap:0, li:-135, lq:-63, pi:64, pq:-123
+id:7, f:0, ch:20, ap:0, li:-82, lq:-158, pi:42, pq:-161
+id:8, f:0, ch:14, ap:0, li:41, lq:-182, pi:22, pq:-171
+id:9, f:0, ch:35, ap:0, li:-143, lq:-24, pi:38, pq:-130
+id:10, f:0, ch:17, ap:0, li:21, lq:173, pi:-29, pq:161
+id:11, f:0, ch:29, ap:0, li:-123, lq:40, pi:116, pq:-32
+id:12, f:0, ch:11, ap:0, li:129, lq:168, pi:-195, pq:36
+id:13, f:0, ch:38, ap:0, li:-123, lq:-80, pi:-63, pq:-122
+id:14, f:0, ch:50, ap:0, li:51, lq:-134, pi:-87, pq:104
+id:15, f:0, ch:8, ap:0, li:-51, lq:-190, pi:184, pq:10
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging met
+hod: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 63
+I: Ranging data ready 63
+
+I: Ranging data get completed for ranging counter 63
+id:0, f:0, ch:8, ap:0, li:143, lq:-136, pi:96, pq:-157
+id:1, f:0, ch:35, ap:0, li:-3, lq:-144, pi:-117, pq:-67
+id:2, f:0, ch:26, ap:0, li:68, lq:-131, pi:-125, pq:-63
+id:3, f:0, ch:29, ap:0, li:-122, lq:-39, pi:72, pq:-96
+id:4, f:0, ch:41, ap:0, li:139, lq:-30, pi:-51, pq:123
+id:5, f:0, ch:38, ap:0, li:95, lq:-110, pi:-117, pq:68
+id:6, f:0, ch:17, ap:0, li:-74, lq:159, pi:57, pq:153
+id:7, f:0, ch:32, ap:0, li:-73, lq:-134, pi:-33, pq:-139
+id:8, f:0, ch:14, ap:0, li:182, lq:9, pi:-169, pq:-26
+id:9, f:0, ch:5, ap:0, li:110, lq:141, pi:-130, pq:-105
+id:10, f:0, ch:50, ap:0, li:-142, lq:-24, pi:-98, pq:-90
+id:11, f:0, ch:44, ap:0, li:-149, lq:-22, pi:-28, pq:-137
+id:12, f:0, ch:20, ap:0, li:178, lq:6, pi:-159, pq:50
+id:13, f:0, ch:11, ap:0, li:177, lq:114, pi:-196, pq:-25
+id:14, f:0, ch:2, ap:0, li:54, lq:160, pi:-126, pq:-94
+id:15, f:0, ch:47, ap:0, li:-94, lq:-127, pi:-146, pq:-18
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging m
+ethod: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 64
+I: Ranging data ready 64
+
+I: Ranging data get completed for ranging counter 64
+id:0, f:0, ch:14, ap:0, li:-10, lq:220, pi:-74, pq:194
+id:1, f:0, ch:38, ap:0, li:76, lq:152, pi:117, pq:109
+id:2, f:0, ch:26, ap:0, li:-153, lq:87, pi:164, pq:-4
+id:3, f:0, ch:41, ap:0, li:-54, lq:-159, pi:-128, pq:-94
+id:4, f:0, ch:32, ap:0, li:73, lq:-163, pi:-145, pq:-86
+id:5, f:0, ch:17, ap:0, li:144, lq:154, pi:-156, pq:126
+id:6, f:0, ch:50, ap:0, li:60, lq:-158, pi:-119, pq:105
+id:7, f:0, ch:8, ap:0, li:194, lq:125, pi:-162, pq:-154
+id:8, f:0, ch:29, ap:0, li:97, lq:114, pi:-32, pq:137
+id:9, f:0, ch:35, ap:0, li:-9, lq:-169, pi:-127, pq:-97
+id:10, f:0, ch:47, ap:0, li:127, lq:133, pi:163, pq:59
+id:11, f:0, ch:11, ap:0, li:139, lq:204, pi:-238, pq:31
+id:12, f:0, ch:2, ap:0, li:-45, lq:200, pi:-189, pq:-30
+id:13, f:0, ch:5, ap:0, li:214, lq:-37, pi:62, pq:-193
+id:14, f:0, ch:20, ap:0, li:47, lq:207, pi:-10, pq:200
+id:15, f:0, ch:44, ap:0, li:-33, lq:173, pi:162, pq:-21
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging mhod:
+ 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 65
+I: Ranging data ready 65
+
+I: Ranging data get completed for ranging counter 65
+id:0, f:0, ch:32, ap:0, li:-143, lq:-25, pi:78, pq:-111
+id:1, f:0, ch:20, ap:0, li:-7, lq:-174, pi:-28, pq:-161
+id:2, f:0, ch:44, ap:0, li:-70, lq:-124, pi:-119, pq:-61
+id:3, f:0, ch:29, ap:0, li:117, lq:26, pi:-78, pq:82
+id:4, f:0, ch:47, ap:0, li:78, lq:126, pi:138, pq:10
+id:5, f:0, ch:35, ap:0, li:-121, lq:65, pi:111, pq:-64
+id:6, f:0, ch:8, ap:0, li:17, lq:193, pi:-180, pq:18
+id:7, f:0, ch:38, ap:0, li:115, lq:-75, pi:-85, pq:98
+id:8, f:0, ch:2, ap:0, li:156, lq:60, pi:3, pq:-155
+id:9, f:0, ch:41, ap:0, li:-126, lq:49, pi:72, pq:-105
+id:10, f:0, ch:26, ap:0, li:-5, lq:-142, pi:-82, pq:-105
+id:11, f:0, ch:17, ap:0, li:108, lq:-135, pi:-98, pq:-129
+id:12, f:0, ch:5, ap:0, li:120, lq:126, pi:-112, pq:-120
+id:13, f:0, ch:11, ap:0, li:-96, lq:-184, pi:183, pq:-63
+id:14, f:0, ch:14, ap:0, li:-108, lq:143, pi:54, pq:158
+id:15, f:0, ch:50, ap:0, li:135, lq:-23, pi:41, pq:121
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 
+0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 66
+I: Ranging data ready 66
+
+I: Ranging data get completed for ranging counter 66
+id:0, f:0, ch:41, ap:0, li:109, lq:77, pi:46, pq:117
+id:1, f:0, ch:2, ap:0, li:-124, lq:-111, pi:53, pq:143
+id:2, f:0, ch:32, ap:0, li:93, lq:-109, pi:-132, pq:-20
+id:3, f:0, ch:17, ap:0, li:138, lq:-105, pi:-121, pq:-106
+id:4, f:0, ch:5, ap:0, li:166, lq:-53, pi:76, pq:-145
+id:5, f:0, ch:8, ap:0, li:-77, lq:-178, pi:173, pq:48
+id:6, f:0, ch:47, ap:0, li:79, lq:-125, pi:-79, pq:112
+id:7, f:0, ch:50, ap:0, li:-101, lq:-92, pi:-117, pq:-53
+id:8, f:0, ch:44, ap:0, li:-140, lq:-5, pi:-8, pq:-131
+id:9, f:0, ch:29, ap:0, li:-118, lq:-18, pi:85, pq:-72
+id:10, f:0, ch:35, ap:0, li:-1, lq:135, pi:108, pq:64
+id:11, f:0, ch:38, ap:0, li:136, lq:-3, pi:-26, pq:124
+id:12, f:0, ch:26, ap:0, li:138, lq:-29, pi:-122, pq:50
+id:13, f:0, ch:14, ap:0, li:153, lq:-91, pi:-106, pq:-128
+id:14, f:0, ch:11, ap:0, li:19, lq:-205, pi:113, pq:-157
+id:15, f:0, ch:20, ap:0, li:-157, lq:71, pi:157, pq:34
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging metho
+d: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 67
+I: Ranging data ready 67
+
+I: Ranging data get completed for ranging counter 67
+id:0, f:0, ch:41, ap:0, li:-4, lq:-134, pi:-124, pq:-23
+id:1, f:0, ch:50, ap:0, li:-38, lq:130, pi:96, pq:-84
+id:2, f:0, ch:17, ap:0, li:170, lq:-26, pi:-160, pq:-21
+id:3, f:0, ch:5, ap:0, li:89, lq:149, pi:-138, pq:-86
+id:4, f:0, ch:32, ap:0, li:50, lq:133, pi:60, pq:119
+id:5, f:0, ch:44, ap:0, li:-55, lq:-128, pi:-122, pq:-47
+id:6, f:0, ch:29, ap:0, li:83, lq:-84, pi:-110, pq:-18
+id:7, f:0, ch:38, ap:0, li:-128, lq:49, pi:60, pq:-113
+id:8, f:0, ch:11, ap:0, li:190, lq:-76, pi:-100, pq:-166
+id:9, f:0, ch:26, ap:0, li:-75, lq:118, pi:125, pq:37
+id:10, f:0, ch:14, ap:0, li:-164, lq:70, pi:137, pq:94
+id:11, f:0, ch:8, ap:0, li:-178, lq:72, pi:-23, pq:179
+id:12, f:0, ch:2, ap:0, li:-129, lq:104, pi:-132, pq:78
+id:13, f:0, ch:35, ap:0, li:-87, lq:103, pi:124, pq:-23
+id:14, f:0, ch:47, ap:0, li:98, lq:-108, pi:-45, pq:129
+id:15, f:0, ch:20, ap:0, li:-31, lq:168, pi:79, pq:140
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 
+0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 68
+I: Ranging data ready 68
+
+I: Ranging data get completed for ranging counter 68
+id:0, f:0, ch:20, ap:0, li:-153, lq:-82, pi:140, pq:-83
+id:1, f:0, ch:5, ap:0, li:160, lq:68, pi:-13, pq:-162
+id:2, f:0, ch:35, ap:0, li:-112, lq:-77, pi:15, pq:-127
+id:3, f:0, ch:41, ap:0, li:69, lq:122, pi:76, pq:106
+id:4, f:0, ch:2, ap:0, li:-153, lq:-64, pi:-29, pq:150
+id:5, f:0, ch:14, ap:0, li:77, lq:-163, pi:16, pq:-167
+id:6, f:0, ch:38, ap:0, li:-62, lq:-124, pi:-87, pq:-96
+id:7, f:0, ch:17, ap:0, li:-53, lq:164, pi:7, pq:162
+id:8, f:0, ch:11, ap:0, li:-116, lq:170, pi:-61, pq:184
+id:9, f:0, ch:29, ap:0, li:-115, lq:32, pi:111, pq:-9
+id:10, f:0, ch:47, ap:0, li:-131, lq:-66, pi:-93, pq:-102
+id:11, f:0, ch:50, ap:0, li:-31, lq:132, pi:116, pq:-53
+id:12, f:0, ch:32, ap:0, li:10, lq:-144, pi:-72, pq:-115
+id:13, f:0, ch:8, ap:0, li:-192, lq:17, pi:-22, pq:179
+id:14, f:0, ch:44, ap:0, li:122, lq:-65, pi:-79, pq:103
+id:15, f:0, ch:26, ap:0, li:-92, lq:107, pi:117, pq:60
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method:
+ 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 69
+I: Ranging data ready 69
+
+I: Ranging data get completed for ranging counter 69
+id:0, f:0, ch:11, ap:0, li:-137, lq:157, pi:-32, pq:192
+id:1, f:0, ch:50, ap:0, li:129, lq:47, pi:87, pq:97
+id:2, f:0, ch:47, ap:0, li:139, lq:-60, pi:-15, pq:141
+id:3, f:0, ch:41, ap:0, li:121, lq:-67, pi:-96, pq:88
+id:4, f:0, ch:8, ap:0, li:-100, lq:-168, pi:158, pq:90
+id:5, f:0, ch:26, ap:0, li:123, lq:-73, pi:-135, pq:-5
+id:6, f:0, ch:32, ap:0, li:-129, lq:-71, pi:62, pq:-123
+id:7, f:0, ch:2, ap:0, li:26, lq:164, pi:-114, pq:-104
+id:8, f:0, ch:5, ap:0, li:161, lq:-69, pi:108, pq:-123
+id:9, f:0, ch:17, ap:0, li:-106, lq:138, pi:65, pq:150
+id:10, f:0, ch:35, ap:0, li:-30, lq:-135, pi:-80, pq:-103
+id:11, f:0, ch:20, ap:0, li:116, lq:-132, pi:-120, pq:-112
+id:12, f:0, ch:38, ap:0, li:6, lq:141, pi:125, pq:41
+id:13, f:0, ch:44, ap:0, li:121, lq:-73, pi:-76, pq:110
+id:14, f:0, ch:29, ap:0, li:108, lq:58, pi:-80, pq:83
+id:15, f:0, ch:14, ap:0, li:33, lq:177, pi:-106, pq:132
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 
+0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 70
+I: Ranging data ready 70
+
+I: Ranging data get completed for ranging counter 70
+id:0, f:0, ch:47, ap:0, li:-8, lq:121, pi:119, pq:-81
+id:1, f:0, ch:35, ap:0, li:-111, lq:-21, pi:42, pq:-126
+id:2, f:0, ch:11, ap:0, li:19, lq:164, pi:-138, pq:137
+id:3, f:0, ch:5, ap:0, li:-37, lq:134, pi:-161, pq:28
+id:4, f:0, ch:50, ap:0, li:-86, lq:73, pi:14, pq:-134
+id:5, f:0, ch:20, ap:0, li:-12, lq:138, pi:64, pq:151
+id:6, f:0, ch:29, ap:0, li:13, lq:-99, pi:-81, pq:-87
+id:7, f:0, ch:17, ap:0, li:137, lq:-21, pi:-162, pq:-32
+id:8, f:0, ch:8, ap:0, li:88, lq:126, pi:-175, pq:-54
+id:9, f:0, ch:14, ap:0, li:-54, lq:-134, pi:109, pq:-131
+id:10, f:0, ch:26, ap:0, li:105, lq:46, pi:-70, pq:117
+id:11, f:0, ch:2, ap:0, li:2, lq:-133, pi:150, pq:37
+id:12, f:0, ch:32, ap:0, li:-120, lq:-1, pi:106, pq:-94
+id:13, f:0, ch:41, ap:0, li:112, lq:-6, pi:-14, pq:132
+id:14, f:0, ch:38, ap:0, li:85, lq:-77, pi:-105, pq:86
+id:15, f:0, ch:44, ap:0, li:-117, lq:-3, pi:-23, pq:-135
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.100
+000 meters (derived from 16 samples)
+
+I: Subevent result callback 71
+I: Ranging data ready 71
+
+I: Ranging data get completed for ranging counter 71
+id:0, f:0, ch:26, ap:0, li:-109, lq:92, pi:146, pq:70
+id:1, f:0, ch:11, ap:0, li:65, lq:-182, pi:129, pq:-182
+id:2, f:0, ch:38, ap:0, li:-148, lq:0, pi:86, pq:-144
+id:3, f:0, ch:32, ap:0, li:-139, lq:-63, pi:119, pq:-127
+id:4, f:0, ch:14, ap:0, li:160, lq:48, pi:-182, pq:-60
+id:5, f:0, ch:29, ap:0, li:-30, lq:121, pi:53, pq:133
+id:6, f:0, ch:2, ap:0, li:65, lq:137, pi:-85, pq:-150
+id:7, f:0, ch:47, ap:0, li:65, lq:153, pi:184, pq:52
+id:8, f:0, ch:5, ap:0, li:-103, lq:-126, pi:98, pq:156
+id:9, f:0, ch:17, ap:0, li:149, lq:-68, pi:-129, pq:-137
+id:10, f:0, ch:20, ap:0, li:-126, lq:-106, pi:148, pq:-115
+id:11, f:0, ch:41, ap:0, li:-72, lq:-132, pi:-82, pq:-151
+id:12, f:0, ch:35, ap:0, li:-57, lq:-135, pi:-43, pq:-160
+id:13, f:0, ch:44, ap:0, li:82, lq:139, pi:129, pq:129
+id:14, f:0, ch:50, ap:0, li:1, lq:-162, pi:-182, pq:42
+id:15, f:0, ch:8, ap:0, li:143, lq:109, pi:-113, pq:-174
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging m
+ethod: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 72
+I: Ranging data ready 72
+
+I: Ranging data get completed for ranging counter 72
+id:0, f:0, ch:47, ap:0, li:-164, lq:41, pi:11, pq:-158
+id:1, f:0, ch:35, ap:0, li:53, lq:-132, pi:-118, pq:-61
+id:2, f:0, ch:26, ap:0, li:135, lq:5, pi:-119, pq:47
+id:3, f:0, ch:11, ap:0, li:-189, lq:38, pi:91, pq:155
+id:4, f:0, ch:50, ap:0, li:-146, lq:-78, pi:-106, pq:-113
+id:5, f:0, ch:38, ap:0, li:117, lq:-80, pi:-122, pq:54
+id:6, f:0, ch:2, ap:0, li:-38, lq:146, pi:-137, pq:-31
+id:7, f:0, ch:8, ap:0, li:84, lq:-157, pi:145, pq:-83
+id:8, f:0, ch:17, ap:0, li:47, lq:153, pi:-72, pq:1
+id:9, f:0, ch:14, ap:0, li:129, lq:102, pi:-152, pq:30
+id:10, f:0, ch:29, ap:0, li:-50, lq:109, pi:63, pq:86
+id:11, f:0, ch:32, ap:0, li:146, lq:-4, pi:-122, pq:59
+id:12, f:0, ch:5, ap:0, li:144, lq:-72, pi:90, pq:-119
+id:13, f:0, ch:41, ap:0, li:5, lq:146, pi:111, pq:80
+id:14, f:0, ch:44, ap:0, li:145, lq:-73, pi:-101, pq:114
+id:15, f:0, ch:20, ap:0, li:-80, lq:-139, pi:69, pq:-133
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.1000
+00 meters (derived from 16 samples)
+
+I: Subevent result callback 73
+I: Ranging data ready 73
+
+I: Ranging data get completed for ranging counter 73
+id:0, f:0, ch:11, ap:0, li:113, lq:-209, pi:100, pq:-198
+id:1, f:0, ch:26, ap:0, li:68, lq:153, pi:-20, pq:155
+id:2, f:0, ch:5, ap:0, li:-146, lq:-137, pi:88, pq:164
+id:3, f:0, ch:17, ap:0, li:194, lq:38, pi:-186, pq:-14
+id:4, f:0, ch:38, ap:0, li:-24, lq:171, pi:0, pq:83
+id:5, f:0, ch:47, ap:0, li:94, lq:-183, pi:-163, pq:104
+id:6, f:0, ch:41, ap:0, li:82, lq:-156, pi:-162, pq:-35
+id:7, f:0, ch:20, ap:0, li:118, lq:158, pi:-119, pq:143
+id:8, f:0, ch:32, ap:0, li:-89, lq:-154, pi:23, pq:-164
+id:9, f:0, ch:8, ap:0, li:177, lq:130, pi:-119, pq:-168
+id:10, f:0, ch:50, ap:0, li:66, lq:-188, pi:-169, pq:82
+id:11, f:0, ch:44, ap:0, li:27, lq:-195, pi:-181, pq:-43
+id:12, f:0, ch:29, ap:0, li:140, lq:-44, pi:-135, pq:-27
+id:13, f:0, ch:2, ap:0, li:-177, lq:61, pi:-130, pq:114
+id:14, f:0, ch:35, ap:0, li:-153, lq:79, pi:160, pq:-18
+id:15, f:0, ch:14, ap:0, li:-75, lq:-191, pi:152, pq:-117
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging
+ method: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 74
+I: Ranging data ready 74
+
+I: Ranging data get completed for ranging counter 74
+id:0, f:0, ch:47, ap:0, li:-8, lq:168, pi:183, pq:-55
+id:1, f:0, ch:32, ap:0, li:-133, lq:-72, pi:97, pq:-140
+id:2, f:0, ch:50, ap:0, li:27, lq:-155, pi:-160, pq:82
+id:3, f:0, ch:41, ap:0, li:114, lq:-87, pi:-152, pq:66
+id:4, f:0, ch:11, ap:0, li:-107, lq:-174, pi:231, pq:-20
+id:5, f:0, ch:44, ap:0, li:-137, lq:79, pi:130, pq:-125
+id:6, f:0, ch:38, ap:0, li:-120, lq:83, pi:149, pq:-71
+id:7, f:0, ch:17, ap:0, li:101, lq:-137, pi:-69, pq:-182
+id:8, f:0, ch:14, ap:0, li:-23, lq:-177, pi:134, pq:-152
+id:9, f:0, ch:5, ap:0, li:122, lq:-122, pi:174, pq:-89
+id:10, f:0, ch:8, ap:0, li:-166, lq:-87, pi:102, pq:188
+id:11, f:0, ch:26, ap:0, li:13, lq:-145, pi:-71, pq:-149
+id:12, f:0, ch:29, ap:0, li:-126, lq:-9, pi:139, pq:-34
+id:13, f:0, ch:2, ap:0, li:95, lq:127, pi:-50, pq:-173
+id:14, f:0, ch:20, ap:0, li:-99, lq:139, pi:122, pq:151
+id:15, f:0, ch:35, ap:0, li:-2, lq:-144, pi:-104, pq:-126
+I: Estimated distance to reflector:
+I: - Phase-Based Rangi
+ng method: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 75
+I: Ranging data ready 75
+
+I: Ranging data get completed for ranging counter 75
+id:0, f:0, ch:17, ap:0, li:65, lq:-167, pi:-36, pq:-159
+id:1, f:0, ch:5, ap:0, li:177, lq:-5, pi:54, pq:-156
+id:2, f:0, ch:14, ap:0, li:-184, lq:-19, pi:150, pq:103
+id:3, f:0, ch:26, ap:0, li:147, lq:2, pi:-122, pq:64
+id:4, f:0, ch:35, ap:0, li:-126, lq:-76, pi:32, pq:-134
+id:5, f:0, ch:47, ap:0, li:142, lq:93, pi:126, pq:98
+id:6, f:0, ch:29, ap:0, li:-77, lq:103, pi:96, pq:73
+id:7, f:0, ch:32, ap:0, li:131, lq:79, pi:-64, pq:128
+id:8, f:0, ch:44, ap:0, li:-128, lq:-96, pi:-76, pq:-128
+id:9, f:0, ch:50, ap:0, li:-12, lq:155, pi:123, pq:-76
+id:10, f:0, ch:20, ap:0, li:-6, lq:-174, pi:5, pq:-165
+id:11, f:0, ch:41, ap:0, li:120, lq:84, pi:35, pq:132
+id:12, f:0, ch:8, ap:0, li:-74, lq:-177, pi:164, pq:75
+id:13, f:0, ch:38, ap:0, li:15, lq:-149, pi:-135, pq:-37
+id:14, f:0, ch:11, ap:0, li:97, lq:184, pi:-186, pq:34
+id:15, f:0, ch:2, ap:0, li:48, lq:156, pi:-91, pq:-122
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.10000
+0 meters (derived from 16 samples)
+
+I: Subevent result callback 76
+I: Ranging data ready 76
+
+I: Ranging data get completed for ranging counter 76
+id:0, f:0, ch:2, ap:0, li:83, lq:-142, pi:172, pq:66
+id:1, f:0, ch:50, ap:0, li:-95, lq:123, pi:115, pq:-135
+id:2, f:0, ch:35, ap:0, li:-138, lq:-48, pi:96, pq:-134
+id:3, f:0, ch:32, ap:0, li:-139, lq:63, pi:173, pq:18
+id:4, f:0, ch:17, ap:0, li:-153, lq:-83, pi:198, pq:-6
+id:5, f:0, ch:8, ap:0, li:-123, lq:-149, pi:137, pq:170
+id:6, f:0, ch:41, ap:0, li:-105, lq:-101, pi:-25, pq:-165
+id:7, f:0, ch:26, ap:0, li:1, lq:-145, pi:-38, pq:-162
+id:8, f:0, ch:29, ap:0, li:-126, lq:-3, pi:143, pq:-19
+id:9, f:0, ch:5, ap:0, li:149, lq:-96, pi:183, pq:-85
+id:10, f:0, ch:11, ap:0, li:-206, lq:-33, pi:140, pq:193
+id:11, f:0, ch:44, ap:0, li:-130, lq:-90, pi:-40, pq:-175
+id:12, f:0, ch:14, ap:0, li:179, lq:33, pi:-188, pq:-91
+id:13, f:0, ch:20, ap:0, li:-64, lq:-162, pi:86, pq:-178
+id:14, f:0, ch:38, ap:0, li:100, lq:108, pi:33, pq:165
+id:15, f:0, ch:47, ap:0, li:-2, lq:-170, pi:-193, pq:9
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging me
+thod: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 77
+I: Ranging data ready 77
+
+I: Ranging data get completed for ranging counter 77
+id:0, f:0, ch:8, ap:0, li:-71, lq:179, pi:-160, pq:84
+id:1, f:0, ch:47, ap:0, li:165, lq:-17, pi:52, pq:148
+id:2, f:0, ch:29, ap:0, li:-33, lq:119, pi:62, pq:98
+id:3, f:0, ch:41, ap:0, li:28, lq:-141, pi:-133, pq:-24
+id:4, f:0, ch:5, ap:0, li:-156, lq:-90, pi:29, pq:165
+id:5, f:0, ch:14, ap:0, li:158, lq:95, pi:-173, pq:9
+id:6, f:0, ch:2, ap:0, li:-9, lq:164, pi:-130, pq:-79
+id:7, f:0, ch:20, ap:0, li:-173, lq:-28, pi:157, pq:-40
+id:8, f:0, ch:17, ap:0, li:-144, lq:99, pi:115, pq:117
+id:9, f:0, ch:11, ap:0, li:-140, lq:155, pi:-27, pq:194
+id:10, f:0, ch:44, ap:0, li:-96, lq:121, pi:118, pq:-84
+id:11, f:0, ch:26, ap:0, li:-127, lq:-69, pi:80, pq:-108
+id:12, f:0, ch:35, ap:0, li:51, lq:132, pi:57, pq:120
+id:13, f:0, ch:38, ap:0, li:122, lq:-80, pi:-105, pq:86
+id:14, f:0, ch:50, ap:0, li:-143, lq:51, pi:-16, pq:-143
+id:15, f:0, ch:32, ap:0, li:-69, lq:-133, pi:-19, pq:-139
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0
+.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 78
+I: Ranging data ready 78
+
+I: Ranging data get completed for ranging counter 78
+id:0, f:0, ch:50, ap:0, li:-12, lq:182, pi:164, pq:-52
+id:1, f:0, ch:17, ap:0, li:148, lq:154, pi:-179, pq:91
+id:2, f:0, ch:20, ap:0, li:190, lq:-96, pi:-175, pq:-99
+id:3, f:0, ch:35, ap:0, li:-32, lq:-169, pi:-79, pq:-141
+id:4, f:0, ch:41, ap:0, li:-172, lq:-17, pi:65, pq:-150
+id:5, f:0, ch:29, ap:0, li:-81, lq:126, pi:104, pq:94
+id:6, f:0, ch:11, ap:0, li:141, lq:215, pi:-243, pq:-3
+id:7, f:0, ch:2, ap:0, li:202, lq:11, pi:114, pq:-151
+id:8, f:0, ch:5, ap:0, li:61, lq:-211, pi:204, pq:22
+id:9, f:0, ch:44, ap:0, li:-173, lq:-74, pi:-7, pq:-176
+id:10, f:0, ch:38, ap:0, li:-108, lq:137, pi:163, pq:-15
+id:11, f:0, ch:8, ap:0, li:92, lq:219, pi:-195, pq:-106
+id:12, f:0, ch:14, ap:0, li:199, lq:-106, pi:-96, pq:-190
+id:13, f:0, ch:47, ap:0, li:36, lq:-197, pi:-176, pq:68
+id:14, f:0, ch:32, ap:0, li:-159, lq:-88, pi:107, pq:-133
+id:15, f:0, ch:26, ap:0, li:-96, lq:145, pi:134, pq:92
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging m
+ethod: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 79
+I: Ranging data ready 79
+
+I: Ranging data get completed for ranging counter 79
+id:0, f:0, ch:41, ap:0, li:138, lq:-40, pi:-82, pq:106
+id:1, f:0, ch:11, ap:0, li:169, lq:-130, pi:-16, pq:-199
+id:2, f:0, ch:14, ap:0, li:-172, lq:-75, pi:174, pq:13
+id:3, f:0, ch:17, ap:0, li:12, lq:175, pi:-38, pq:161
+id:4, f:0, ch:5, ap:0, li:-173, lq:-57, pi:10, pq:169
+id:5, f:0, ch:32, ap:0, li:-54, lq:139, pi:113, pq:83
+id:6, f:0, ch:38, ap:0, li:111, lq:-94, pi:-121, pq:60
+id:7, f:0, ch:20, ap:0, li:-93, lq:149, pi:104, pq:127
+id:8, f:0, ch:35, ap:0, li:-105, lq:-95, pi:-11, pq:-132
+id:9, f:0, ch:29, ap:0, li:-83, lq:-93, pi:41, pq:-109
+id:10, f:0, ch:50, ap:0, li:-42, lq:-145, pi:-142, pq:15
+id:11, f:0, ch:44, ap:0, li:-27, lq:-151, pi:-140, pq:-37
+id:12, f:0, ch:8, ap:0, li:74, lq:-181, pi:170, pq:-65
+id:13, f:0, ch:2, ap:0, li:77, lq:-149, pi:153, pq:22
+id:14, f:0, ch:26, ap:0, li:-16, lq:-143, pi:-57, pq:-123
+id:15, f:0, ch:47, ap:0, li:90, lq:-138, pi:-91, pq:119
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging met
+hod: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 80
+I: Ranging data ready 80
+
+I: Ranging data get completed for ranging counter 80
+id:0, f:0, ch:35, ap:0, li:-98, lq:107, pi:134, pq:4
+id:1, f:0, ch:29, ap:0, li:-17, lq:124, pi:64, pq:99
+id:2, f:0, ch:2, ap:0, li:-144, lq:-85, pi:5, pq:155
+id:3, f:0, ch:50, ap:0, li:-151, lq:-24, pi:-86, pq:-116
+id:4, f:0, ch:26, ap:0, li:-45, lq:-139, pi:-37, pq:-132
+id:5, f:0, ch:17, ap:0, li:-105, lq:-142, pi:119, pq:-115
+id:6, f:0, ch:32, ap:0, li:15, lq:151, pi:76, pq:120
+id:7, f:0, ch:5, ap:0, li:-183, lq:-3, pi:-50, pq:162
+id:8, f:0, ch:11, ap:0, li:113, lq:179, pi:-196, pq:38
+id:9, f:0, ch:38, ap:0, li:-140, lq:-48, pi:-5, pq:-138
+id:10, f:0, ch:47, ap:0, li:26, lq:166, pi:153, pq:-38
+id:11, f:0, ch:8, ap:0, li:-130, lq:-147, pi:145, pq:113
+id:12, f:0, ch:41, ap:0, li:137, lq:-45, pi:-81, pq:110
+id:13, f:0, ch:14, ap:0, li:155, lq:103, pi:-174, pq:26
+id:14, f:0, ch:44, ap:0, li:-156, lq:-23, pi:-14, pq:-146
+id:15, f:0, ch:20, ap:0, li:-138, lq:-111, pi:120, pq:-115
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging me
+thod: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 81
+I: Ranging data ready 81
+
+I: Ranging data get completed for ranging counter 81
+id:0, f:0, ch:41, ap:0, li:67, lq:151, pi:116, pq:105
+id:1, f:0, ch:26, ap:0, li:-161, lq:62, pi:162, pq:-15
+id:2, f:0, ch:2, ap:0, li:175, lq:93, pi:35, pq:-184
+id:3, f:0, ch:44, ap:0, li:-178, lq:-15, pi:22, pq:-167
+id:4, f:0, ch:8, ap:0, li:-228, lq:62, pi:-63, pq:212
+id:5, f:0, ch:20, ap:0, li:95, lq:-192, pi:-116, pq:-166
+id:6, f:0, ch:50, ap:0, li:-5, lq:-176, pi:-154, pq:63
+id:7, f:0, ch:17, ap:0, li:-215, lq:-28, pi:203, pq:12
+id:8, f:0, ch:38, ap:0, li:-28, lq:-172, pi:-144, pq:-78
+id:9, f:0, ch:32, ap:0, li:-34, lq:-174, pi:-64, pq:-153
+id:10, f:0, ch:11, ap:0, li:181, lq:183, pi:-241, pq:-37
+id:11, f:0, ch:14, ap:0, li:89, lq:-210, pi:26, pq:-213
+id:12, f:0, ch:5, ap:0, li:196, lq:-94, pi:138, pq:-150
+id:13, f:0, ch:29, ap:0, li:148, lq:2, pi:-124, pq:64
+id:14, f:0, ch:35, ap:0, li:-89, lq:-141, pi:-33, pq:-153
+id:15, f:0, ch:47, ap:0, li:138, lq:140, pi:165, pq:82
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging met
+hod: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 82
+I: Ranging data ready 82
+
+I: Ranging data get completed for ranging counter 82
+id:0, f:0, ch:44, ap:0, li:-143, lq:2, pi:116, pq:-66
+id:1, f:0, ch:50, ap:0, li:127, lq:-53, pi:-90, pq:91
+id:2, f:0, ch:2, ap:0, li:-132, lq:-85, pi:-119, pq:83
+id:3, f:0, ch:41, ap:0, li:98, lq:77, pi:-79, pq:86
+id:4, f:0, ch:32, ap:0, li:-114, lq:50, pi:65, pq:97
+id:5, f:0, ch:38, ap:0, li:69, lq:-92, pi:-97, pq:-48
+id:6, f:0, ch:29, ap:0, li:18, lq:82, pi:-71, pq:39
+id:7, f:0, ch:14, ap:0, li:20, lq:-155, pi:86, pq:-118
+id:8, f:0, ch:26, ap:0, li:89, lq:-43, pi:-78, pq:-52
+id:9, f:0, ch:47, ap:0, li:-137, lq:-59, pi:-16, pq:-140
+id:10, f:0, ch:35, ap:0, li:117, lq:59, pi:-114, pq:48
+id:11, f:0, ch:17, ap:0, li:43, lq:-124, pi:7, pq:-123
+id:12, f:0, ch:5, ap:0, li:-93, lq:141, pi:-152, pq:-47
+id:13, f:0, ch:11, ap:0, li:16, lq:-181, pi:161, pq:-51
+id:14, f:0, ch:8, ap:0, li:17, lq:-172, pi:148, pq:61
+id:15, f:0, ch:20, ap:0, li:65, lq:-90, pi:-32, pq:-100
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.100000 met
+ers (derived from 16 samples)
+
+I: Subevent result callback 83
+I: Ranging data ready 83
+
+I: Ranging data get completed for ranging counter 83
+id:0, f:0, ch:5, ap:0, li:-87, lq:-170, pi:54, pq:167
+id:1, f:0, ch:44, ap:0, li:-77, lq:-182, pi:-138, pq:-123
+id:2, f:0, ch:14, ap:0, li:183, lq:35, pi:-144, pq:-98
+id:3, f:0, ch:8, ap:0, li:212, lq:-8, pi:59, pq:-189
+id:4, f:0, ch:41, ap:0, li:84, lq:167, pi:84, pq:152
+id:5, f:0, ch:29, ap:0, li:31, lq:146, pi:-63, pq:125
+id:6, f:0, ch:2, ap:0, li:-174, lq:-6, pi:-132, pq:93
+id:7, f:0, ch:35, ap:0, li:-50, lq:-173, pi:-25, pq:-168
+id:8, f:0, ch:17, ap:0, li:35, lq:-173, pi:57, pq:-156
+id:9, f:0, ch:47, ap:0, li:179, lq:111, pi:144, pq:133
+id:10, f:0, ch:20, ap:0, li:-85, lq:150, pi:23, pq:160
+id:11, f:0, ch:32, ap:0, li:181, lq:-33, pi:-172, pq:4
+id:12, f:0, ch:11, ap:0, li:190, lq:111, pi:-166, pq:-124
+id:13, f:0, ch:38, ap:0, li:-177, lq:26, pi:119, pq:-102
+id:14, f:0, ch:26, ap:0, li:-148, lq:33, pi:131, pq:29
+id:15, f:0, ch:50, ap:0, li:154, lq:-111, pi:-12, pq:163
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method:
+ 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 84
+I: Ranging data ready 84
+
+I: Ranging data get completed for ranging counter 84
+id:0, f:0, ch:17, ap:0, li:138, lq:83, pi:-148, pq:-40
+id:1, f:0, ch:38, ap:0, li:-170, lq:40, pi:138, pq:-88
+id:2, f:0, ch:32, ap:0, li:-172, lq:96, pi:150, pq:106
+id:3, f:0, ch:11, ap:0, li:-142, lq:-150, pi:167, pq:98
+id:4, f:0, ch:2, ap:0, li:-55, lq:-135, pi:-53, pq:124
+id:5, f:0, ch:47, ap:0, li:-184, lq:-2, pi:-9, pq:-173
+id:6, f:0, ch:35, ap:0, li:-167, lq:-84, pi:124, pq:-121
+id:7, f:0, ch:44, ap:0, li:55, lq:176, pi:125, pq:118
+id:8, f:0, ch:20, ap:0, li:-139, lq:53, pi:89, pq:109
+id:9, f:0, ch:50, ap:0, li:-59, lq:-173, pi:-169, pq:-40
+id:10, f:0, ch:14, ap:0, li:101, lq:123, pi:-151, pq:-1
+id:11, f:0, ch:8, ap:0, li:144, lq:146, pi:-29, pq:-191
+id:12, f:0, ch:5, ap:0, li:170, lq:8, pi:147, pq:-59
+id:13, f:0, ch:26, ap:0, li:-109, lq:100, pi:23, pq:136
+id:14, f:0, ch:41, ap:0, li:160, lq:-96, pi:-172, pq:43
+id:15, f:0, ch:29, ap:0, li:154, lq:-19, pi:-87, pq:-117
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging metho
+d: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 85
+I: Ranging data ready 85
+
+I: Ranging data get completed for ranging counter 85
+id:0, f:0, ch:5, ap:0, li:49, lq:133, pi:1, pq:-134
+id:1, f:0, ch:20, ap:0, li:127, lq:-49, pi:-49, pq:-119
+id:2, f:0, ch:8, ap:0, li:-156, lq:-78, pi:-60, pq:152
+id:3, f:0, ch:44, ap:0, li:160, lq:21, pi:-105, pq:111
+id:4, f:0, ch:41, ap:0, li:162, lq:6, pi:-129, pq:83
+id:5, f:0, ch:29, ap:0, li:-96, lq:-108, pi:134, pq:20
+id:6, f:0, ch:32, ap:0, li:24, lq:161, pi:-83, pq:127
+id:7, f:0, ch:11, ap:0, li:-83, lq:155, pi:-150, pq:70
+id:8, f:0, ch:14, ap:0, li:114, lq:-73, pi:15, pq:-127
+id:9, f:0, ch:50, ap:0, li:-152, lq:41, pi:43, pq:-143
+id:10, f:0, ch:35, ap:0, li:-7, lq:167, pi:-18, pq:155
+id:11, f:0, ch:47, ap:0, li:-19, lq:173, pi:163, pq:20
+id:12, f:0, ch:38, ap:0, li:-94, lq:-132, pi:11, pq:-151
+id:13, f:0, ch:26, ap:0, li:21, lq:138, pi:-115, pq:67
+id:14, f:0, ch:2, ap:0, li:-123, lq:-16, pi:-113, pq:23
+id:15, f:0, ch:17, ap:0, li:-76, lq:114, pi:-71, pq:107
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.100
+000 meters (derived from 16 samples)
+
+I: Subevent result callback 86
+I: Ranging data ready 86
+
+I: Ranging data get completed for ranging counter 86
+id:0, f:0, ch:32, ap:0, li:-150, lq:66, pi:116, pq:100
+id:1, f:0, ch:14, ap:0, li:-95, lq:107, pi:-51, pq:124
+id:2, f:0, ch:8, ap:0, li:-137, lq:-114, pi:-11, pq:165
+id:3, f:0, ch:26, ap:0, li:16, lq:142, pi:-105, pq:85
+id:4, f:0, ch:50, ap:0, li:-152, lq:49, pi:35, pq:-147
+id:5, f:0, ch:17, ap:0, li:-109, lq:98, pi:-23, pq:135
+id:6, f:0, ch:5, ap:0, li:147, lq:-1, pi:121, pq:-63
+id:7, f:0, ch:2, ap:0, li:127, lq:-18, pi:118, pq:-20
+id:8, f:0, ch:44, ap:0, li:131, lq:95, pi:-28, pq:149
+id:9, f:0, ch:41, ap:0, li:141, lq:84, pi:-58, pq:143
+id:10, f:0, ch:47, ap:0, li:-176, lq:9, pi:27, pq:-163
+id:11, f:0, ch:11, ap:0, li:-173, lq:-56, pi:64, pq:157
+id:12, f:0, ch:20, ap:0, li:37, lq:-134, pi:54, pq:-120
+id:13, f:0, ch:29, ap:0, li:117, lq:82, pi:-134, pq:-22
+id:14, f:0, ch:38, ap:0, li:-57, lq:153, pi:118, pq:97
+id:15, f:0, ch:35, ap:0, li:-73, lq:152, pi:58, pq:146
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.1000
+00 meters (derived from 16 samples)
+
+I: Subevent result callback 87
+I: Ranging data ready 87
+
+I: Ranging data get completed for ranging counter 87
+id:0, f:0, ch:14, ap:0, li:125, lq:75, pi:-159, pq:-68
+id:1, f:0, ch:5, ap:0, li:-104, lq:-109, pi:-21, pq:175
+id:2, f:0, ch:20, ap:0, li:-3, lq:141, pi:-84, pq:143
+id:3, f:0, ch:8, ap:0, li:179, lq:-19, pi:129, pq:-168
+id:4, f:0, ch:11, ap:0, li:-185, lq:-18, pi:74, pq:204
+id:5, f:0, ch:47, ap:0, li:-75, lq:-156, pi:-189, pq:-67
+id:6, f:0, ch:50, ap:0, li:-25, lq:156, pi:169, pq:-69
+id:7, f:0, ch:44, ap:0, li:-155, lq:-45, pi:50, pq:-179
+id:8, f:0, ch:26, ap:0, li:-73, lq:-125, pi:152, pq:-76
+id:9, f:0, ch:29, ap:0, li:-29, lq:141, pi:-64, pq:157
+id:10, f:0, ch:41, ap:0, li:65, lq:148, pi:95, pq:162
+id:11, f:0, ch:17, ap:0, li:-68, lq:-133, pi:167, pq:-52
+id:12, f:0, ch:2, ap:0, li:-112, lq:-72, pi:-86, pq:130
+id:13, f:0, ch:38, ap:0, li:57, lq:-153, pi:-175, pq:-72
+id:14, f:0, ch:32, ap:0, li:146, lq:68, pi:-180, pq:60
+id:15, f:0, ch:35, ap:0, li:-85, lq:-146, pi:82, pq:-177
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging me
+thod: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 88
+I: Ranging data ready 88
+
+I: Ranging data get completed for ranging counter 88
+id:0, f:0, ch:38, ap:0, li:22, lq:162, pi:65, pq:136
+id:1, f:0, ch:47, ap:0, li:-171, lq:-25, pi:-17, pq:-161
+id:2, f:0, ch:20, ap:0, li:62, lq:-129, pi:33, pq:-130
+id:3, f:0, ch:8, ap:0, li:-80, lq:166, pi:-164, pq:-49
+id:4, f:0, ch:2, ap:0, li:-130, lq:35, pi:-126, pq:4
+id:5, f:0, ch:26, ap:0, li:134, lq:-60, pi:-52, pq:-128
+id:6, f:0, ch:50, ap:0, li:-133, lq:85, pi:70, pq:-131
+id:7, f:0, ch:14, ap:0, li:103, lq:104, pi:-128, pq:-54
+id:8, f:0, ch:32, ap:0, li:163, lq:20, pi:-153, pq:-17
+id:9, f:0, ch:44, ap:0, li:57, lq:149, pi:68, pq:133
+id:10, f:0, ch:11, ap:0, li:-54, lq:-178, pi:169, pq:38
+id:11, f:0, ch:29, ap:0, li:-109, lq:-100, pi:138, pq:4
+id:12, f:0, ch:41, ap:0, li:8, lq:-162, pi:-95, pq:-120
+id:13, f:0, ch:17, ap:0, li:27, lq:-147, pi:104, pq:-95
+id:14, f:0, ch:5, ap:0, li:-6, lq:152, pi:-63, pq:-128
+id:15, f:0, ch:35, ap:0, li:-170, lq:-12, pi:159, pq:-8
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0
+.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 89
+I: Ranging data ready 89
+
+I: Ranging data get completed for ranging counter 89
+id:0, f:0, ch:38, ap:0, li:61, lq:157, pi:28, pq:155
+id:1, f:0, ch:5, ap:0, li:51, lq:145, pi:-22, pq:-142
+id:2, f:0, ch:2, ap:0, li:120, lq:64, pi:87, pq:-94
+id:3, f:0, ch:35, ap:0, li:-22, lq:-173, pi:4, pq:-163
+id:4, f:0, ch:50, ap:0, li:161, lq:-10, pi:18, pq:150
+id:5, f:0, ch:47, ap:0, li:145, lq:-102, pi:-82, pq:144
+id:6, f:0, ch:41, ap:0, li:155, lq:-61, pi:-144, pq:59
+id:7, f:0, ch:44, ap:0, li:-98, lq:-133, pi:-45, pq:-148
+id:8, f:0, ch:17, ap:0, li:-67, lq:136, pi:-63, pq:126
+id:9, f:0, ch:20, ap:0, li:142, lq:21, pi:-122, pq:-58
+id:10, f:0, ch:32, ap:0, li:-168, lq:22, pi:149, pq:48
+id:11, f:0, ch:11, ap:0, li:150, lq:-111, pi:87, pq:-152
+id:12, f:0, ch:26, ap:0, li:-30, lq:147, pi:-65, pq:124
+id:13, f:0, ch:8, ap:0, li:-115, lq:-144, pi:35, pq:167
+id:14, f:0, ch:14, ap:0, li:52, lq:138, pi:-136, pq:29
+id:15, f:0, ch:29, ap:0, li:-119, lq:-92, pi:141, pq:4
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.10
+0000 meters (derived from 16 samples)
+
+I: Subevent result callback 90
+I: Ranging data ready 90
+
+I: Ranging data get completed for ranging counter 90
+id:0, f:0, ch:44, ap:0, li:-163, lq:-14, pi:68, pq:-137
+id:1, f:0, ch:17, ap:0, li:-71, lq:-138, pi:141, pq:-39
+id:2, f:0, ch:2, ap:0, li:-44, lq:132, pi:-93, pq:-91
+id:3, f:0, ch:11, ap:0, li:-166, lq:-94, pi:124, pq:127
+id:4, f:0, ch:5, ap:0, li:-16, lq:-156, pi:80, pq:121
+id:5, f:0, ch:26, ap:0, li:-145, lq:38, pi:100, pq:98
+id:6, f:0, ch:14, ap:0, li:53, lq:-142, pi:77, pq:-120
+id:7, f:0, ch:35, ap:0, li:-126, lq:-122, pi:99, pq:-127
+id:8, f:0, ch:8, ap:0, li:1, lq:-188, pi:158, pq:73
+id:9, f:0, ch:20, ap:0, li:128, lq:-64, pi:-80, pq:-109
+id:10, f:0, ch:47, ap:0, li:-155, lq:81, pi:66, pq:-148
+id:11, f:0, ch:32, ap:0, li:167, lq:2, pi:-156, pq:-15
+id:12, f:0, ch:41, ap:0, li:-97, lq:132, pi:170, pq:23
+id:13, f:0, ch:50, ap:0, li:-40, lq:-156, pi:-153, pq:-1
+id:14, f:0, ch:29, ap:0, li:-135, lq:-62, pi:138, pq:12
+id:15, f:0, ch:38, ap:0, li:138, lq:-96, pi:-154, pq:27
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method:
+ 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 91
+I: Ranging data ready 91
+
+I: Ranging data get completed for ranging counter 91
+id:0, f:0, ch:5, ap:0, li:-159, lq:43, pi:-166, pq:95
+id:1, f:0, ch:2, ap:0, li:-75, lq:128, pi:-150, pq:-89
+id:2, f:0, ch:38, ap:0, li:168, lq:36, pi:-89, pq:178
+id:3, f:0, ch:20, ap:0, li:-87, lq:120, pi:35, pq:170
+id:4, f:0, ch:35, ap:0, li:24, lq:-177, pi:-84, pq:-190
+id:5, f:0, ch:29, ap:0, li:-1, lq:-150, pi:62, pq:-164
+id:6, f:0, ch:26, ap:0, li:-108, lq:-113, pi:162, pq:-83
+id:7, f:0, ch:47, ap:0, li:76, lq:-164, pi:-168, pq:122
+id:8, f:0, ch:11, ap:0, li:-156, lq:-125, pi:201, pq:117
+id:9, f:0, ch:17, ap:0, li:15, lq:162, pi:-135, pq:136
+id:10, f:0, ch:50, ap:0, li:77, lq:144, pi:188, pq:34
+id:11, f:0, ch:8, ap:0, li:144, lq:129, pi:-79, pq:-215
+id:12, f:0, ch:44, ap:0, li:165, lq:-27, pi:-110, pq:159
+id:13, f:0, ch:32, ap:0, li:140, lq:98, pi:-163, pq:115
+id:14, f:0, ch:41, ap:0, li:-92, lq:-141, pi:-72, pq:-182
+id:15, f:0, ch:14, ap:0, li:134, lq:86, pi:-183, pq:-37
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging me
+thod: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 92
+I: Ranging data ready 92
+
+I: Ranging data get completed for ranging counter 92
+id:0, f:0, ch:26, ap:0, li:138, lq:82, pi:-150, pq:-10
+id:1, f:0, ch:35, ap:0, li:-137, lq:-125, pi:122, pq:-121
+id:2, f:0, ch:38, ap:0, li:-35, lq:171, pi:128, pq:102
+id:3, f:0, ch:17, ap:0, li:8, lq:-187, pi:112, pq:-124
+id:4, f:0, ch:29, ap:0, li:23, lq:146, pi:-98, pq:98
+id:5, f:0, ch:44, ap:0, li:-165, lq:-63, pi:69, pq:-149
+id:6, f:0, ch:8, ap:0, li:-202, lq:30, pi:-122, pq:145
+id:7, f:0, ch:5, ap:0, li:-129, lq:119, pi:-162, pq:-31
+id:8, f:0, ch:41, ap:0, li:156, lq:68, pi:-81, pq:137
+id:9, f:0, ch:20, ap:0, li:-151, lq:33, pi:104, pq:107
+id:10, f:0, ch:50, ap:0, li:-138, lq:100, pi:90, pq:-131
+id:11, f:0, ch:47, ap:0, li:-43, lq:181, pi:173, pq:-15
+id:12, f:0, ch:2, ap:0, li:-155, lq:44, pi:-150, pq:5
+id:13, f:1, ch:14, ap:0, li:90, lq:-154, pi:34, pq:-137
+id:14, f:0, ch:11, ap:0, li:-18, lq:-199, pi:199, pq:-1
+id:15, f:0, ch:32, ap:0, li:172, lq:-23, pi:-151, pq:-58
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging meth
+od: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 93
+I: Ranging data ready 93
+
+I: Ranging data get completed for ranging counter 93
+id:0, f:0, ch:50, ap:0, li:-94, lq:104, pi:91, pq:-133
+id:1, f:0, ch:32, ap:0, li:-123, lq:-71, pi:147, pq:-66
+id:2, f:0, ch:2, ap:0, li:135, lq:22, pi:128, pq:-88
+id:3, f:0, ch:41, ap:0, li:138, lq:5, pi:-113, pq:112
+id:4, f:0, ch:35, ap:0, li:146, lq:-48, pi:-172, pq:-33
+id:5, f:0, ch:14, ap:0, li:116, lq:87, pi:-159, pq:-53
+id:6, f:0, ch:8, ap:0, li:152, lq:76, pi:-4, pq:-195
+id:7, f:0, ch:26, ap:0, li:-134, lq:-14, pi:145, pq:46
+id:8, f:0, ch:11, ap:0, li:-157, lq:-80, pi:127, pq:154
+id:9, f:0, ch:29, ap:0, li:101, lq:64, pi:-137, pq:17
+id:10, f:0, ch:47, ap:0, li:-151, lq:-28, pi:-41, pq:-172
+id:11, f:0, ch:20, ap:0, li:42, lq:-121, pi:9, pq:-147
+id:12, f:0, ch:44, ap:0, li:17, lq:146, pi:116, pq:119
+id:13, f:0, ch:17, ap:0, li:-139, lq:49, pi:87, pq:144
+id:14, f:0, ch:5, ap:0, li:-151, lq:-11, pi:-114, pq:127
+id:15, f:0, ch:38, ap:0, li:-16, lq:-144, pi:-92, pq:-136
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method:
+ 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 94
+I: Ranging data ready 94
+
+I: Ranging data get completed for ranging counter 94
+id:0, f:0, ch:41, ap:0, li:-69, lq:121, pi:121, pq:48
+id:1, f:0, ch:47, ap:0, li:88, lq:-128, pi:-116, pq:85
+id:2, f:0, ch:17, ap:0, li:142, lq:-29, pi:-75, pq:-115
+id:3, f:0, ch:26, ap:0, li:-111, lq:74, pi:62, pq:108
+id:4, f:0, ch:2, ap:0, li:-31, lq:131, pi:-70, pq:-105
+id:5, f:0, ch:29, ap:0, li:97, lq:-69, pi:-57, pq:-96
+id:6, f:0, ch:11, ap:0, li:-155, lq:76, pi:-44, pq:156
+id:7, f:0, ch:50, ap:0, li:-123, lq:-69, pi:-76, pq:-110
+id:8, f:0, ch:35, ap:0, li:141, lq:53, pi:-130, pq:59
+id:9, f:0, ch:32, ap:0, li:139, lq:-9, pi:-128, pq:-33
+id:10, f:0, ch:14, ap:0, li:-143, lq:12, pi:63, pq:119
+id:11, f:0, ch:20, ap:0, li:124, lq:30, pi:-115, pq:-32
+id:12, f:0, ch:8, ap:0, li:-121, lq:116, pi:-147, pq:56
+id:13, f:0, ch:5, ap:0, li:-56, lq:137, pi:-122, pq:-68
+id:14, f:0, ch:44, ap:0, li:-144, lq:-34, pi:57, pq:-125
+id:15, f:0, ch:38, ap:0, li:-138, lq:-42, pi:58, pq:-121
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method
+: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 95
+I: Ranging data ready 95
+
+I: Ranging data get completed for ranging counter 95
+id:0, f:0, ch:2, ap:0, li:-138, lq:79, pi:-149, pq:1
+id:1, f:0, ch:8, ap:0, li:172, lq:-104, pi:151, pq:-112
+id:2, f:0, ch:5, ap:0, li:118, lq:-131, pi:164, pq:10
+id:3, f:0, ch:41, ap:0, li:157, lq:-62, pi:-145, pq:63
+id:4, f:0, ch:44, ap:0, li:-140, lq:-106, pi:-13, pq:-165
+id:5, f:0, ch:17, ap:0, li:-117, lq:-127, pi:161, pq:-28
+id:6, f:0, ch:38, ap:0, li:-173, lq:15, pi:123, pq:-107
+id:7, f:0, ch:47, ap:0, li:126, lq:-139, pi:-124, pq:125
+id:8, f:0, ch:26, ap:0, li:-92, lq:-128, pi:120, pq:-88
+id:9, f:0, ch:20, ap:0, li:-56, lq:-145, pi:101, pq:-104
+id:10, f:0, ch:35, ap:0, li:124, lq:-130, pi:-147, pq:-91
+id:11, f:0, ch:11, ap:0, li:-58, lq:-198, pi:193, pq:-2
+id:12, f:0, ch:14, ap:0, li:-96, lq:141, pi:-36, pq:157
+id:13, f:0, ch:32, ap:0, li:-150, lq:76, pi:129, pq:91
+id:14, f:0, ch:50, ap:0, li:-146, lq:88, pi:50, pq:-153
+id:15, f:0, ch:29, ap:0, li:74, lq:120, pi:-108, pq:89
+I: Estimated distance to reflector:
+I: - Phase-Based Rangi
+ng method: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 96
+I: Ranging data ready 96
+
+I: Ranging data get completed for ranging counter 96
+id:0, f:0, ch:17, ap:0, li:-80, lq:-149, pi:144, pq:-65
+id:1, f:0, ch:35, ap:0, li:173, lq:44, pi:-157, pq:59
+id:2, f:0, ch:32, ap:0, li:144, lq:-87, pi:-126, pq:-94
+id:3, f:0, ch:41, ap:0, li:-170, lq:24, pi:129, pq:-94
+id:4, f:0, ch:44, ap:0, li:42, lq:171, pi:112, pq:121
+id:5, f:0, ch:29, ap:0, li:-127, lq:71, pi:75, pq:112
+id:6, f:0, ch:47, ap:0, li:-29, lq:-188, pi:-179, pq:-4
+id:7, f:0, ch:2, ap:0, li:-54, lq:-146, pi:16, pq:142
+id:8, f:0, ch:8, ap:0, li:-88, lq:176, pi:-183, pq:19
+id:9, f:0, ch:50, ap:0, li:152, lq:80, pi:108, pq:120
+id:10, f:0, ch:20, ap:0, li:-126, lq:-85, pi:142, pq:-19
+id:11, f:0, ch:26, ap:0, li:-42, lq:150, pi:-16, pq:145
+id:12, f:0, ch:11, ap:0, li:-174, lq:103, pi:-48, pq:183
+id:13, f:0, ch:5, ap:0, li:-144, lq:96, pi:-160, pq:24
+id:14, f:0, ch:38, ap:0, li:-153, lq:80, pi:153, pq:-49
+id:15, f:0, ch:14, ap:0, li:-20, lq:-166, pi:129, pq:-90
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method:
+ 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 97
+I: Ranging data ready 97
+
+I: Ranging data get completed for ranging counter 97
+id:0, f:0, ch:35, ap:0, li:30, lq:176, pi:-32, pq:164
+id:1, f:0, ch:47, ap:0, li:-169, lq:88, pi:99, pq:-148
+id:2, f:0, ch:29, ap:0, li:114, lq:93, pi:-138, pq:3
+id:3, f:0, ch:38, ap:0, li:-171, lq:33, pi:150, pq:-62
+id:4, f:0, ch:20, ap:0, li:138, lq:57, pi:-137, pq:-34
+id:5, f:0, ch:44, ap:0, li:83, lq:-155, pi:-161, pq:-40
+id:6, f:0, ch:50, ap:0, li:-99, lq:140, pi:120, pq:-108
+id:7, f:0, ch:32, ap:0, li:167, lq:-24, pi:-146, pq:-62
+id:8, f:0, ch:14, ap:0, li:-162, lq:-18, pi:90, pq:124
+id:9, f:0, ch:41, ap:0, li:60, lq:161, pi:41, pq:155
+id:10, f:0, ch:26, ap:0, li:-92, lq:-127, pi:137, pq:-47
+id:11, f:0, ch:2, ap:0, li:-151, lq:1, pi:-131, pq:50
+id:12, f:0, ch:5, ap:0, li:79, lq:147, pi:-11, pq:-156
+id:13, f:0, ch:17, ap:0, li:-135, lq:96, pi:4, pq:155
+id:14, f:0, ch:11, ap:0, li:-193, lq:47, pi:-42, pq:181
+id:15, f:0, ch:8, ap:0, li:-167, lq:98, pi:-168, pq:69
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.100
+000 meters (derived from 16 samples)
+
+I: Subevent result callback 98
+I: Ranging data ready 98
+
+I: Ranging data get completed for ranging counter 98
+id:0, f:0, ch:41, ap:0, li:69, lq:152, pi:55, pq:146
+id:1, f:0, ch:11, ap:0, li:-116, lq:-159, pi:174, pq:61
+id:2, f:0, ch:20, ap:0, li:138, lq:-53, pi:-88, pq:-107
+id:3, f:0, ch:38, ap:0, li:9, lq:-169, pi:-115, pq:-110
+id:4, f:0, ch:50, ap:0, li:136, lq:-96, pi:-65, pq:143
+id:5, f:0, ch:2, ap:0, li:-112, lq:97, pi:-134, pq:-39
+id:6, f:0, ch:8, ap:0, li:122, lq:-157, pi:181, pq:-26
+id:7, f:0, ch:26, ap:0, li:-80, lq:-131, pi:122, pq:-74
+id:8, f:0, ch:44, ap:0, li:-171, lq:-3, pi:98, pq:-127
+id:9, f:0, ch:29, ap:0, li:100, lq:102, pi:-130, pq:38
+id:10, f:0, ch:35, ap:0, li:-143, lq:-103, pi:122, pq:-110
+id:11, f:0, ch:17, ap:0, li:-66, lq:153, pi:-50, pq:146
+id:12, f:0, ch:5, ap:0, li:50, lq:-158, pi:127, pq:86
+id:13, f:0, ch:14, ap:0, li:147, lq:53, pi:-130, pq:-80
+id:14, f:0, ch:47, ap:0, li:87, lq:160, pi:151, pq:80
+id:15, f:0, ch:32, ap:0, li:31, lq:-162, pi:-1, pq:-155
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging metho
+d: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 99
+I: Ranging data ready 99
+
+I: Ranging data get completed for ranging counter 99
+id:0, f:0, ch:50, ap:0, li:99, lq:132, pi:187, pq:42
+id:1, f:0, ch:35, ap:0, li:135, lq:109, pi:-105, pq:174
+id:2, f:0, ch:47, ap:0, li:44, lq:-176, pi:-184, pq:99
+id:3, f:0, ch:29, ap:0, li:15, lq:-142, pi:31, pq:-165
+id:4, f:0, ch:32, ap:0, li:-160, lq:-46, pi:181, pq:-69
+id:5, f:0, ch:41, ap:0, li:-26, lq:165, pi:178, pq:72
+id:6, f:0, ch:5, ap:0, li:-94, lq:134, pi:-191, pq:-17
+id:7, f:0, ch:11, ap:0, li:182, lq:72, pi:-172, pq:-153
+id:8, f:0, ch:26, ap:0, li:52, lq:-142, pi:-17, pq:-177
+id:9, f:0, ch:14, ap:0, li:-110, lq:-115, pi:187, pq:-10
+id:10, f:0, ch:20, ap:0, li:-120, lq:80, pi:108, pq:132
+id:11, f:0, ch:44, ap:0, li:119, lq:118, pi:78, pq:179
+id:12, f:0, ch:17, ap:0, li:161, lq:20, pi:-176, pq:-82
+id:13, f:0, ch:8, ap:0, li:152, lq:-116, pi:185, pq:-130
+id:14, f:0, ch:2, ap:0, li:-19, lq:-147, pi:78, pq:154
+id:15, f:0, ch:38, ap:0, li:-101, lq:137, pi:197, pq:-3
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging meth
+od: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 100
+I: Ranging data ready 100
+
+I: Ranging data get completed for ranging counter 100
+id:0, f:0, ch:41, ap:0, li:-46, lq:158, pi:132, pq:80
+id:1, f:0, ch:8, ap:0, li:-171, lq:96, pi:-145, pq:114
+id:2, f:0, ch:35, ap:0, li:175, lq:-24, pi:-165, pq:-15
+id:3, f:0, ch:17, ap:0, li:130, lq:-106, pi:-38, pq:-154
+id:4, f:0, ch:47, ap:0, li:-175, lq:55, pi:35, pq:-168
+id:5, f:0, ch:14, ap:0, li:-164, lq:-4, pi:103, pq:114
+id:6, f:0, ch:26, ap:0, li:-12, lq:151, pi:-50, pq:134
+id:7, f:0, ch:44, ap:0, li:156, lq:-70, pi:-139, pq:78
+id:8, f:0, ch:5, ap:0, li:166, lq:31, pi:80, pq:-137
+id:9, f:0, ch:50, ap:0, li:-166, lq:14, pi:-20, pq:-157
+id:10, f:0, ch:2, ap:0, li:-96, lq:-120, pi:-26, pq:141
+id:11, f:0, ch:38, ap:0, li:74, lq:152, pi:57, pq:147
+id:12, f:0, ch:11, ap:0, li:127, lq:155, pi:-175, pq:-73
+id:13, f:0, ch:29, ap:0, li:101, lq:-96, pi:-47, pq:-123
+id:14, f:0, ch:20, ap:0, li:-62, lq:-136, pi:103, pq:-94
+id:15, f:0, ch:32, ap:0, li:-162, lq:32, pi:143, pq:56
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging meth
+od: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 101
+I: Ranging data ready 101
+
+I: Ranging data get completed for ranging counter 101
+id:0, f:0, ch:44, ap:0, li:-167, lq:61, pi:157, pq:-55
+id:1, f:0, ch:11, ap:0, li:184, lq:-89, pi:66, pq:-181
+id:2, f:0, ch:32, ap:0, li:-70, lq:-152, pi:108, pq:-113
+id:3, f:0, ch:17, ap:0, li:52, lq:164, pi:-148, pq:65
+id:4, f:0, ch:41, ap:0, li:79, lq:-150, pi:-130, pq:-91
+id:5, f:0, ch:29, ap:0, li:-5, lq:142, pi:-78, pq:106
+id:6, f:0, ch:14, ap:0, li:-3, lq:-170, pi:140, pq:-75
+id:7, f:0, ch:50, ap:0, li:24, lq:-170, pi:-161, pq:23
+id:8, f:0, ch:5, ap:0, li:121, lq:-126, pi:157, pq:42
+id:9, f:0, ch:8, ap:0, li:-200, lq:-2, pi:-103, pq:156
+id:10, f:0, ch:26, ap:0, li:-127, lq:89, pi:52, pq:137
+id:11, f:0, ch:2, ap:0, li:-127, lq:94, pi:-138, pq:-52
+id:12, f:0, ch:20, ap:0, li:-15, lq:151, pi:-73, pq:122
+id:13, f:0, ch:47, ap:0, li:45, lq:-185, pi:-177, pq:16
+id:14, f:0, ch:35, ap:0, li:47, lq:175, pi:-52, pq:162
+id:15, f:0, ch:38, ap:0, li:90, lq:-147, pi:-147, pq:-70
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method
+: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 102
+I: Ranging data ready 102
+
+I: Ranging data get completed for ranging counter 102
+id:0, f:0, ch:26, ap:0, li:-79, lq:-139, pi:110, pq:-100
+id:1, f:0, ch:11, ap:0, li:-61, lq:198, pi:-156, pq:115
+id:2, f:0, ch:35, ap:0, li:46, lq:-178, pi:-76, pq:-156
+id:3, f:0, ch:41, ap:0, li:4, lq:173, pi:117, pq:114
+id:4, f:0, ch:20, ap:0, li:75, lq:135, pi:-105, pq:101
+id:5, f:0, ch:29, ap:0, li:-141, lq:-30, pi:133, pq:12
+id:6, f:0, ch:50, ap:0, li:106, lq:141, pi:159, pq:51
+id:7, f:0, ch:38, ap:0, li:-124, lq:-126, pi:-10, pq:-164
+id:8, f:0, ch:17, ap:0, li:-166, lq:-53, pi:160, pq:33
+id:9, f:0, ch:14, ap:0, li:-173, lq:-8, pi:120, pq:108
+id:10, f:0, ch:32, ap:0, li:-142, lq:93, pi:124, pq:99
+id:11, f:0, ch:47, ap:0, li:-134, lq:142, pi:114, pq:-144
+id:12, f:0, ch:2, ap:0, li:-122, lq:-106, pi:-45, pq:141
+id:13, f:0, ch:5, ap:0, li:2, lq:178, pi:-126, pq:-110
+id:14, f:0, ch:44, ap:0, li:182, lq:-18, pi:-97, pq:142
+id:15, f:0, ch:8, ap:0, li:-101, lq:-175, pi:127, pq:140
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging
+ method: 0.100000 meters (derived from 16 samples)
+I: Subevent result callback 103
+I: Ranging data ready 103
+
+I: Ranging data get completed for ranging counter 103
+id:0, f:0, ch:32, ap:0, li:18, lq:166, pi:-69, pq:140
+id:1, f:0, ch:50, ap:0, li:100, lq:146, pi:141, pq:86
+id:2, f:0, ch:2, ap:0, li:-2, lq:160, pi:-58, pq:-137
+id:3, f:0, ch:38, ap:0, li:-92, lq:147, pi:144, pq:76
+id:4, f:0, ch:29, ap:0, li:-121, lq:-77, pi:133, pq:0
+id:5, f:0, ch:5, ap:0, li:-180, lq:9, pi:-141, pq:90
+id:6, f:0, ch:35, ap:0, li:166, lq:-74, pi:-154, pq:-74
+id:7, f:0, ch:41, ap:0, li:-167, lq:47, pi:153, pq:-54
+id:8, f:0, ch:47, ap:0, li:189, lq:-41, pi:-51, pq:175
+id:9, f:0, ch:20, ap:0, li:145, lq:-56, pi:-98, pq:-109
+id:10, f:0, ch:14, ap:0, li:173, lq:17, pi:-102, pq:-127
+id:11, f:0, ch:8, ap:0, li:132, lq:153, pi:-42, pq:-185
+id:12, f:0, ch:26, ap:0, li:105, lq:116, pi:-143, pq:41
+id:13, f:0, ch:11, ap:0, li:-193, lq:-79, pi:99, pq:167
+id:14, f:0, ch:44, ap:0, li:183, lq:-9, pi:-133, pq:109
+id:15, f:0, ch:17, ap:0, li:129, lq:-117, pi:-4, pq:-164
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 
+0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 104
+I: Ranging data ready 104
+
+I: Ranging data get completed for ranging counter 104
+id:0, f:0, ch:35, ap:0, li:81, lq:158, pi:-45, pq:201
+id:1, f:0, ch:47, ap:0, li:149, lq:115, pi:159, pq:150
+id:2, f:0, ch:17, ap:0, li:168, lq:-21, pi:-157, pq:-124
+id:3, f:0, ch:32, ap:0, li:42, lq:-158, pi:-53, pq:-184
+id:4, f:0, ch:26, ap:0, li:153, lq:-8, pi:-177, pq:-38
+id:5, f:0, ch:20, ap:0, li:75, lq:135, pi:-133, pq:124
+id:6, f:0, ch:8, ap:0, li:100, lq:-173, pi:230, pq:-37
+id:7, f:0, ch:44, ap:0, li:52, lq:169, pi:152, pq:137
+id:8, f:0, ch:2, ap:0, li:90, lq:-130, pi:162, pq:88
+id:9, f:0, ch:50, ap:0, li:-134, lq:107, pi:65, pq:-188
+id:10, f:0, ch:38, ap:0, li:170, lq:14, pi:-121, pq:157
+id:11, f:0, ch:14, ap:0, li:-120, lq:120, pi:4, pq:200
+id:12, f:0, ch:5, ap:0, li:86, lq:-154, pi:202, pq:43
+id:13, f:0, ch:11, ap:0, li:75, lq:189, pi:-240, pq:-6
+id:14, f:0, ch:41, ap:0, li:155, lq:66, pi:-63, pq:186
+id:15, f:0, ch:29, ap:0, li:-73, lq:-121, pi:123, pq:-108
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 
+0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 105
+I: Ranging data ready 105
+
+I: Ranging data get completed for ranging counter 105
+id:0, f:0, ch:26, ap:0, li:152, lq:-18, pi:-122, pq:-76
+id:1, f:0, ch:8, ap:0, li:-195, lq:11, pi:-101, pq:154
+id:2, f:0, ch:47, ap:0, li:18, lq:-187, pi:-175, pq:2
+id:3, f:0, ch:38, ap:0, li:157, lq:-62, pi:-155, pq:32
+id:4, f:0, ch:11, ap:0, li:-20, lq:-201, pi:189, pq:-18
+id:5, f:0, ch:50, ap:0, li:144, lq:85, pi:94, pq:127
+id:6, f:0, ch:29, ap:0, li:-33, lq:-136, pi:98, pq:-87
+id:7, f:0, ch:20, ap:0, li:41, lq:-148, pi:33, pq:-140
+id:8, f:0, ch:5, ap:0, li:62, lq:162, pi:-54, pq:-155
+id:9, f:0, ch:2, ap:0, li:130, lq:83, pi:76, pq:-123
+id:10, f:0, ch:41, ap:0, li:-168, lq:4, pi:131, pq:-85
+id:11, f:0, ch:44, ap:0, li:56, lq:163, pi:69, pq:147
+id:12, f:0, ch:17, ap:0, li:134, lq:-99, pi:-24, pq:-157
+id:13, f:0, ch:14, ap:0, li:42, lq:-164, pi:99, pq:-123
+id:14, f:0, ch:32, ap:0, li:155, lq:46, pi:-153, pq:3
+id:15, f:0, ch:35, ap:0, li:2, lq:-176, pi:3, pq:-164
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.10000
+0 meters (derived from 16 samples)
+
+I: Subevent result callback 106
+I: Ranging data ready 106
+
+I: Ranging data get completed for ranging counter 106
+id:0, f:0, ch:38, ap:0, li:86, lq:-146, pi:-148, pq:-58
+id:1, f:0, ch:17, ap:0, li:-137, lq:93, pi:29, pq:153
+id:2, f:0, ch:14, ap:0, li:-57, lq:155, pi:-82, pq:131
+id:3, f:0, ch:20, ap:0, li:120, lq:-94, pi:-61, pq:-131
+id:4, f:0, ch:26, ap:0, li:-152, lq:-6, pi:129, pq:59
+id:5, f:0, ch:5, ap:0, li:148, lq:86, pi:61, pq:-148
+id:6, f:0, ch:50, ap:0, li:5, lq:168, pi:157, pq:-22
+id:7, f:0, ch:32, ap:0, li:-27, lq:-161, pi:46, pq:-145
+id:8, f:0, ch:41, ap:0, li:45, lq:161, pi:61, pq:144
+id:9, f:0, ch:2, ap:0, li:-107, lq:109, pi:-133, pq:-48
+id:10, f:0, ch:47, ap:0, li:-159, lq:-99, pi:-99, pq:-144
+id:11, f:0, ch:8, ap:0, li:-1, lq:-193, pi:162, pq:81
+id:12, f:0, ch:11, ap:0, li:-171, lq:102, pi:-60, pq:177
+id:13, f:0, ch:29, ap:0, li:-74, lq:-121, pi:116, pq:-64
+id:14, f:0, ch:35, ap:0, li:-14, lq:174, pi:11, pq:163
+id:15, f:0, ch:44, ap:0, li:31, lq:-169, pi:-145, pq:-74
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method:
+ 0.100000 meters (derived from 16 samples)
+I: Subevent result callback 107
+I: Ranging data ready 107
+
+I: Ranging data get completed for ranging counter 107
+id:0, f:0, ch:38, ap:0, li:-121, lq:120, pi:154, pq:40
+id:1, f:0, ch:32, ap:0, li:-165, lq:-24, pi:150, pq:37
+id:2, f:0, ch:47, ap:0, li:-189, lq:4, pi:31, pq:-174
+id:3, f:0, ch:5, ap:0, li:-162, lq:-38, pi:-113, pq:105
+id:4, f:0, ch:14, ap:0, li:51, lq:-151, pi:110, pq:-102
+id:5, f:0, ch:8, ap:0, li:184, lq:-41, pi:138, pq:-111
+id:6, f:0, ch:17, ap:0, li:-16, lq:159, pi:-115, pq:100
+id:7, f:0, ch:50, ap:0, li:-139, lq:98, pi:87, pq:-134
+id:8, f:0, ch:20, ap:0, li:-38, lq:-146, pi:113, pq:-86
+id:9, f:0, ch:11, ap:0, li:190, lq:-42, pi:22, pq:-181
+id:10, f:0, ch:26, ap:0, li:143, lq:49, pi:-134, pq:-50
+id:11, f:0, ch:41, ap:0, li:128, lq:106, pi:-50, pq:155
+id:12, f:0, ch:44, ap:0, li:41, lq:-168, pi:-138, pq:-85
+id:13, f:0, ch:29, ap:0, li:-80, lq:121, pi:-26, pq:132
+id:14, f:0, ch:2, ap:0, li:-140, lq:43, pi:-137, pq:-12
+id:15, f:0, ch:35, ap:0, li:-92, lq:-151, pi:100, pq:-132
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging
+ method: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 108
+I: Ranging data ready 108
+
+I: Ranging data get completed for ranging counter 108
+id:0, f:0, ch:32, ap:0, li:127, lq:-108, pi:-83, pq:-133
+id:1, f:0, ch:14, ap:0, li:-9, lq:155, pi:-131, pq:69
+id:2, f:0, ch:41, ap:0, li:68, lq:156, pi:40, pq:155
+id:3, f:0, ch:35, ap:0li:54, lq:166, pi:-67, pq:150
+id:4, f:0, ch:5, ap:0, li:157, lq:30, pi:116, pq:-92
+id:5, f:0, ch:26, ap:0, li:121, lq:92, pi:-143, pq:-11
+id:6, f:0, ch:29, ap:0, li:70, lq:-128, pi:32, pq:-135
+id:7, f:0, ch:44, ap:0, li:118, lq:123, pi:-1, pq:160
+id:8, f:0, ch:20, ap:0, li:-83, lq:-125, pi:135, pq:-39
+id:9, f:0, ch:47, ap:0, li:-142, lq:-123, pi:-99, pq:-146
+id:10, f:0, ch:50, ap:0, li:-94, lq:141, pi:125, pq:-98
+id:11, f:0, ch:8, ap:0, li:-186, lq:6, pi:-115, pq:129
+id:12, f:0, ch:17, ap:0, li:153, lq:-32, pi:-58, pq:-137
+id:13, f:0, ch:38, ap:0, li:97, lq:139, pi:-13, pq:158
+id:14, f:0, ch:2, ap:0, li:121, lq:71, pi:102, pq:-85
+id:15, f:0, ch:11, ap:0, li:-179, lq:-70, pi:65, pq:167
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.1
+00000 meters (derived from 16 samples)
+
+I: Subevent result callback 109
+I: Ranging data ready 109
+
+I: Ranging data get completed for ranging counter 109
+id:0, f:0, ch:29, ap:0, li:137, lq:-45, pi:-83, pq:-109
+id:1, f:0, ch:14, ap:0, li:163, lq:65, pi:-133, pq:-91
+id:2, f:0, ch:26, ap:0, li:-107, lq:-102, pi:134, pq:-31
+id:3, f:0, ch:50, ap:0, li:8, lq:-164, pi:-150, pq:40
+id:4, f:0, ch:35, ap:0, li:169, lq:-6, pi:-159, pq:12
+id:5, f:1, ch:17, ap:0, li:34, lq:172, pi:-161, pq:57
+id:6, f:0, ch:32, ap:0, li:-67, lq:-149, pi:79, pq:-132
+id:7, f:0, ch:20, ap:0, li:-6, lq:-147, pi:76, pq:-117
+id:8, f:0, ch:2, ap:0, li:135, lq:24, pi:106, pq:-73
+id:9, f:0, ch:38, ap:0, li:146, lq:-79, pi:-153, pq:34
+id:10, f:0, ch:47, ap:0, li:-181, lq:-12, pi:-17, pq:-169
+id:11, f:0, ch:5, ap:0, li:-89, lq:129, pi:-139, pq:-45
+id:12, f:0, ch:8, ap:0, li:171, lq:63, pi:33, pq:-167
+id:13, f:0, ch:41, ap:0, li:134, lq:96, pi:-32, pq:153
+id:14, f:0, ch:44, ap:0, li:92, lq:-137, pi:-155, pq:-4
+id:15, f:0, ch:11, ap:0, li:-107, lq:159, pi:-127, pq:134
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging metho
+d: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 110
+I: Ranging data ready 110
+
+I: Ranging data get completed for ranging counter 110
+id:0, f:0, ch:17, ap:0, li:-147, lq:-37, pi:151, pq:97
+id:1, f:0, ch:20, ap:0, li:33, lq:141, pi:-116, pq:127
+id:2, f:0, ch:26, ap:0, li:45, lq:-137, pi:29, pq:-168
+id:3, f:0, ch:32, ap:0, li:-104, lq:122, pi:107, pq:152
+id:4, f:0, ch:2, ap:0, li:-130, lq:45, pi:-161, pq:3
+id:5, f:0, ch:11, ap:0, li:71, lq:-172, pi:180, pq:-126
+id:6, f:0, ch:41, ap:0, li:-131, lq:97, pi:189, pq:-28
+id:7, f:0, ch:5, ap:0, li:-48, lq:-148, pi:64, pq:171
+id:8, f:0, ch:38, ap:0, li:120, lq:109, pi:-8, pq:189
+id:9, f:0, ch:8, ap:0, li:85, lq:158, pi:-108, pq:-185
+id:10, f:0, ch:50, ap:0, li:-5, lq:161, pi:177, pq:-60
+id:11, f:0, ch:47, ap:0, li:78, lq:157, pi:187, pq:61
+id:12, f:0, ch:35, ap:0, li:-168, lq:-5, pi:193, pq:-34
+id:13, f:0, ch:29, ap:0, li:-136, lq:-45, pi:161, pq:41
+id:14, f:0, ch:44, ap:0, li:5, lq:-162, pi:-160, pq:-94
+id:15, f:0, ch:14, ap:0, li:-77, lq:-131, pi:177, pq:-22
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0
+.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 111
+I: Ranging data ready 111
+
+I: Ranging data get completed for ranging counter 111
+id:0, f:0, ch:8, ap:0, li:175, lq:40, pi:42, pq:-163
+id:1, f:0, ch:5, ap:0, li:150, lq:32, pi:93, pq:-111
+id:2, f:0, ch:32, ap:0, li:150, lq:50, pi:-146, pq:31
+id:3, f:0, ch:17, ap:0, li:26, lq:-148, pi:75, pq:-120
+id:4, f:0, ch:41, ap:0, li:149, lq:60, pi:-46, pq:144
+id:5, f:0, ch:44, ap:0, li:-75, lq:-142, pi:-81, pq:-127
+id:6, f:0, ch:2, ap:0, li:45, lq:128, pi:-22, pq:-125
+id:7, f:0, ch:47, ap:0, li:151, lq:89, pi:98, pq:132
+id:8, f:0, ch:35, ap:0, li:-58, lq:-156, pi:31, pq:-152
+id:9, f:0, ch:29, ap:0, li:108, lq:-90, pi:-42, pq:-126
+id:10, f:0, ch:50, ap:0, li:-75, lq:140, pi:110, pq:-102
+id:11, f:0, ch:11, ap:0, li:-171, lq:-74, pi:117, pq:127
+id:12, f:0, ch:26, ap:0, li:-141, lq:31, pi:99, pq:90
+id:13, f:0, ch:38, ap:0, li:-161, lq:-14, pi:105, pq:-109
+id:14, f:0, ch:14, ap:0, li:9, lq:-151, pi:102, pq:-98
+id:15, f:0, ch:20, ap:0, li:40, lq:140, pi:-96, pq:98
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.1
+00000 meters (derived from 16 samples)
+
+I: Subevent result callback 112
+I: Ranging data ready 112
+
+I: Ranging data get completed for ranging counter 112
+id:0, f:0, ch:32, ap:0, li:161, lq:-12, pi:-146, pq:-44
+id:1, f:0, ch:38, ap:0, li:-162, lq:-15, pi:117, pq:-98
+id:2, f:0, ch:29, ap:0, li:-15, lq:-143, pi:98, pq:-91
+id:3, f:0, ch:35, ap:0, li:-36, lq:163, pi:26, pq:155
+id:4, f:0, ch:41, ap:0, li:69, lq:-149, pi:-143, pq:-60
+id:5, f:0, ch:17, ap:0, li:-135, lq:-66, pi:126, pq:64
+id:6, f:0, ch:47, ap:0, li:89, lq:154, pi:134, pq:99
+id:7, f:0, ch:50, ap:0, li:98, lq:-128, pi:-112, pq:102
+id:8, f:0, ch:26, ap:0, li:-86, lq:-119, pi:130, pq:-38
+id:9, f:0, ch:14, ap:0, li:106, lq:-105, pi:40, pq:-136
+id:10, f:0, ch:8, ap:0, li:176, lq:-29, pi:125, pq:-113
+id:11, f:0, ch:44, ap:0, li:-107, lq:122, pi:151, pq:-7
+id:12, f:0, ch:11, ap:0, li:-157, lq:97, pi:-73, pq:157
+id:13, f:0, ch:2, ap:0, li:-109, lq:-78, pi:-74, pq:99
+id:14, f:0, ch:20, ap:0, li:-78, lq:-125, pi:133, pq:-35
+id:15, f:0, ch:5, ap:0, li:130, lq:76, pi:73, pq:-122
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging meth
+od: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 113
+I: Ranging data ready 113
+
+I: Ranging data get completed for ranging counter 113
+id:0, f:0, ch:50, ap:0, li:-158, lq:38, pi:12, pq:-152
+id:1, f:0, ch:17, ap:0, li:149, lq:-11, pi:-77, pq:-117
+id:2, f:0, ch:32, ap:0, li:-162, lq:-6, pi:151, pq:13
+id:3, f:0, ch:20, ap:0, li:-147, lq:-18, pi:119, pq:70
+id:4, f:0, ch:47, ap:0, li:21, lq:-176, pi:-174, pq:9
+id:5, f:0, ch:29, ap:0, li:144, lq:1, pi:-111, pq:-78
+id:6, f:0, ch:11, ap:0, li:141, lq:116, pi:-123, pq:-123
+id:7, f:0, ch:26, ap:0, li:-95, lq:-112, pi:133, pq:-29
+id:8, f:0, ch:5, ap:0, li:105, lq:-109, pi:135, pq:38
+id:9, f:0, ch:44, ap:0, li:136, lq:-90, pi:-141, pq:59
+id:10, f:0, ch:2, ap:0, li:-132, lq:-18, pi:-109, pq:58
+id:11, f:0, ch:8, ap:0, li:52, lq:169, pi:-95, pq:-137
+id:12, f:0, ch:41, ap:0, li:-120, lq:112, pi:154, pq:-6
+id:13, f:0, ch:35, ap:0, li:-62, lq:155, pi:67, pq:142
+id:14, f:0, ch:38, ap:0, li:155, lq:51, pi:-83, pq:127
+id:15, f:0, ch:14, ap:0, li:24, lq:146, pi:-130, pq:52
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0
+.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 114
+I: Ranging data ready 114
+
+I: Ranging data get completed for ranging counter 114
+id:0, f:0, ch:38, ap:0, li:146, lq:65, pi:-66, pq:175
+id:1, f:0, ch:20, ap:0, li:117, lq:-90, pi:-75, pq:-157
+id:2, f:0, ch:47, ap:0, li:114, lq:135, pi:173, pq:108
+id:3, f:0, ch:14, ap:0 li:87, lq:-121, pi:56, pq:-166
+id:4, f:0, ch:44, ap:0, li:157, lq:-29, pi:-118, pq:143
+id:5, f:0, ch:29, ap:0, li:-79, lq:-120, pi:149, pq:-72
+id:6, f:0, ch:8, ap:0, li:-103, lq:-144, pi:78, pq:191
+id:7, f:0, ch:11, ap:0, li:15, lq:183, pi:-213, pq:37
+id:8, f:0, ch:5, ap:0, li:-134, lq:72, pi:-178, pq:23
+id:9, f:0, ch:2, ap:0, li:-95, lq:93, pi:-145, pq:-60
+id:10, f:0, ch:50, ap:0, li:-154, lq:45, pi:4, pq:-186
+id:11, f:0, ch:26, ap:0, li:-110, lq:-94, pi:162, pq:-40
+id:12, f:0, ch:32, ap:0, li:133, lq:89, pi:-164, pq:90
+id:13, f:0, ch:41, ap:0, li:-130, lq:97, pi:187, pq:-32
+id:14, f:0, ch:17, ap:0, li:-147, lq:16, pi:103, pq:140
+id:15, f:0, ch:35, ap:0, li:-94, lq:136, pi:140, pq:131
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 
+0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 115
+I: Ranging data ready 115
+
+I: Ranging data get completed for ranging counter 115
+id:0, f:0, ch:20, ap:0, li:-97, lq:154, pi:81, pq:151
+id:1, f:0, ch:8, ap:0, li:-143, lq:-168, pi:146, pq:145
+id:2, f:0, ch:38, ap:0, li:-55, lq:185, pi:181, pq:7
+id:3, f:0, ch:47, ap:0, li:20, lq:-212, pi:-164, pq:114
+id:4, f:0, ch:44, ap:0, li:-53, lq:-186, pi:-172, pq:-58
+id:5, f:0, ch:14, ap:0, li:-175, lq:-61, pi:171, pq:27
+id:6, f:0, ch:41, ap:0, li:-178, lq:83, pi:120, pq:-139
+id:7, f:0, ch:5, ap:0, li:-184, lq:-50, pi:-43, pq:171
+id:8, f:0, ch:32, ap:0, li:-139, lq:136, pi:167, pq:73
+id:9, f:0, ch:2, ap:0, li:12, lq:165, pi:-101, pq:-117
+id:10, f:0, ch:11, ap:0, li:-102, lq:-204, pi:210, pq:-36
+id:11, f:0, ch:50, ap:0, li:121, lq:148, pi:179, pq:-25
+id:12, f:0, ch:35, ap:0, li:-202, lq:2, pi:148, pq:-118
+id:13, f:0, ch:17, ap:0, li:109, lq:-146, pi:-58, pq:-162
+id:14, f:0, ch:29, ap:0, li:-84, lq:151, pi:58, pq:151
+id:15, f:0, ch:26, ap:0, li:58, lq:165, pi:-52, pq:156
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging m
+ethod: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 116
+I: Ranging data ready 116
+
+I: Ranging data get completed for ranging counter 116
+id:0, f:0, ch:8, ap:0, li:-36, lq:167, pi:-202, pq:3
+id:1, f:0, ch:29, ap:0, li:-130, lq:41, pi:138, pq:79
+id:2, f:0, ch:17, ap:0, li:-135, lq:-45, pi:163, pq:26
+id:3, f:0, ch:50, ap:0, li:-115, lq:98, pi:12, pq:-175
+id:4, f:0, ch:32, ap:0, li:10, lq:-155, pi:-63, pq:-170
+id:5, f:0, ch:20, ap:0, li:101, lq:-104, pi:-97, pq:-140
+id:6, f:0, ch:38, ap:0, li:52, lq:142, pi:119, pq:130
+id:7, f:0, ch:14, ap:0, li:-99, lq:-106, pi:166, pq:-35
+id:8, f:0, ch:41, ap:0, li:-39, lq:-151, pi:-141, pq:-110
+id:9, f:0, ch:35, ap:0, li:-47, lq:-152, pi:-52, pq:-177
+id:10, f:0, ch:11, ap:0, li:122, lq:129, pi:-204, pq:-48
+id:11, f:0, ch:44, ap:0, li:141, lq:51, pi:17, pq:173
+id:12, f:0, ch:5, ap:0, li:133, lq:-61, pi:145, pq:-92
+id:13, f:0, ch:2, ap:0, li:38, lq:-123, pi:137, pq:60
+id:14, f:0, ch:26, ap:0, li:133, lq:-36, pi:-152, pq:-57
+id:15, f:0, ch:47, ap:0, li:65, lq:155, pi:195, pq:11
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging metho
+d: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 117
+I: Ranging data ready 117
+
+I: Ranging data get completed for ranging counter 117
+id:0, f:0, ch:44, ap:0, li:134, lq:75, pi:43, pq:172
+id:1, f:0, ch:50, ap:0, li:40, lq:-149, pi:-106, pq:145
+id:2, f:0, ch:29, ap:0, li:104, lq:-94, pi:-83, pq:-141
+id:3, f:0, ch:41, ap:0, li:-155, lq:-29, pi:40, pq:-179
+id:4, f:0, ch:14, ap:0, li:-132, lq:-59, pi:164, pq:43
+id:5, f:0, ch:26, ap:0, li:-40, lq:135, pi:13, pq:163
+id:6, f:0, ch:5, ap:0, li:-56, lq:133, pi:-165, pq:-50
+id:7, f:0, ch:11, ap:0, li:179, lq:4, pi:-108, pq:-183
+id:8, f:0, ch:38, ap:0, li:-139, lq:-71, pi:3, pq:-182
+id:9, f:0, ch:17, ap:0, li:-137, lq:-39, pi:161, pq:41
+id:10, f:0, ch:2, ap:0, li:-127, lq:-15, pi:-98, pq:111
+id:11, f:0, ch:20, ap:0, li:105, lq:102, pi:-150, pq:82
+id:12, f:0, ch:32, ap:0, li:114, lq:-109, pi:-165, pq:-86
+id:13, f:0, ch:8, ap:0, li:109, lq:-132, pi:184, pq:-80
+id:14, f:0, ch:35, ap:0, li:-157, lq:36, pi:180, pq:-53
+id:15, f:0, ch:47, ap:0, li:94, lq:143, pi:196, pq:26
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging metho
+d: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 118
+I: Ranging data ready 118
+
+I: Ranging data get completed for ranging counter 118
+id:0, f:0, ch:20, ap:0, li:-143, lq:-39, pi:131, pq:44
+id:1, f:0, ch:44, ap:0, li:18, lq:-160, pi:-131, pq:-73
+id:2, f:0, ch:50, ap:0, li:94, lq:129, pi:140, pq:54
+id:3, f:0, ch:26, ap:0, li:-124, lq:-73, pi:134, pq:-7
+id:4, f:0, ch:14, ap:0, li:102, lq:104, pi:-135, pq:-27
+id:5, f:0, ch:47, ap:0, li:32, lq:-175, pi:-161, pq:40
+id:6, f:0, ch:5, ap:0, li:-106, lq:105, pi:-135, pq:-32
+id:7, f:0, ch:8, ap:0, li:172, lq:-32, pi:114, pq:-116
+id:8, f:0, ch:2, ap:0, li:71, lq:108, pi:20, pq:-120
+id:9, f:0, ch:32, ap:0, li:160, lq:10, pi:-143, pq:-7
+id:10, f:0, ch:29, ap:0, li:144, lq:16, pi:-115, pq:-72
+id:11, f:0, ch:17, ap:0, li:-142, lq:-39, pi:112, pq:77
+id:12, f:0, ch:38, ap:0, li:154, lq:21, pi:-100, pq:109
+id:13, f:0, ch:41, ap:0, li:-95, lq:-133, pi:-20, pq:-151
+id:14, f:0, ch:11, ap:0, li:-75, lq:165, pi:-145, pq:90
+id:15, f:0, ch:35, ap:0, li:-103, lq:-135, pi:75, pq:-137
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging met
+hod: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 119
+I: Ranging data ready 119
+
+I: Ranging data get completed for ranging counter 119
+id:0, f:0, ch:2, ap:0, li:-115, lq:-121, pi:-31, pq:153
+id:1, f:0, ch:26, ap:0, li:68, lq:-165, pi:-18, pq:-167
+id:2, f:0, ch:29, ap:0, li:-160, lq:-75, pi:163, pq:-20
+id:3, f:0, ch:41, ap:0, li:188, lq:68, pi:-17, pq:186
+id:4, f:0, ch:20, ap:0, li:-88, lq:162, pi:24, pq:172
+id:5, f:0, ch:5, ap:0, li:-186, lq:-42, pi:-88, pq:155
+id:6, f:0, ch:50, ap:0, li:-14, lq:197, pi:148, pq:-113
+id:7, f:0, ch:44, ap:0, li:27, lq:200, pi:165, pq:75
+id:8, f:0, ch:17, ap:0, li:-150, lq:-105, pi:171, pq:-8
+id:9, f:0, ch:35, ap:0, li:196, lq:57, pi:-142, pq:130
+id:10, f:0, ch:38, ap:0, li:23, lq:-196, pi:-163, pq:-89
+id:11, f:0, ch:47, ap:0, li:-159, lq:149, pi:68, pq:-194
+id:12, f:0, ch:14, ap:0, li:118, lq:-143, pi:3, pq:-175
+id:13, f:0, ch:32, ap:0, li:-97, lq:172, pi:123, pq:138
+id:14, f:0, ch:11, ap:0, li:-226, lq:-39, pi:118, pq:179
+id:15, f:0, ch:8, ap:0, li:-200, lq:94, pi:-149, pq:143
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging m
+ethod: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 120
+I: Ranging data ready 120
+
+I: Ranging data get completed for ranging counter 120
+id:0, f:0, ch:17, ap:0, li:-169, lq:-67, pi:167, pq:34
+id:1, f:0, ch:11, ap:0, li:-158, lq:-164, pi:201, pq:69
+id:2, f:0, ch:2, ap:0, li:104, lq:-131, pi:151, pq:36
+id:3, f:0, ch:5, ap:0, li:-187, lq:-38, pi:-88, pq:155
+id:4, f:0, ch:35, ap:0, li:185, lq:72, pi:-128, pq:139
+id:5, f:0, ch:50, ap:0, li:55, lq:185, pi:174, pq:-51
+id:6, f:0, ch:20, ap:0, li:25, lq:181, pi:-68, pq:157
+id:7, f:0, ch:26, ap:0, li:81, lq:-155, pi:-43, pq:-159
+id:8, f:0, ch:32, ap:0, li:-156, lq:116, pi:162, pq:79
+id:9, f:0, ch:14, ap:0, li:137, lq:-124, pi:-12, pq:-173
+id:10, f:0, ch:41, ap:0, li:-122, lq:-152, pi:-69, pq:-172
+id:11, f:0, ch:47, ap:0, li:68, lq:201, pi:200, pq:12
+id:12, f:0, ch:8, ap:0, li:-199, lq:-95, pi:13, pq:204
+id:13, f:0, ch:38, ap:0, li:86, lq:173, pi:89, pq:157
+id:14, f:0, ch:44, ap:0, li:18, lq:-192, pi:-176, pq:-42
+id:15, f:0, ch:29, ap:0, li:91, lq:144, pi:-123, pq:103
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging metho
+d: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 121
+I: Ranging data ready 121
+
+I: Ranging data get completed for ranging counter 121
+id:0, f:0, ch:11, ap:0, li:161, lq:-67, pi:14, pq:-163
+id:1, f:0, ch:38, ap:0, li:5, lq:-151, pi:-89, pq:-110
+id:2, f:0, ch:20, ap:0, li:43, lq:131, pi:-90, pq:93
+id:3, f:0, ch:50, ap:0, li:133, lq:-86, pi:-65, pq:136
+id:4, f:0, ch:14, ap:0, li:137, lq:2, pi:-86, pq:-98
+id:5, f:0, ch:17, ap:0, li:-41, lq:-130, pi:111, pq:-65
+id:6, f:0, ch:29, ap:0, li:82, lq:101, pi:-119, pq:32
+id:7, f:0, ch:8, ap:0, li:-85, lq:-144, pi:89, pq:128
+id:8, f:0, ch:44, ap:0, li:42, lq:153, pi:88, pq:119
+id:9, f:0, ch:35, ap:0, li:-82, lq:134, pi:89, pq:118
+id:10, f:0, ch:41, ap:0, li:135, lq:-78, pi:-145, pq:27
+id:11, f:0, ch:2, ap:0, li:117, lq:45, pi:65, pq:-98
+id:12, f:0, ch:32, ap:0, li:94, lq:-116, pi:-68, pq:-123
+id:13, f:0, ch:26, ap:0, li:71, lq:-113, pi:-10, pq:-126
+id:14, f:0, ch:47, ap:0, li:160, lq:-68, pi:-68, pq:148
+id:15, f:0, ch:5, ap:0, li:75, lq:122, pi:-22, pq:-133
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.10000
+0 meters (derived from 16 samples)
+
+I: Subevent result callback 122
+I: Ranging data ready 122
+
+I: Ranging data get completed for ranging counter 122
+id:0, f:0, ch:20, ap:0, li:-72, lq:-117, pi:110, pq:-116
+id:1, f:0, ch:47, ap:0, li:6, lq:-178, pi:-202, pq:26
+id:2, f:0, ch:26, ap:0, li:75, lq:97, pi:-106, pq:97
+id:3, f:1, ch:14, ap:0, li:0, lq:135, pi:-132, pq:129
+id:4, f:0, ch:8, ap:0, li:5, lq:160, pi:-184, pq:-42
+id:5, f:0, ch:44, ap:0, li:122, lq:106, pi:12, pq:188
+id:6, f:0, ch:32, ap:0, li:9, lq:140, pi:-22, pq:161
+id:7, f:0, ch:17, ap:0, li:-79, lq:106, pi:31, pq:153
+id:8, f:0, ch:2, ap:0, li:-110, lq:-61, pi:-45, pq:141
+id:9, f:0, ch:38, ap:0, li:-140, lq:26, pi:138, pq:-95
+id:10, f:0, ch:5, ap:0, li:114, lq:82, pi:-16, pq:-165
+id:11, f:0, ch:11, ap:0, li:-40, lq:-171, pi:198, pq:-48
+id:12, f:0, ch:35, ap:0, li:155, lq:-10, pi:-177, pq:35
+id:13, f:0, ch:29, ap:0, li:113, lq:-42, pi:-96, pq:-105
+id:14, f:0, ch:41, ap:0, li:-146, lq:43, pi:159, pq:-74
+id:15, f:0, ch:50, ap:0, li:164, lq:37, pi:84, pq:176
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.1000
+00 meters (derived from 16 samples)
+
+I: Subevent result callback 123
+I: Ranging data ready 123
+
+I: Ranging data get completed for ranging counter 123
+id:0, f:0, ch:5, ap:0, li:-110, lq:-141, pi:93, pq:137
+id:1, f:0, ch:32, ap:0, li:-130, lq:116, pi:140, pq:82
+id:2, f:0, ch:29, ap:0, li:-136, lq:65, pi:107, pq:90
+id:3, f:0, ch:38, ap:0, li:-178, lq:-19, pi:69, pq:-153
+id:4, f:0, ch:47, ap:0, li:-136, lq:-179, pi:-199, pq:-73
+id:5, f:0, ch:50, ap:0, li:19, lq:212, pi:188, pq:-75
+id:6, f:0, ch:20, ap:0, li:7, lq:171, pi:7, pq:162
+id:7, f:0, ch:2, ap:0, li:-145, lq:56, pi:-123, pq:77
+id:8, f:0, ch:8, ap:0, li:33, lq:-199, pi:188, pq:-16
+id:9, f:0, ch:17, ap:0, li:110, lq:-129, pi:-79, pq:-140
+id:10, f:0, ch:14, ap:0, li:125, lq:-131, pi:-62, pq:-160
+id:11, f:0, ch:11, ap:0, li:184, lq:-118, pi:-41, pq:-202
+id:12, f:0, ch:26, ap:0, li:-92, lq:-126, pi:74, pq:-126
+id:13, f:0, ch:44, ap:0, li:80, lq:191, pi:148, pq:126
+id:14, f:0, ch:35, ap:0, li:-130, lq:-146, pi:35, pq:-181
+id:15, f:0, ch:41, ap:0, li:190, lq:17, pi:-78, pq:161
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging me
+thod: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 124
+I: Ranging data ready 124
+
+I: Ranging data get completed for ranging counter 124
+id:0, f:0, ch:11, ap:0, li:-191, lq:-100, pi:162, pq:122
+id:1, f:0, ch:26, ap:0, li:-122, lq:91, pi:94, pq:106
+id:2, f:0, ch:5, ap:0, li:-128, lq:-128, pi:18, pq:167
+id:3, f:0, ch:2, ap:0, li:-118, lq:-105, pi:-31, pq:143
+id:4, f:0, ch:17, ap:0, li:-102, lq:134, pi:28, pq:156
+id:5, f:0, ch:8, ap:0, li:50, lq:-196, pi:189, pq:5
+id:6, f:0, ch:35, ap:0, li:108, lq:-164, pi:-121, pq:-139
+id:7, f:0, ch:41, ap:0, li:-7, lq:189, pi:110, pq:140
+id:8, f:0, ch:44, ap:0, li:149, lq:-147, pi:-197, pq:9
+id:9, f:0, ch:14, ap:0, li:-175, lq:-49, pi:157, pq:66
+id:10, f:0, ch:32, ap:0, li:-17, lq:170, pi:-4, pq:160
+id:11, f:0, ch:50, ap:0, li:164, lq:-135, pi:-120, pq:162
+id:12, f:0, ch:47, ap:0, li:163, lq:-155, pi:-139, pq:159
+id:13, f:0, ch:29, ap:0, li:104, lq:-104, pi:-40, pq:-131
+id:14, f:0, ch:38, ap:0, li:153, lq:92, pi:-57, pq:158
+id:15, f:0, ch:20, ap:0, li:164, lq:-36, pi:-146, pq:-64
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging
+ method: 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 125
+I: Ranging data ready 125
+
+I: Ranging data get completed for ranging counter 125
+id:0, f:0, ch:47, ap:0, li:-73, lq:-173, pi:-115, pq:-132
+id:1, f:0, ch:41, ap:0, li:-135, lq:-82, pi:108, pq:-100
+id:2, f:0, ch:17, ap:0, li:-130, lq:-38, pi:111, pq:62
+id:3, f:0, ch:32, ap:0, li:-29, lq:135, pi:-48, pq:119
+id:4, f:0, ch:50, ap:0, li:149, lq:-97, pi:-143, pq:88
+id:5, f:0, ch:11, ap:0, li:171, lq:12, pi:-21, pq:-160
+id:6, f:0, ch:5, ap:0, li:113, lq:-87, pi:133, pq:9
+id:7, f:0, ch:14, ap:0, li:-137, lq:-51, pi:106, pq:86
+id:8, f:0, ch:26, ap:0, li:-48, lq:113, pi:-33, pq:109
+id:9, f:0, ch:38, ap:0, li:140, lq:43, pi:-122, pq:67
+id:10, f:0, ch:8, ap:0, li:150, lq:54, pi:43, pq:-144
+id:11, f:0, ch:2, ap:0, li:100, lq:-74, pi:107, pq:40
+id:12, f:0, ch:29, ap:0, li:-111, lq:-44, pi:91, pq:62
+id:13, f:0, ch:20, ap:0, li:-64, lq:117, pi:-12, pq:125
+id:14, f:0, ch:44, ap:0, li:157, lq:75, pi:-114, pq:118
+id:15, f:0, ch:35, ap:0, li:141, lq:-74, pi:-104, pq:-108
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method:
+ 0.100000 meters (derived from 16 samples)
+
+I: Subevent result callback 126
+I: Ranging data ready 126
+
+I: Ranging data get completed for ranging counter 126
+id:0, f:0, ch:20, ap:0, li:-8, lq:136, pi:-109, pq:-73
+id:1, f:0, ch:47, ap:0, li:185, lq:20, pi:-151, pq:-89
+id:2, f:0, ch:38, ap:0, li:-144, lq:-30, pi:23, pq:136
+id:3, f:0, ch:32, ap:0, li:53, lq:-127, pi:119, pq:51
+id:4, f:0, ch:2, ap:0, li:102, lq:-78, pi:-63, pq:102
+id:5, f:1, ch:17, ap:0, li:-120, lq:32, pi:-119, pq:33
+id:6, f:0, ch:50, ap:0, li:105, lq:-140, pi:-1, pq:-165
+id:7, f:0, ch:26, ap:0, li:-119, lq:35, pi:-105, pq:53
+id:8, f:0, ch:41, ap:0, li:71, lq:138, pi:-126, pq:-76
+id:9, f:0, ch:5, ap:0, li:-87, lq:-119, pi:-133, pq:-38
+id:10, f:0, ch:11, ap:0, li:166, lq:-48, pi:136, pq:83
+id:11, f:0, ch:35, ap:0, li:157, lq:31, pi:46, pq:-143
+id:12, f:0, ch:29, ap:0, li:-31, lq:113, pi:-80, pq:-77
+id:13, f:1, ch:14, ap:0, li:130, lq:93, pi:53, pq:-137
+id:14, f:0, ch:44, ap:0, li:45, lq:-167, pi:142, pq:-79
+id:15, f:0, ch:8, ap:0, li:46, lq:157, pi:137, pq:-68
+I: Estimated distance to reflector:
+I: - Phase-Based Ranging method: 0.
+100000 meters (derived from 16 samples)
+
