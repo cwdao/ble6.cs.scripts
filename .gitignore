@@ -162,3 +162,7 @@ cython_debug/
 # temporary/
 *.pdf
 *.svg
+*.csv
+*.json
+*.xlsx
+*.svg
