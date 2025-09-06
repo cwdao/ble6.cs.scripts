@@ -166,3 +166,8 @@ cython_debug/
 *.json
 *.xlsx
 *.svg
+*.txt
+*.csv
+*.jsonl
+*.npy
+*.dat
